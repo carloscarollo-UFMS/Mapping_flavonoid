@@ -32,4 +32,4 @@ data/wfo/classification.tsv
 mongo/subset_minor_flavonoids_V.bson
 mongo/subset_minor_flavonoids_V.metadata.json
 mongo/lotusUniqueNaturalProduct.bson
-mongo/lotusUniqueNaturalProduct.metadata.json
+mongo/lotusUniqueNaturalProduct.metadata.jsondata/wfo/classification.tsv
