@@ -1,8 +1,8 @@
 # Comparative flavonoid chemotaxonomy across plant lineages reveals structural specialization and target-dependent functional patterns
 
-This repository contains the code and supporting data resources associated with the manuscript:
+This repository contains the code and supporting resources associated with the manuscript:
 
-**Comparative flavonoid chemotaxonomy across plant lineages reveals structural specialization and target-dependent functional patterns**
+**Comparative flavonoid chemotonomy across plant lineages reveals structural specialization and target-dependent functional patterns**
 
 The workflow integrates:
 
@@ -28,16 +28,23 @@ The analytical workflow is implemented in **R** and **Python**.
 - `scripts/Part III - Figures_Stats.R`
 - `scripts/Tree_APG_ITOL.R`
 
-### Required files
+### Files included in this repository
 
-- `inputs/classification.tsv`
-- `mongo/subset_minor_flavonoids_V.bson`
-- `mongo/subset_minor_flavonoids_V.metadata.json`
+- `README.md`
+- `.gitignore`
+- `scripts/`
+- lightweight auxiliary files required by the workflow
+- `phylo_outputs_FINAL/APG_clade_assignments.csv` (if distributed in the repository)
 
-### Additional files for full reproduction of Part II global context
+### Large files distributed separately
 
-- `mongo/lotusUniqueNaturalProduct.bson`
-- `mongo/lotusUniqueNaturalProduct.metadata.json`
+Because of GitHub file size limits, large files are distributed separately via public Google Drive links rather than stored directly in this repository. These include:
+
+- `classification.tsv`
+- `subset_minor_flavonoids_V.bson`
+- `subset_minor_flavonoids_V.metadata.json`
+- `lotusUniqueNaturalProduct.bson`
+- `lotusUniqueNaturalProduct.metadata.json`
 
 ---
 
@@ -46,6 +53,7 @@ The analytical workflow is implemented in **R** and **Python**.
 ```text
 .
 ├─ README.md
+├─ .gitignore
 ├─ scripts/
 │  ├─ Main_Pipeline_end.R
 │  ├─ Part I_Extraction.R
@@ -54,12 +62,7 @@ The analytical workflow is implemented in **R** and **Python**.
 │  ├─ Part III - Figures_Stats.R
 │  └─ Tree_APG_ITOL.R
 ├─ inputs/
-│  └─ classification.tsv
 ├─ mongo/
-│  ├─ subset_minor_flavonoids_V.bson
-│  ├─ subset_minor_flavonoids_V.metadata.json
-│  ├─ lotusUniqueNaturalProduct.bson
-│  └─ lotusUniqueNaturalProduct.metadata.json
 ├─ phylo_outputs_FINAL/
 │  └─ APG_clade_assignments.csv
 └─ outputs/
@@ -157,6 +160,55 @@ mongodb://127.0.0.1:27017
 
 ---
 
+## External data downloads
+
+Large files required by the workflow are distributed separately from GitHub.
+
+### World Flora Online backbone
+
+Taxonomic normalization in Part I uses the World Flora Online backbone through `classification.tsv`.
+
+Download it from the public folder associated with this project and place it locally at:
+
+```text
+data/wfo/classification.tsv
+```
+
+Public folder:
+```text
+https://drive.google.com/drive/folders/1Vln0kwsQZpmy7CIRpSkIFOaev6HUvE6S?usp=sharing
+```
+
+Alternatively, provide an explicit path through `cfg$wfo_csv_path` in `Main_Pipeline_end.R`.
+
+Example:
+
+```r
+wfo_csv_path = "C:/Users/Carollo/Documents/Maira_Bio/data/wfo/classification.tsv"
+```
+
+### MongoDB dumps
+
+The MongoDB dump files required for reproduction are also distributed separately because of file size limits.
+
+After download, place them locally in:
+
+```text
+mongo/
+```
+
+Expected files:
+
+- `mongo/subset_minor_flavonoids_V.bson`
+- `mongo/subset_minor_flavonoids_V.metadata.json`
+
+Optional but required for full reproduction of the global-context layer in Part II:
+
+- `mongo/lotusUniqueNaturalProduct.bson`
+- `mongo/lotusUniqueNaturalProduct.metadata.json`
+
+---
+
 ## Important note about Part II
 
 `subset_minor_flavonoids_V` is sufficient for the subset-based workflow and for Part I.
@@ -171,26 +223,6 @@ Therefore:
 
 ---
 
-## World Flora Online input
-
-Taxonomic normalization in Part I uses the World Flora Online backbone through `classification.tsv`.
-
-Place the file at:
-
-```text
-inputs/classification.tsv
-```
-
-Alternatively, provide an explicit path through `cfg$wfo_csv_path` in `Main_Pipeline_end.R`.
-
-Example:
-
-```r
-wfo_csv_path = "C:/Users/Carollo/Documents/Maira_Bio/data/wfo/classification.tsv"
-```
-
----
-
 ## Part III macro-group mapping
 
 Part III requires a family-level mapping table with three columns:
@@ -199,7 +231,7 @@ Part III requires a family-level mapping table with three columns:
 2. `color`
 3. `macro_group`
 
-In the current version of the script, this file is handled automatically:
+In the current version of the script, this mapping is handled automatically:
 
 - if `groups.xlsx` already exists, it is used directly;
 - if it does not exist, Part III searches for `APG_clade_assignments.csv`;
@@ -217,7 +249,7 @@ This file is produced by `Tree_APG_ITOL.R` and provides the family identity, cla
 
 ## Workflow logic
 
-The current workflow is organized as follows:
+The workflow is organized as follows:
 
 1. **Part I** extracts, curates, and normalizes records from MongoDB
 2. **Part II** prepares the flavonoid subset for structural annotation and integrates bioactivity metadata
@@ -298,6 +330,11 @@ This repository provides the resources needed to reproduce the subset-based comp
 Complete reproduction of the **global occurrence context** used in Part II additionally depends on the MongoDB collection `lotusUniqueNaturalProduct`.
 
 The macro-group mapping used by Part III is automatically reproducible from the APG assignment export, removing the need for a manually supplied `groups.xlsx` file when `APG_clade_assignments.csv` is available.
+
+Because several core input files exceed GitHub size limits, the workflow is split between:
+
+- **GitHub** for code, documentation, and lightweight auxiliary files
+- **Google Drive** for large datasets and database dumps
 
 ---
 
