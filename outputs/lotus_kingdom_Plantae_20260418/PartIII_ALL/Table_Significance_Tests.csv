@@ -1,0 +1,27 @@
+"Target_Category_Macro",".y.","group1","group2","n1","n2","statistic","p","p.adj","p.adj.signif","xy.position"
+"Cell Signaling & Survival","pActivity","Simple","Glycosylated",2366,10,8053,0.079,1,"ns",9
+"Cell Signaling & Survival","pActivity","Simple","Methoxylated",2366,239,106954.5,0.00000000000000000000000000000000000000000000000000000000219,0.00000000000000000000000000000000000000000000000000000005694,"****",9
+"Cell Signaling & Survival","pActivity","Simple","Prenylated",2366,166,225589,0.001,0.026,"*",9
+"Gene Regulation","pActivity","Simple","Methoxylated",1657,491,589212,0.000000000000000000000000000000000000000000000000000485,0.00000000000000000000000000000000000000000000000001261,"****",9
+"Gene Regulation","pActivity","Simple","Prenylated",1657,90,75825,0.785,1,"ns",9
+"General Assays & Safety","pActivity","Simple","Glycosylated",5080,80,92798.5,0.000000000000000059,0.000000000000001534,"****",9
+"General Assays & Safety","pActivity","Simple","Methoxylated",5080,683,1119767.5,0.00000000000000000000000000000000000000000000000000193,0.00000000000000000000000000000000000000000000000005018,"****",9
+"General Assays & Safety","pActivity","Simple","Prenylated",5080,374,1021118.5,0.015,0.39,"ns",9
+"Infectious Diseases","pActivity","Simple","Glycosylated",1941,1,440,0.34,1,"ns",9
+"Infectious Diseases","pActivity","Simple","Methoxylated",1941,161,268564,0.00000000000000000000000000000000000000000000000000011,0.00000000000000000000000000000000000000000000000000286,"****",9
+"Infectious Diseases","pActivity","Simple","Prenylated",1941,110,128659.5,0.000262,0.006812,"**",9
+"Inflammation & Proteolysis","pActivity","Simple","Glycosylated",3777,4,15068,0.000553,0.014378,"*",9
+"Inflammation & Proteolysis","pActivity","Simple","Methoxylated",3777,254,774035,0.00000000000000000000000000000000000000000000000000000000000104,0.00000000000000000000000000000000000000000000000000000000002704,"****",9
+"Inflammation & Proteolysis","pActivity","Simple","Prenylated",3777,29,72839,0.002,0.052,"ns",9
+"Metabolic Enzymes","pActivity","Simple","Glycosylated",3991,77,221389,0.0000000000302,0.0000000007852,"****",9
+"Metabolic Enzymes","pActivity","Simple","Methoxylated",3991,982,2204264,0.00000000123,0.00000003198,"****",9
+"Metabolic Enzymes","pActivity","Simple","Prenylated",3991,224,576570.5,0.000000000000245,0.00000000000637,"****",9
+"Neuroscience Targets","pActivity","Simple","Glycosylated",2498,14,7056,0.0000755,0.001963,"**",9
+"Neuroscience Targets","pActivity","Simple","Methoxylated",2498,360,440650,0.529,1,"ns",9
+"Neuroscience Targets","pActivity","Simple","Prenylated",2498,19,20959,0.367,1,"ns",9
+"Phenotypic: Cancer & Cells","pActivity","Simple","Glycosylated",8017,402,1690869.5,0.076,1,"ns",9
+"Phenotypic: Cancer & Cells","pActivity","Simple","Methoxylated",8017,2896,10216286,0.00000000000000000000000843,0.00000000000000000000021918,"****",9
+"Phenotypic: Cancer & Cells","pActivity","Simple","Prenylated",8017,963,2996496.5,0.00000000000000000000000000000000779,0.00000000000000000000000000000020254,"****",9
+"Transporters & Ion Channels","pActivity","Simple","Glycosylated",805,31,2478,0.0000000000000000741,0.0000000000000019266,"****",9
+"Transporters & Ion Channels","pActivity","Simple","Methoxylated",805,156,49991,0.0000122,0.0003172,"***",9
+"Transporters & Ion Channels","pActivity","Simple","Prenylated",805,36,314,0.000000000000000000000000000931,0.000000000000000000000000024206,"****",9
