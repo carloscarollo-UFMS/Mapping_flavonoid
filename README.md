@@ -2,7 +2,7 @@
 
 This repository contains the code and supporting resources associated with the manuscript:
 
-**Comparative flavonoid chemotonomy across plant lineages reveals structural specialization and target-dependent functional patterns**
+**Comparative flavonoid chemotaxonomy across plant lineages reveals structural specialization and target-dependent functional patterns**
 
 The workflow integrates:
 
@@ -174,10 +174,7 @@ Download it from the public folder associated with this project and place it loc
 data/wfo/classification.tsv
 ```
 
-Public folder:
-```text
-https://drive.google.com/drive/folders/1Vln0kwsQZpmy7CIRpSkIFOaev6HUvE6S?usp=sharing
-```
+Public folder: [Google Drive folder](https://drive.google.com/drive/folders/1Vln0kwsQZpmy7CIRpSkIFOaev6HUvE6S?usp=sharing)
 
 Alternatively, provide an explicit path through `cfg$wfo_csv_path` in `Main_Pipeline_end.R`.
 
