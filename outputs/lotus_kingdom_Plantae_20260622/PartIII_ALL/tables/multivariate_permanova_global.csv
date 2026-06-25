@@ -1,0 +1,4 @@
+analysis,distance,binary,n_families,n_features,pseudo_f,r_squared,p_value,p_adjust_bh
+Bemis-Murcko scaffold incidence,jaccard,TRUE,131,263,1.3819878429072345,0.07291497283106911,0.001,0.0015
+NPClassifier class incidence,jaccard,TRUE,131,17,2.0879771668575624,0.10620754231605718,0.001,0.0015
+Descriptor and motif profile,euclidean,FALSE,131,9,1.537882296238679,0.08047816621376751,0.019,0.019

@@ -1,0 +1,10 @@
+match_rule,resolution_status,tax_status,n_original_names
+exact_accepted,exact_accepted_unique,accepted,3348
+exact_synonym,exact_synonym_unique,synonym,385
+unresolved,no_match,unresolved,122
+exact_conflict,exact_synonym_conflict,unresolved,53
+exact_accepted,exact_accepted_consensus_multiple_ids,accepted,41
+canonical,canonical_unique,accepted,19
+canonical,canonical_unique,synonym,8
+canonical_conflict,canonical_conflict,unresolved,4
+canonical,canonical_consensus_multiple_ids,accepted,1

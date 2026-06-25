@@ -1,0 +1,939 @@
+inchikey,lotus_id,family,genus,species,accepted_name,accepted_rank,taxonomy_action,ref_id,source
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Amaryllidaceae,Allium,Allium,Allium,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,iNaturalist
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Amaryllidaceae,Allium,Allium,Allium,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,iNaturalist
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Amaryllidaceae,Allium,Allium,Allium,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,iNaturalist
+FNUPUYFWZXZMIE-LSDHHAIUSA-N,LTS0228197,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1007/S12275-012-2068-7,GBIF Backbone Taxonomy
+FNUPUYFWZXZMIE-LSDHHAIUSA-N,LTS0228197,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1038/EMM.2007.35,GBIF Backbone Taxonomy
+FNUPUYFWZXZMIE-UHFFFAOYSA-N,LTS0248078,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1007/S12275-012-2068-7,GBIF Backbone Taxonomy
+FNUPUYFWZXZMIE-UHFFFAOYSA-N,LTS0248078,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1038/EMM.2007.35,GBIF Backbone Taxonomy
+HXDMAFOJZRTAQK-FXBRDNGPSA-N,LTS0016967,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1002/J.1537-2197.1979.TB06252.X,GBIF Backbone Taxonomy
+HXDMAFOJZRTAQK-LUONYINHSA-N,LTS0125847,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1002/J.1537-2197.1979.TB06252.X,GBIF Backbone Taxonomy
+VRTGGIJPIYOHGT-LSDHHAIUSA-N,LTS0236206,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1016/J.JEP.2003.09.043,GBIF Backbone Taxonomy
+VRTGGIJPIYOHGT-UHFFFAOYSA-N,LTS0212085,Anacardiaceae,Rhus,Rhus,Rhus,genus,accepted_confirmed,10.1016/J.JEP.2003.09.043,GBIF Backbone Taxonomy
+LQHGGFQNRNEFIG-UHFFFAOYSA-N,LTS0016552,Annonaceae,Uvaria,Uvaria,Uvaria,genus,accepted_confirmed,10.1021/NP50021A016,GBIF Backbone Taxonomy
+LQHGGFQNRNEFIG-UHFFFAOYSA-N,LTS0016552,Annonaceae,Uvaria,Uvaria,Uvaria,genus,accepted_confirmed,10.1080/10575630290020604,GBIF Backbone Taxonomy
+LQHGGFQNRNEFIG-UHFFFAOYSA-N,LTS0016552,Annonaceae,Uvaria,Uvaria,Uvaria,genus,accepted_confirmed,10.1248/CPB.52.138,GBIF Backbone Taxonomy
+IOYHCQBYQJQBSK-UHFFFAOYSA-N,LTS0111889,Asteraceae,Aster,Aster,Aster,genus,accepted_confirmed,10.21608/BFSA.2001.65693,GBIF Backbone Taxonomy
+DJOJDHGQRNZXQQ-AWEZNQCLSA-N,LTS0265960,Asteraceae,Baccharis,Baccharis,Baccharis,genus,accepted_confirmed,10.1016/S0031-9422(00)80758-X,GBIF Backbone Taxonomy
+DJOJDHGQRNZXQQ-AWEZNQCLSA-N,LTS0265960,Asteraceae,Baccharis,Baccharis,Baccharis,genus,accepted_confirmed,10.1016/S0031-9422(00)82487-5,iNaturalist
+DJOJDHGQRNZXQQ-UHFFFAOYSA-N,LTS0175293,Asteraceae,Baccharis,Baccharis,Baccharis,genus,accepted_confirmed,10.1016/S0031-9422(00)82487-5,iNaturalist
+DSAJORLEPQBKDA-AWEZNQCLSA-N,LTS0036180,Asteraceae,Baccharis,Baccharis,Baccharis,genus,accepted_confirmed,10.1016/S0031-9422(00)82487-5,iNaturalist
+DSAJORLEPQBKDA-UHFFFAOYSA-N,LTS0118210,Asteraceae,Baccharis,Baccharis,Baccharis,genus,accepted_confirmed,10.1016/S0031-9422(00)82487-5,iNaturalist
+GSBNFGRTUCCBTK-DAFODLJHSA-N,LTS0237903,Asteraceae,Bidens,Bidens,Bidens,genus,accepted_confirmed,10.3164/JCBN.11-30,ITIS
+GSBNFGRTUCCBTK-UHFFFAOYSA-N,LTS0266191,Asteraceae,Bidens,Bidens,Bidens,genus,accepted_confirmed,10.3164/JCBN.11-30,ITIS
+FTVWIRXFELQLPI-CYBMUJFWSA-N,LTS0072900,Asteraceae,Centromadia,Centromadia,Centromadia,genus,accepted_confirmed,10.1016/0305-1978(87)90101-3,iNaturalist
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Asteraceae,Centromadia,Centromadia,Centromadia,genus,accepted_confirmed,10.1016/0305-1978(87)90101-3,iNaturalist
+DGGOLFCPSUVVHX-HIFIWIPGSA-N,LTS0103683,Asteraceae,Coreopsis,Coreopsis,Coreopsis,genus,accepted_confirmed,10.1021/JA01558A057,GBIF Backbone Taxonomy
+QTTYVGOKKRMQEG-CQSZACIVSA-N,LTS0274310,Asteraceae,Coreopsis,Coreopsis,Coreopsis,genus,accepted_confirmed,10.1016/S0031-9422(00)91489-4,GBIF Backbone Taxonomy
+CXQWRCVTCMQVQX-LSDHHAIUSA-N,LTS0090664,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+DJOJDHGQRNZXQQ-AWEZNQCLSA-N,LTS0265960,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(83)80234-9,iNaturalist
+DJOJDHGQRNZXQQ-AWEZNQCLSA-N,LTS0265960,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)80086-G,iNaturalist
+DJOJDHGQRNZXQQ-AWEZNQCLSA-N,LTS0265960,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+DJOJDHGQRNZXQQ-AWEZNQCLSA-N,LTS0265960,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/J.LFS.2007.06.006,iNaturalist
+DJOJDHGQRNZXQQ-UHFFFAOYSA-N,LTS0175293,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+DJOJDHGQRNZXQQ-UHFFFAOYSA-N,LTS0175293,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/J.LFS.2007.06.006,iNaturalist
+DSAJORLEPQBKDA-AWEZNQCLSA-N,LTS0036180,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+DSAJORLEPQBKDA-UHFFFAOYSA-N,LTS0118210,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+FTVWIRXFELQLPI-CYBMUJFWSA-N,LTS0072900,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(83)80234-9,iNaturalist
+FTVWIRXFELQLPI-CYBMUJFWSA-N,LTS0072900,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1055/S-2006-959747,iNaturalist
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(83)80234-9,iNaturalist
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1055/S-2006-959747,iNaturalist
+LZLGHWHSUZVUFZ-JKSUJKDBSA-N,LTS0127622,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+LZLGHWHSUZVUFZ-JKSUJKDBSA-N,LTS0127622,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/J.LFS.2007.06.006,iNaturalist
+LZLGHWHSUZVUFZ-JKSUJKDBSA-N,LTS0127622,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1021/NP980132U,iNaturalist
+LZLGHWHSUZVUFZ-UHFFFAOYSA-N,LTS0259545,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+LZLGHWHSUZVUFZ-UHFFFAOYSA-N,LTS0259545,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/J.LFS.2007.06.006,iNaturalist
+LZLGHWHSUZVUFZ-UHFFFAOYSA-N,LTS0259545,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1021/NP980132U,iNaturalist
+MRPJBTFHICBFNE-JKSUJKDBSA-N,LTS0268790,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(83)80234-9,iNaturalist
+MRPJBTFHICBFNE-JKSUJKDBSA-N,LTS0268790,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+MRPJBTFHICBFNE-UHFFFAOYSA-N,LTS0233310,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+MXFVIYRBYOWKKJ-UHFFFAOYSA-N,LTS0010162,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/J.LFS.2007.06.006,iNaturalist
+NPWRSXJQDKRXOR-IRXDYDNUSA-N,LTS0236592,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+NPWRSXJQDKRXOR-SJORKVTESA-N,LTS0266779,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(83)80234-9,iNaturalist
+NPWRSXJQDKRXOR-UHFFFAOYSA-N,LTS0170992,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+SBHXYTNGIZCORC-UHFFFAOYSA-N,LTS0106920,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+SBHXYTNGIZCORC-ZDUSSCGKSA-N,LTS0220769,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+WJMRMTQQBTZCNV-IRXDYDNUSA-N,LTS0195529,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+WJMRMTQQBTZCNV-UHFFFAOYSA-N,LTS0084714,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+WWYQJKVSCKMFCP-MSOLQXFVSA-N,LTS0157262,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(83)80234-9,iNaturalist
+WWYQJKVSCKMFCP-MSOLQXFVSA-N,LTS0157262,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1021/NP9701992,iNaturalist
+WWYQJKVSCKMFCP-MSOLQXFVSA-N,LTS0157262,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1021/NP980132U,iNaturalist
+WWYQJKVSCKMFCP-UHFFFAOYSA-N,LTS0133258,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1016/0031-9422(91)83681-A,iNaturalist
+WWYQJKVSCKMFCP-UHFFFAOYSA-N,LTS0133258,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1021/NP980132U,iNaturalist
+WWYQJKVSCKMFCP-ZWKOTPCHSA-N,LTS0041949,Asteraceae,Dittrichia,Dittrichia,Dittrichia,genus,accepted_confirmed,10.1055/S-2007-969536,iNaturalist
+DQVNDBVGXKWWNS-ZDUSSCGKSA-N,LTS0027097,Asteraceae,Encelia,Encelia,Encelia,genus,accepted_confirmed,10.1055/S-2006-962543,GBIF Backbone Taxonomy
+URFCJEUYXNAHFI-ZDUSSCGKSA-N,LTS0141508,Asteraceae,Flourensia,Flourensia,Flourensia,genus,accepted_confirmed,10.1016/S0031-9422(00)94395-4,GBIF Backbone Taxonomy
+MFQIWHVVFBCURA-ITSUVCJSSA-N,LTS0161690,Asteraceae,Helichrysum,Helichrysum,Helichrysum,genus,accepted_confirmed,10.1021/NP50020A005,GBIF Backbone Taxonomy
+RRZAYLBTMJCGOF-QZEKMECESA-N,LTS0072373,Asteraceae,Helichrysum,Helichrysum,Helichrysum,genus,accepted_confirmed,10.1515/ZNC-1992-1-203,GBIF Backbone Taxonomy
+VMXQTEKZPPIWMS-GMEGPIEJSA-N,LTS0273495,Asteraceae,Helichrysum,Helichrysum,Helichrysum,genus,accepted_confirmed,10.1039/P19760001819,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Asteraceae,Heterotheca,Heterotheca,Heterotheca,genus,accepted_confirmed,10.1016/S0968-0896(00)00102-4,GBIF Backbone Taxonomy
+VCMZMLWIPPPAOG-UHFFFAOYSA-N,LTS0164705,Asteraceae,Hofmeisteria,Hofmeisteria,Hofmeisteria,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2008.01.011,GBIF Backbone Taxonomy
+AYMYWHCQALZEGT-ORCRQEGFSA-N,LTS0198662,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+AYMYWHCQALZEGT-UHFFFAOYSA-N,LTS0143625,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+GSBNFGRTUCCBTK-DAFODLJHSA-N,LTS0237903,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+GSBNFGRTUCCBTK-UHFFFAOYSA-N,LTS0266191,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+MEHCTOVFPFJFEW-KXSQGFQQSA-N,LTS0160372,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+MEHCTOVFPFJFEW-UHFFFAOYSA-N,LTS0056208,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+PNIFOHGQPKXLJE-SDQBBNPISA-N,LTS0074175,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+QMVODIKHHIRSGI-RWGOFXMDSA-N,LTS0266429,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+QMVODIKHHIRSGI-UHFFFAOYSA-N,LTS0173622,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+RGNXWPVNPFAADO-NSIKDUERSA-N,LTS0129620,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+RGNXWPVNPFAADO-UHFFFAOYSA-N,LTS0112323,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+XGEYXJDOVMEJNG-HTFDPZBKSA-N,LTS0101507,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+XGEYXJDOVMEJNG-UHFFFAOYSA-N,LTS0240680,Asteraceae,Lasthenia,Lasthenia,Lasthenia,genus,accepted_confirmed,10.1021/JO01081A033,iNaturalist
+FCXRFTLSXMRXTM-UHFFFAOYSA-N,LTS0049112,Asteraceae,Scalesia,Scalesia,Scalesia,genus,accepted_confirmed,10.1016/S0031-9422(97)00464-0,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-CYBMUJFWSA-N,LTS0072900,Asteraceae,Scalesia,Scalesia,Scalesia,genus,accepted_confirmed,10.1016/S0031-9422(97)00464-0,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Asteraceae,Scalesia,Scalesia,Scalesia,genus,accepted_confirmed,10.1016/S0031-9422(97)00464-0,GBIF Backbone Taxonomy
+AYMYWHCQALZEGT-ORCRQEGFSA-N,LTS0198662,Asteraceae,Viguiera,Viguiera,Viguiera,genus,accepted_confirmed,10.1515/ZNC-1995-7-819,ITIS
+LUTYTNLPIUCKBJ-UHFFFAOYSA-N,LTS0150783,Asteraceae,Wedelia,Wedelia,Wedelia,genus,accepted_confirmed,10.1016/0031-9422(85)80063-7,iNaturalist
+OYMZVRJQIIYPTP-UHFFFAOYSA-N,LTS0269094,Asteraceae,Wedelia,Wedelia,Wedelia,genus,accepted_confirmed,10.1016/0031-9422(85)80063-7,iNaturalist
+RFQPHWCAHNTCDX-UHFFFAOYSA-N,LTS0218383,Asteraceae,Wedelia,Wedelia,Wedelia,genus,accepted_confirmed,10.1016/0031-9422(85)80063-7,iNaturalist
+JNDKJNCDJCKGNJ-QPJJXVBHSA-N,LTS0135007,Asteraceae,Wyethia,Wyethia,Wyethia,genus,accepted_confirmed,10.1016/S0031-9422(00)81244-3,GBIF Backbone Taxonomy
+KBEFFXBSHFUQLT-QGZVFWFLSA-N,LTS0058297,Asteraceae,Wyethia,Wyethia,Wyethia,genus,accepted_confirmed,10.1016/0031-9422(81)80122-7,GBIF Backbone Taxonomy
+XJUDJFVOICLOMY-GOSISDBHSA-N,LTS0147518,Asteraceae,Wyethia,Wyethia,Wyethia,genus,accepted_confirmed,10.1016/0031-9422(81)80122-7,GBIF Backbone Taxonomy
+XJUDJFVOICLOMY-UHFFFAOYSA-N,LTS0105516,Asteraceae,Wyethia,Wyethia,Wyethia,genus,accepted_confirmed,10.1016/0031-9422(81)80122-7,GBIF Backbone Taxonomy
+ZHKXRMXGGWCRMR-WGIBKUGSSA-N,LTS0020740,Aulacomniaceae,Aulacomnium,Aulacomnium,Aulacomnium,genus,accepted_confirmed,10.1016/0031-9422(95)00340-D,GBIF Backbone Taxonomy
+XJHMLSKQZFKMLL-QNDFHXLGSA-N,LTS0243086,Balanophoraceae,Balanophora,Balanophora,Balanophora,genus,accepted_confirmed,10.1016/0031-9422(80)83209-2,GBIF Backbone Taxonomy
+DQBZPEAEXINSNR-MNTDJHQOSA-N,LTS0123185,Balanophoraceae,Sarcophyte,Sarcophyte,Sarcophyte,genus,accepted_confirmed,10.1021/NP960386K,iNaturalist
+DQBZPEAEXINSNR-QUCAXYRHSA-N,LTS0266643,Balanophoraceae,Sarcophyte,Sarcophyte,Sarcophyte,genus,accepted_confirmed,10.1021/NP960386K,iNaturalist
+FTKAVFCYTQUGTN-BNDLDUQUSA-N,LTS0115321,Balanophoraceae,Sarcophyte,Sarcophyte,Sarcophyte,genus,accepted_confirmed,10.1021/NP960386K,iNaturalist
+MFQIWHVVFBCURA-UHFFFAOYSA-N,LTS0024760,Balanophoraceae,Sarcophyte,Sarcophyte,Sarcophyte,genus,accepted_confirmed,10.1021/NP960386K,iNaturalist
+MJBYQSDLWYHTQE-CFLQIRACSA-N,LTS0011728,Begoniaceae,Begonia,Begonia,Begonia,genus,accepted_confirmed,10.1016/0031-9422(95)00073-G,GBIF Backbone Taxonomy
+SAMOBDXITATWFO-GCNWMLFFSA-N,LTS0166563,Begoniaceae,Begonia,Begonia,Begonia,genus,accepted_confirmed,10.1016/0031-9422(95)00073-G,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Betulaceae,Betula,Betula,Betula,genus,accepted_confirmed,10.1016/0031-9422(89)80370-X,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Betulaceae,Betula,Betula,Betula,genus,accepted_confirmed,10.1016/0031-9422(89)80370-X,GBIF Backbone Taxonomy
+UKSPRKDZNYSFRL-PXOCLKCNSA-N,LTS0135293,Betulaceae,Betula,Betula,Betula,genus,accepted_confirmed,10.5586/ASBP.1982.038,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-ATEOAPGCSA-N,LTS0097406,Betulaceae,Betula,Betula,Betula,genus,accepted_confirmed,10.1016/0031-9422(89)80370-X,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Betulaceae,Betula,Betula,Betula,genus,accepted_confirmed,10.1016/0031-9422(89)80370-X,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Betulaceae,Betula,Betula,Betula,genus,accepted_confirmed,10.1016/0031-9422(89)80370-X,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-GHTZIAJQSA-N,LTS0223197,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Betulaceae,Corylus,Corylus,Corylus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Brassicaceae,Brassica,Brassica,Brassica,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Brassicaceae,Brassica,Brassica,Brassica,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Brassicaceae,Brassica,Brassica,Brassica,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,GBIF Backbone Taxonomy
+GVXVZXDPRNGAOE-ZCFXJLACSA-N,LTS0194258,Cannabaceae,Humulus,Humulus,Humulus,genus,accepted_confirmed,10.1016/S0031-9422(96)00744-3,GBIF Backbone Taxonomy
+JPFCOVZKLAXXOE-DQPHOHOGSA-N,LTS0070295,Celastraceae,Maytenus,Maytenus,Maytenus,genus,accepted_confirmed,10.1021/NP040006S,GBIF Backbone Taxonomy
+UKSPRKDZNYSFRL-PXOCLKCNSA-N,LTS0135293,Chrysobalanaceae,Parinari,Parinari,Parinari,genus,accepted_confirmed,10.2307/2806097,GBIF Backbone Taxonomy
+DLIKSSGEMUFQOK-SFTVRKLSSA-N,LTS0234554,Cupressaceae,Juniperus,Juniperus,Juniperus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.10.025,iNaturalist
+DLIKSSGEMUFQOK-UHFFFAOYSA-N,LTS0207777,Cupressaceae,Juniperus,Juniperus,Juniperus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.10.025,iNaturalist
+KSDSYIXRWHRPMN-SFTVRKLSSA-N,LTS0188528,Cupressaceae,Juniperus,Juniperus,Juniperus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.10.025,iNaturalist
+KSDSYIXRWHRPMN-UHFFFAOYSA-N,LTS0076106,Cupressaceae,Juniperus,Juniperus,Juniperus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.10.025,iNaturalist
+PADQINQHPQKXNL-GJZGRUSLSA-N,LTS0192619,Cupressaceae,Juniperus,Juniperus,Juniperus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2007.05.030,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Cupressaceae,Platycladus,Platycladus,Platycladus,genus,accepted_confirmed,10.1016/S0031-9422(00)84998-5,GBIF Backbone Taxonomy
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Cupressaceae,Platycladus,Platycladus,Platycladus,genus,accepted_confirmed,10.1016/S0031-9422(00)84998-5,GBIF Backbone Taxonomy
+YGSMFMGAQQQYBQ-UHFFFAOYSA-N,LTS0111643,Cupressaceae,Platycladus,Platycladus,Platycladus,genus,accepted_confirmed,10.1016/S0031-9422(00)84998-5,GBIF Backbone Taxonomy
+WBEFUVAYFSOUEA-PQMHYQBVSA-N,LTS0260686,Cyperaceae,Cyperus,Cyperus,Cyperus,genus,accepted_confirmed,10.1016/S0031-9422(00)84889-X,GBIF Backbone Taxonomy
+DQFBYFPFKXHELB-UHFFFAOYSA-N,LTS0253109,Cyperaceae,Lepidosperma,Lepidosperma,Lepidosperma,genus,accepted_confirmed,10.1016/S0031-9422(00)84889-X,GBIF Backbone Taxonomy
+DQFBYFPFKXHELB-VAWYXSNFSA-N,LTS0137687,Cyperaceae,Lepidosperma,Lepidosperma,Lepidosperma,genus,accepted_confirmed,10.1016/S0031-9422(00)84889-X,GBIF Backbone Taxonomy
+WBEFUVAYFSOUEA-PQMHYQBVSA-N,LTS0260686,Cyperaceae,Lepidosperma,Lepidosperma,Lepidosperma,genus,accepted_confirmed,10.1016/S0031-9422(00)84889-X,GBIF Backbone Taxonomy
+BHGCRZWUKWPRDM-JAPFCTHZSA-N,LTS0175891,Ephedraceae,Ephedra,Ephedra,Ephedra,genus,accepted_confirmed,10.1055/S-0028-1088321,GBIF Backbone Taxonomy
+BHGCRZWUKWPRDM-JAPFCTHZSA-N,LTS0175891,Ephedraceae,Ephedra,Ephedra,Ephedra,genus,accepted_confirmed,10.3987/R-1983-09-1741,GBIF Backbone Taxonomy
+BHGCRZWUKWPRDM-TZVIJXGFSA-N,LTS0158590,Ephedraceae,Ephedra,Ephedra,Ephedra,genus,accepted_confirmed,10.3987/R-1983-09-1741,GBIF Backbone Taxonomy
+BHGCRZWUKWPRDM-UHFFFAOYSA-N,LTS0137344,Ephedraceae,Ephedra,Ephedra,Ephedra,genus,accepted_confirmed,10.1055/S-0028-1088321,GBIF Backbone Taxonomy
+FYHHLMRXXMJAPQ-FEEPWOQDSA-N,LTS0113568,Ephedraceae,Ephedra,Ephedra,Ephedra,genus,accepted_confirmed,10.3987/R-1983-09-1741,GBIF Backbone Taxonomy
+KTLUHRSHFRODPS-RIQPQZJCSA-N,LTS0018124,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+KTLUHRSHFRODPS-UHFFFAOYSA-N,LTS0024047,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+PFTAWBLQPZVEMU-UHFFFAOYSA-N,LTS0090912,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+VLFKNLZNDSEVBZ-BTWXELLASA-N,LTS0173344,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+VLFKNLZNDSEVBZ-UHFFFAOYSA-N,LTS0091338,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+XFZJEEAOWLFHDH-UHFFFAOYSA-N,LTS0040252,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+XFZJEEAOWLFHDH-UKWJTHFESA-N,LTS0066122,Ericaceae,Pyrola,Pyrola,Pyrola,genus,accepted_confirmed,10.1016/0031-9422(89)80060-3,iNaturalist
+CXQWRCVTCMQVQX-LSDHHAIUSA-N,LTS0090664,Ericaceae,Rhododendron,Rhododendron,Rhododendron,genus,accepted_confirmed,10.1016/S0031-9422(00)81226-1,GBIF Backbone Taxonomy
+DYHOLQACRGJEHX-UHFFFAOYSA-N,LTS0212438,Ericaceae,Rhododendron,Rhododendron,Rhododendron,genus,accepted_confirmed,10.1021/NP100778K,GBIF Backbone Taxonomy
+DYHOLQACRGJEHX-ZDUSSCGKSA-N,LTS0016330,Ericaceae,Rhododendron,Rhododendron,Rhododendron,genus,accepted_confirmed,10.1021/NP100778K,GBIF Backbone Taxonomy
+KJXSIXMJHKAJOD-LSDHHAIUSA-N,LTS0061492,Ericaceae,Rhododendron,Rhododendron,Rhododendron,genus,accepted_confirmed,10.1016/S0031-9422(00)97273-X,GBIF Backbone Taxonomy
+BYNSAEDEZFVSHZ-MVLVPLOLSA-N,LTS0211106,Euphorbiaceae,Macaranga,Macaranga,Macaranga,genus,accepted_confirmed,10.1016/0031-9422(95)00508-5,GBIF Backbone Taxonomy
+WNEAAJKGMLICIY-QFIPXVFZSA-N,LTS0048395,Euphorbiaceae,Macaranga,Macaranga,Macaranga,genus,accepted_confirmed,10.1016/0031-9422(95)00508-5,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.5539/JPS.V1N2P61,GBIF Backbone Taxonomy
+GSBNFGRTUCCBTK-DAFODLJHSA-N,LTS0237903,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1021/JF901498Q,GBIF Backbone Taxonomy
+GSBNFGRTUCCBTK-UHFFFAOYSA-N,LTS0266191,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1021/JF901498Q,GBIF Backbone Taxonomy
+IXQZKAVXZDCYDY-ZDUSSCGKSA-N,LTS0268820,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1071/CH9721943C,GBIF Backbone Taxonomy
+JSZRJOLRIBESNT-MRVWCRGKSA-N,LTS0245508,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1016/0031-9422(75)85306-4,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-DZGCQCFKSA-N,LTS0143893,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1080/10286020.2011.597384,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-DZGCQCFKSA-N,LTS0143893,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1093/ECAM/NEP241,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-DZGCQCFKSA-N,LTS0143893,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1093/ECAM/NEQ043,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-UHFFFAOYSA-N,LTS0053622,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1080/10286020.2011.597384,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-UHFFFAOYSA-N,LTS0053622,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1093/ECAM/NEP241,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-UHFFFAOYSA-N,LTS0053622,Fabaceae,Acacia,Acacia,Acacia,genus,accepted_confirmed,10.1093/ECAM/NEQ043,GBIF Backbone Taxonomy
+FGJUXFVUOCKRCY-JOCHJYFZSA-N,LTS0270160,Fabaceae,Calopogonium,Calopogonium,Calopogonium,genus,accepted_confirmed,10.1016/S0031-9422(00)95305-6,GBIF Backbone Taxonomy
+FGJUXFVUOCKRCY-UHFFFAOYSA-N,LTS0139725,Fabaceae,Calopogonium,Calopogonium,Calopogonium,genus,accepted_confirmed,10.1016/S0031-9422(00)95305-6,GBIF Backbone Taxonomy
+RSYUFYQTACJFML-DZGCQCFKSA-N,LTS0233697,Fabaceae,Cassia,Cassia,Cassia,genus,accepted_confirmed,10.1021/NP100090E,GBIF Backbone Taxonomy
+RSYUFYQTACJFML-UHFFFAOYSA-N,LTS0039714,Fabaceae,Cassia,Cassia,Cassia,genus,accepted_confirmed,10.1021/NP100090E,GBIF Backbone Taxonomy
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Centrolobium,Centrolobium,Centrolobium,genus,accepted_confirmed,10.1071/CH9841127,GBIF Backbone Taxonomy
+NSRJSISNDPOJOP-BBRMVZONSA-N,LTS0261149,Fabaceae,Centrolobium,Centrolobium,Centrolobium,genus,accepted_confirmed,10.1071/CH9841127,GBIF Backbone Taxonomy
+XDBDADAPEFSDHG-UHFFFAOYSA-N,LTS0077320,Fabaceae,Centrolobium,Centrolobium,Centrolobium,genus,accepted_confirmed,10.1071/CH9841127,GBIF Backbone Taxonomy
+FPIOBTBNRZPWJW-UHFFFAOYSA-N,LTS0255186,Fabaceae,Cicer,Cicer,Cicer,genus,accepted_confirmed,10.1007/BF00629810,GBIF Backbone Taxonomy
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Cicer,Cicer,Cicer,genus,accepted_confirmed,10.1007/BF00629810,GBIF Backbone Taxonomy
+MGJLSBDCWOSMHL-MIUGBVLSSA-N,LTS0235553,Fabaceae,Cicer,Cicer,Cicer,genus,accepted_confirmed,10.1007/BF00629810,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Cicer,Cicer,Cicer,genus,accepted_confirmed,10.1007/BF00629810,GBIF Backbone Taxonomy
+PMHWEGVKSVMZAG-LKAHAZCJSA-N,LTS0167523,Fabaceae,Cladrastis,Cladrastis,Cladrastis,genus,accepted_confirmed,10.1016/S0031-9422(00)89040-8,GBIF Backbone Taxonomy
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Crotalaria,Crotalaria,Crotalaria,genus,accepted_confirmed,10.1080/10826079208016365,iNaturalist
+LOSLKNDENQPHQW-GDUZOROWSA-N,LTS0052896,Fabaceae,Cytisus,Cytisus,Cytisus,genus,accepted_confirmed,10.1055/S-2007-971525,iNaturalist
+LOSLKNDENQPHQW-UHFFFAOYSA-N,LTS0197754,Fabaceae,Cytisus,Cytisus,Cytisus,genus,accepted_confirmed,10.1055/S-2007-971525,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Dalbergia,Dalbergia,Dalbergia,genus,accepted_confirmed,10.1016/0031-9422(73)85048-4,GBIF Backbone Taxonomy
+CNOURESJATUGPN-UHFFFAOYSA-N,LTS0238526,Fabaceae,Dalbergia,Dalbergia,Dalbergia,genus,accepted_confirmed,10.1016/0031-9422(73)85048-4,GBIF Backbone Taxonomy
+AFYSMUXXADHNOD-UHFFFAOYSA-N,LTS0241171,Fabaceae,Dalea,Dalea,Dalea,genus,accepted_confirmed,10.1016/0031-9422(95)00743-1,GBIF Backbone Taxonomy
+DDKWTXSGQOKXGP-MFMCTBQISA-N,LTS0052730,Fabaceae,Dalea,Dalea,Dalea,genus,accepted_confirmed,10.1021/NP50101A003,iNaturalist
+DDKWTXSGQOKXGP-MFMCTBQISA-N,LTS0052730,Fabaceae,Dalea,Dalea,Dalea,genus,accepted_confirmed,10.1021/NP960068L,iNaturalist
+OOEIHSIXXSHLPL-UHFFFAOYSA-N,LTS0255320,Fabaceae,Dalea,Dalea,Dalea,genus,accepted_confirmed,10.1016/0031-9422(95)00743-1,GBIF Backbone Taxonomy
+AGMYTTPIBPJPBD-UHFFFAOYSA-N,LTS0052708,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1590/1809-43921982123615,GBIF Backbone Taxonomy
+CDEURCNNKHGUSQ-UHFFFAOYSA-N,LTS0262607,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2006.01.002,GBIF Backbone Taxonomy
+CKHVKQDEOBZNIX-UHFFFAOYSA-N,LTS0211276,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2006.01.002,GBIF Backbone Taxonomy
+OHVOXMFXCZKNPR-UHFFFAOYSA-N,LTS0231927,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1590/1809-43921982123615,GBIF Backbone Taxonomy
+OWIGAXHPCXOLFN-UHFFFAOYSA-N,LTS0175103,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2006.01.002,GBIF Backbone Taxonomy
+QJSPPBAASCPSJB-UHFFFAOYSA-N,LTS0159613,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1590/1809-43921982123615,GBIF Backbone Taxonomy
+RFZVFBRNSFRZBP-UHFFFAOYSA-N,LTS0267528,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2006.01.002,GBIF Backbone Taxonomy
+RQAMSFTXEFSBPK-UHFFFAOYSA-N,LTS0103103,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1590/1809-43921982123615,GBIF Backbone Taxonomy
+UOWOIGNEFLTNAW-QGZVFWFLSA-N,LTS0276196,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/0031-9422(75)85051-5,GBIF Backbone Taxonomy
+UOWOIGNEFLTNAW-UHFFFAOYSA-N,LTS0035757,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/S0031-9422(00)98664-3,GBIF Backbone Taxonomy
+ZBBONRPQJAKJAQ-UHFFFAOYSA-N,LTS0181364,Fabaceae,Derris,Derris,Derris,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2006.01.002,GBIF Backbone Taxonomy
+BXBXADHYISQJMC-PKTZIBPZSA-N,LTS0220615,Fabaceae,Dolichos,Dolichos,Dolichos,genus,accepted_confirmed,10.1002/HLCA.19880710109,GBIF Backbone Taxonomy
+GOAAFLGCSWDGQK-CTNGQTDRSA-N,LTS0151650,Fabaceae,Dolichos,Dolichos,Dolichos,genus,accepted_confirmed,10.1002/HLCA.19880710109,GBIF Backbone Taxonomy
+VNKBPGVSBWRHTG-LEWJYISDSA-N,LTS0229399,Fabaceae,Dolichos,Dolichos,Dolichos,genus,accepted_confirmed,10.1002/HLCA.19880710109,GBIF Backbone Taxonomy
+WBVOLBHXLNDIRL-RBBKRZOGSA-N,LTS0128766,Fabaceae,Dolichos,Dolichos,Dolichos,genus,accepted_confirmed,10.1002/HLCA.19880710109,GBIF Backbone Taxonomy
+DUBPGEJGGVZKDD-PFKOEMKTSA-N,LTS0257421,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+DXWGBJJLEDQBKS-LDBVRRDLSA-N,LTS0170221,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1002/JSSC.200600289,GBIF Backbone Taxonomy
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1207/S15327914NC5402_5,GBIF Backbone Taxonomy
+FRAUJUKWSKMNJY-RSEYPYQYSA-N,LTS0050574,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1207/S15327914NC5402_5,GBIF Backbone Taxonomy
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+MTXMHWSVSZKYBT-ASDZUOGYSA-N,LTS0203029,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+OWMHCYFEIJPHFB-GOZZSVHWSA-N,LTS0261337,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+OZBAVEKZGSOMOJ-MIUGBVLSSA-N,LTS0112132,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1002/JSSC.200600289,GBIF Backbone Taxonomy
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1207/S15327914NC5402_5,GBIF Backbone Taxonomy
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+ZMOZJTDOTOZVRT-DODNOZFWSA-N,LTS0135005,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1002/JSSC.200600289,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1021/JF803870K,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1207/S15327914NC5402_5,GBIF Backbone Taxonomy
+ZZIALNLLNHEQPJ-UHFFFAOYSA-N,LTS0267535,Fabaceae,Glycine,Glycine,Glycine,genus,accepted_confirmed,10.1207/S15327914NC5402_5,GBIF Backbone Taxonomy
+ACDSUMGMZHXCRO-UHFFFAOYSA-N,LTS0274207,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+ACDSUMGMZHXCRO-UHFFFAOYSA-N,LTS0274207,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+CCUZOQMNQONIMX-UHFFFAOYSA-N,LTS0077774,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+CFWLRXJPRRCJTI-UHFFFAOYSA-N,LTS0007245,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+CNPMAFLUEHEXRE-UHFFFAOYSA-N,LTS0132019,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/CPB.37.3005,GBIF Backbone Taxonomy
+DEMKZLAVQYISIA-UHFFFAOYSA-N,LTS0216345,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/BPB.B14-00574,GBIF Backbone Taxonomy
+DEMKZLAVQYISIA-UHFFFAOYSA-N,LTS0216345,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,NA,GBIF Backbone Taxonomy
+DEMKZLAVQYISIA-UZQFATADSA-N,LTS0103894,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/BPB.B14-00574,GBIF Backbone Taxonomy
+DEMKZLAVQYISIA-UZQFATADSA-N,LTS0103894,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,NA,GBIF Backbone Taxonomy
+DKVBYQAVNNRVNN-UHFFFAOYSA-N,LTS0174681,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1021/NP2004775,GBIF Backbone Taxonomy
+DKVBYQAVNNRVNN-UHFFFAOYSA-N,LTS0174681,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-4998,GBIF Backbone Taxonomy
+DKVBYQAVNNRVNN-UHFFFAOYSA-N,LTS0174681,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+DKVBYQAVNNRVNN-UHFFFAOYSA-N,LTS0174681,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+GBRZTUJCDFSIHM-KRWDZBQOSA-N,LTS0274337,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+GBRZTUJCDFSIHM-KRWDZBQOSA-N,LTS0274337,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+GDAAEAXMNLVRCZ-UHFFFAOYSA-N,LTS0157799,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+GGWMNTNDTRKETA-UHFFFAOYSA-N,LTS0153934,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+LWESBHWAOZORCQ-UHFFFAOYSA-N,LTS0024924,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+LWZACZCRAUQSLH-UHFFFAOYSA-N,LTS0034303,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1021/NP2004775,GBIF Backbone Taxonomy
+LWZACZCRAUQSLH-UHFFFAOYSA-N,LTS0034303,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+NSRJSISNDPOJOP-BBRMVZONSA-N,LTS0261149,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+PYVPKOSKOWDDSV-UHFFFAOYSA-N,LTS0114253,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/CPB.37.3005,GBIF Backbone Taxonomy
+QJKMIJNRNRLQSS-WEVVVXLNSA-N,LTS0138668,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/CPB.39.1238,GBIF Backbone Taxonomy
+QNLGNISMYMFVHP-UHFFFAOYSA-N,LTS0076706,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+SSDIPYMSXRNGMZ-UHFFFAOYSA-N,LTS0137980,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/CPB.39.1238,GBIF Backbone Taxonomy
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/CPB.39.1238,GBIF Backbone Taxonomy
+WIEKYGJSRGBBTQ-AFMDSPMNSA-N,LTS0082691,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1021/NP2004775,GBIF Backbone Taxonomy
+WIEKYGJSRGBBTQ-AFMDSPMNSA-N,LTS0082691,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+WIEKYGJSRGBBTQ-BCHFMIIMSA-N,LTS0140931,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5281,GBIF Backbone Taxonomy
+WIEKYGJSRGBBTQ-UHFFFAOYSA-N,LTS0007158,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1021/NP2004775,GBIF Backbone Taxonomy
+WLDXQYSLYHUZTM-UHFFFAOYSA-N,LTS0185795,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1248/CPB.39.1238,GBIF Backbone Taxonomy
+WLPHLDLTTPUDSI-UHFFFAOYSA-N,LTS0003159,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+XRVFNNUXNVWYTI-UHFFFAOYSA-N,LTS0195438,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1021/NP2004775,GBIF Backbone Taxonomy
+YNWXJFQOCHMPCK-UHFFFAOYSA-N,LTS0113391,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1007/S10616-012-9531-5,GBIF Backbone Taxonomy
+YNWXJFQOCHMPCK-UHFFFAOYSA-N,LTS0113391,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.1142/S0192415X13500158,GBIF Backbone Taxonomy
+YURHIASRSSMERJ-UHFFFAOYSA-N,LTS0094683,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-4998,GBIF Backbone Taxonomy
+YURHIASRSSMERJ-UHFFFAOYSA-N,LTS0094683,Fabaceae,Glycyrrhiza,Glycyrrhiza,Glycyrrhiza,genus,accepted_confirmed,10.3987/COM-89-5041,GBIF Backbone Taxonomy
+FZZZVWQKWYCAEI-UHFFFAOYSA-N,LTS0255369,Fabaceae,Hippocrepis,Hippocrepis,Hippocrepis,genus,accepted_confirmed,10.1016/S0031-9422(00)81976-7,iNaturalist
+IVYVKQJIIWGEFH-UHFFFAOYSA-N,LTS0220894,Fabaceae,Hippocrepis,Hippocrepis,Hippocrepis,genus,accepted_confirmed,10.1016/S0031-9422(00)81976-7,iNaturalist
+AQBZCCQCDWNNJQ-UHFFFAOYSA-N,LTS0136892,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+DQFBYFPFKXHELB-UHFFFAOYSA-N,LTS0253109,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1016/J.PHYMED.2006.11.027,GBIF Backbone Taxonomy
+HUKSJTUUSUGIDC-UHFFFAOYSA-N,LTS0028460,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+HUKSJTUUSUGIDC-ZBEGNZNMSA-N,LTS0159117,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+ITOTUSMHIQFNHJ-UHFFFAOYSA-N,LTS0214379,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+JCJPVNDLAAXNEX-UHFFFAOYSA-N,LTS0062519,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+JFVKWCYZKMUTLH-UHFFFAOYSA-N,LTS0142059,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+JYESOAFLKFHYHP-UHFFFAOYSA-N,LTS0109745,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+KAMSUIMVPLJLGA-NNWRFLSQSA-N,LTS0200929,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1016/S0031-9422(02)00131-0,GBIF Backbone Taxonomy
+VKZPFWQDJJZRFN-UHFFFAOYSA-N,LTS0214029,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+ZPEHYKMRUBEPSQ-LCMMRXEZSA-N,LTS0170006,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+ZPEHYKMRUBEPSQ-UHFFFAOYSA-N,LTS0221854,Fabaceae,Lonchocarpus,Lonchocarpus,Lonchocarpus,genus,accepted_confirmed,10.1002/PTR.889,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-PZJWPPBQSA-N,LTS0019986,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/S0031-9422(00)98001-4,iNaturalist
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/S0031-9422(00)98001-4,iNaturalist
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/S0031-9422(00)98001-4,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/S0031-9422(00)98001-4,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1111/J.1365-3040.2010.02266.X,iNaturalist
+PFTAWBLQPZVEMU-UHFFFAOYSA-N,LTS0090912,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/S0031-9422(00)98001-4,iNaturalist
+WMBWREPUVVBILR-UHFFFAOYSA-N,LTS0127856,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2004.10.003,iNaturalist
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2004.10.003,iNaturalist
+XMOCLSLCDHWDHP-UHFFFAOYSA-N,LTS0175767,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1111/J.1365-3040.2010.02266.X,iNaturalist
+XRVFNNUXNVWYTI-NSHDSACASA-N,LTS0191687,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1271/BBB.100285,iNaturalist
+XRVFNNUXNVWYTI-UHFFFAOYSA-N,LTS0195438,Fabaceae,Lotus,Lotus,Lotus,genus,accepted_confirmed,10.1271/BBB.100285,iNaturalist
+JFZPDGIBHZMFEB-HXMQERHASA-N,LTS0273555,Fabaceae,Lupinus,Lupinus,Lupinus,genus,accepted_confirmed,10.1248/CPB.41.394,GBIF Backbone Taxonomy
+MMPVAPMCVABQPS-UHFFFAOYSA-N,LTS0113884,Fabaceae,Lupinus,Lupinus,Lupinus,genus,accepted_confirmed,10.1016/S0031-9422(00)88921-9,GBIF Backbone Taxonomy
+HCVQRSCZRRQWTK-WBAXXEDZSA-N,LTS0076397,Fabaceae,Machaerium,Machaerium,Machaerium,genus,accepted_confirmed,10.1021/NP0102861,ITIS
+JKVLNGOHRKTVRI-XFKAJCMBSA-N,LTS0109117,Fabaceae,Machaerium,Machaerium,Machaerium,genus,accepted_confirmed,10.1021/NP030045O,ITIS
+NUNFZNIXYWTZMW-NSHDSACASA-N,LTS0004684,Fabaceae,Machaerium,Machaerium,Machaerium,genus,accepted_confirmed,10.1016/S0031-9422(00)94598-9,ITIS
+UPLNMKNMLLBKKI-IPELMVKDSA-N,LTS0189505,Fabaceae,Machaerium,Machaerium,Machaerium,genus,accepted_confirmed,10.1021/NP030045O,ITIS
+IJYFCLZEBZPQIZ-UVFQYZLESA-N,LTS0117599,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(02)00489-2,ITIS
+IJYFCLZEBZPQIZ-VXCCZKMHSA-N,LTS0109009,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(02)00489-2,ITIS
+JDLWWTGCAJYSSZ-GXZWQRSESA-N,LTS0010972,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(02)00489-2,ITIS
+JDLWWTGCAJYSSZ-ZSDSOXJFSA-N,LTS0180061,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(02)00489-2,ITIS
+KNQQUXVBDOWOCQ-AWEZNQCLSA-N,LTS0273681,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(96)00773-X,ITIS
+KNQQUXVBDOWOCQ-CQSZACIVSA-N,LTS0129183,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(96)00773-X,ITIS
+UUUQIJLJFWMTGD-APEPYPMRSA-N,LTS0184721,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(02)00489-2,ITIS
+UUUQIJLJFWMTGD-HTZUNMPGSA-N,LTS0059715,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(02)00489-2,ITIS
+VEUAGCPRQFCWJN-HNNXBMFYSA-N,LTS0000534,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(96)00773-X,ITIS
+VEUAGCPRQFCWJN-OAHLLOKOSA-N,LTS0147040,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(96)00773-X,ITIS
+VEUAGCPRQFCWJN-UHFFFAOYSA-N,LTS0154321,Fabaceae,Millettia,Millettia,Millettia,genus,accepted_confirmed,10.1016/S0031-9422(96)00773-X,ITIS
+CLSSVAPYJUYEAY-UHFFFAOYSA-N,LTS0222872,Fabaceae,Neorautanenia,Neorautanenia,Neorautanenia,genus,accepted_confirmed,10.1021/NP50048A006,GBIF Backbone Taxonomy
+MYYACPYOKARWKL-UHFFFAOYSA-N,LTS0259180,Fabaceae,Neorautanenia,Neorautanenia,Neorautanenia,genus,accepted_confirmed,10.1021/NP50048A006,GBIF Backbone Taxonomy
+UXJMURXRQMFKJC-JEQMPJCPSA-N,LTS0257289,Fabaceae,Neorautanenia,Neorautanenia,Neorautanenia,genus,accepted_confirmed,10.1021/NP50048A006,GBIF Backbone Taxonomy
+VXFVOLUPWBOJSY-UHFFFAOYSA-N,LTS0146528,Fabaceae,Neorautanenia,Neorautanenia,Neorautanenia,genus,accepted_confirmed,10.1021/NP50048A006,GBIF Backbone Taxonomy
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Neorautanenia,Neorautanenia,Neorautanenia,genus,accepted_confirmed,10.1021/NP50048A006,GBIF Backbone Taxonomy
+DDGYXSWHWAQNRQ-UHFFFAOYSA-N,LTS0193377,Fabaceae,Pachyrhizus,Pachyrhizus,Pachyrhizus,genus,accepted_confirmed,10.1080/14786419.2014.939081,GBIF Backbone Taxonomy
+RAJDDCCSNZAPCH-UHFFFAOYSA-N,LTS0084514,Fabaceae,Pachyrhizus,Pachyrhizus,Pachyrhizus,genus,accepted_confirmed,10.1080/14786419.2014.939081,GBIF Backbone Taxonomy
+PZXSKZHBJCBTDD-LEWJYISDSA-N,LTS0266938,Fabaceae,Paracalyx,Paracalyx,Paracalyx,genus,accepted_confirmed,10.1021/NP50086A021,GBIF Backbone Taxonomy
+JUUSJQJENSMLRE-LLVKDONJSA-N,LTS0005317,Fabaceae,Pericopsis,Pericopsis,Pericopsis,genus,accepted_confirmed,10.1039/P19760000186,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pericopsis,Pericopsis,Pericopsis,genus,accepted_confirmed,10.1039/P19760000186,GBIF Backbone Taxonomy
+YABIJLLNNFURIJ-UHFFFAOYSA-N,LTS0057633,Fabaceae,Psoralea,Psoralea,Psoralea,genus,accepted_confirmed,10.1016/J.BMCL.2014.01.029,GBIF Backbone Taxonomy
+CGMGCGYLRFAMQF-VIZOYTHASA-N,LTS0102515,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+CGMGCGYLRFAMQF-VIZOYTHASA-N,LTS0102515,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,GBIF Backbone Taxonomy
+CNOURESJATUGPN-STHNKMCASA-N,LTS0253414,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976832,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2007-993746,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.22.1314,iNaturalist
+CNOURESJATUGPN-UDEBZQQRSA-N,LTS0052285,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+CNOURESJATUGPN-UHFFFAOYSA-N,LTS0238526,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+CNOURESJATUGPN-UHFFFAOYSA-N,LTS0238526,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2007-993746,iNaturalist
+CNOURESJATUGPN-UHFFFAOYSA-N,LTS0238526,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+DEIDXPNOJOSSBX-DRASZATQSA-N,LTS0011090,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+DEIDXPNOJOSSBX-UHFFFAOYSA-N,LTS0105882,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+DRVXWCPMNIEOLC-GUFUGUNKSA-N,LTS0171189,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+DRVXWCPMNIEOLC-UHFFFAOYSA-N,LTS0248444,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+DXDRHHKMWQZJHT-FPYGCLRLSA-N,LTS0092525,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+DXDRHHKMWQZJHT-UHFFFAOYSA-N,LTS0135491,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976633,iNaturalist
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+DXYUAIFZCFRPTH-UHFFFAOYSA-N,LTS0194715,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+FIENOOOOPYEDMI-QNDFHXLGSA-N,LTS0259730,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+FRAUJUKWSKMNJY-RSEYPYQYSA-N,LTS0050574,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+FRAUJUKWSKMNJY-UHFFFAOYSA-N,LTS0090898,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+FTDQYHKCJFPADV-AQLOEVPPSA-N,LTS0192403,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+FTDQYHKCJFPADV-UHFFFAOYSA-N,LTS0185107,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+GARZMRVWLORUSR-UHFFFAOYSA-N,LTS0134903,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+GARZMRVWLORUSR-VPRICQMDSA-N,LTS0004022,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(99)00715-3,iNaturalist
+GARZMRVWLORUSR-VPRICQMDSA-N,LTS0004022,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+GARZMRVWLORUSR-VPRICQMDSA-N,LTS0004022,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,iNaturalist
+GARZMRVWLORUSR-VPRICQMDSA-N,LTS0004022,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+GOMNOOKGLZYEJT-UHFFFAOYSA-N,LTS0101301,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JSSC.200500126,iNaturalist
+GTKATHVTDOTYMV-UHFFFAOYSA-N,LTS0075956,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+HIWJJOYYZFELEZ-FFYOZGDPSA-N,LTS0179413,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+HIWJJOYYZFELEZ-FFYOZGDPSA-N,LTS0179413,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+HIWJJOYYZFELEZ-FFYOZGDPSA-N,LTS0179413,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+HIWJJOYYZFELEZ-UHFFFAOYSA-N,LTS0175924,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0003-2670(01)00900-X,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0003-2670(01)01433-7,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(01)00996-7,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(97)01070-4,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(99)00715-3,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0928-3420(99)80041-X,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1038/207203A0,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-0029-1240583,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1078/0176-1617-01145,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.104.1_50,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.113.12_881,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4268/CJCMM20102314,iNaturalist
+HKEAFJYKMMKDOR-DTYSYODJSA-N,LTS0243045,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4327/JSNFS.44.123,iNaturalist
+HKEAFJYKMMKDOR-UHFFFAOYSA-N,LTS0262911,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/MNFR.200900146,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-UHFFFAOYSA-N,LTS0262911,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.BBRC.2008.10.178,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-UHFFFAOYSA-N,LTS0262911,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.CANLET.2005.06.022,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-UHFFFAOYSA-N,LTS0262911,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.JCHROMB.2014.12.014,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-UHFFFAOYSA-N,LTS0262911,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/MNFR.200900146,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.BBRC.2008.10.178,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.CANLET.2005.06.022,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.JCHROMB.2014.12.014,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0003-2670(01)00900-X,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0003-2670(01)01433-7,GBIF Backbone Taxonomy
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(97)01070-4,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(99)00715-3,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0928-3420(99)80041-X,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1038/207203A0,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-0029-1240583,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.104.1_50,iNaturalist
+HKEAFJYKMMKDOR-VPRICQMDSA-N,LTS0010346,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.113.12_881,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF01374033,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4268/CJCMM20102314,iNaturalist
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4327/JSNFS.44.123,iNaturalist
+HQQUZVFMUSCUJS-PGPONNFDSA-N,LTS0066593,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+HQQUZVFMUSCUJS-PGPONNFDSA-N,LTS0066593,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(99)00715-3,iNaturalist
+HQQUZVFMUSCUJS-PGPONNFDSA-N,LTS0066593,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0928-3420(99)80041-X,iNaturalist
+HQQUZVFMUSCUJS-PGPONNFDSA-N,LTS0066593,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1078/0176-1617-01145,iNaturalist
+HQQUZVFMUSCUJS-PGPONNFDSA-N,LTS0066593,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+HQQUZVFMUSCUJS-RZDNYABWSA-N,LTS0145562,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+HQQUZVFMUSCUJS-UHFFFAOYSA-N,LTS0046924,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+HZMGJVBPGHEMBU-AWRBQHJKSA-N,LTS0214779,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+HZMGJVBPGHEMBU-UHFFFAOYSA-N,LTS0132633,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+KQMVAGISDHMXJJ-UHFFFAOYSA-N,LTS0261766,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.JCHROMB.2012.01.008,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF01374033,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF01374034,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(97)01070-4,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(99)00715-3,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0928-3420(99)80041-X,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1073/PNAS.90.21.10008,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1073/PNAS.93.9.4284,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1078/0176-1617-01145,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.36.1174,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.54.1315,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.104.1_50,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.113.12_881,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.79.6_757,GBIF Backbone Taxonomy
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4268/CJCMM20102314,iNaturalist
+KYQZWONCHDNPDP-QNDFHXLGSA-N,LTS0223055,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4327/JSNFS.44.123,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF01374033,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF01374034,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1080/10286021003745445,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+KYQZWONCHDNPDP-UHFFFAOYSA-N,LTS0156881,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+LNIQZRIHAMVRJA-UHFFFAOYSA-N,LTS0040601,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+MCYJIRFKDCXYCX-UHFFFAOYSA-N,LTS0233364,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+MCYJIRFKDCXYCX-UHFFFAOYSA-N,LTS0233364,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2007-993746,iNaturalist
+MCYJIRFKDCXYCX-YUPZTAPUSA-N,LTS0260184,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+MCYJIRFKDCXYCX-YUPZTAPUSA-N,LTS0260184,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2007-993746,iNaturalist
+MGJLSBDCWOSMHL-MIUGBVLSSA-N,LTS0235553,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+MTXMHWSVSZKYBT-ASDZUOGYSA-N,LTS0203029,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+MTXMHWSVSZKYBT-ASDZUOGYSA-N,LTS0203029,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+MTXMHWSVSZKYBT-UHFFFAOYSA-N,LTS0211996,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+MTXMHWSVSZKYBT-UHFFFAOYSA-N,LTS0211996,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+MUYAUELJBWQNDH-UHFFFAOYSA-N,LTS0229361,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+NQKCBBHHFITUFF-UHFFFAOYSA-N,LTS0071249,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(91)84191-T,iNaturalist
+NSRJSISNDPOJOP-BBRMVZONSA-N,LTS0261149,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976633,iNaturalist
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976832,iNaturalist
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/JF000255W,iNaturalist
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2007-993746,iNaturalist
+OBBCRPUNCUPUOS-UHFFFAOYSA-N,LTS0250238,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+OZBAVEKZGSOMOJ-MIUGBVLSSA-N,LTS0112132,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+OZBAVEKZGSOMOJ-MIUGBVLSSA-N,LTS0112132,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976633,iNaturalist
+OZBAVEKZGSOMOJ-MIUGBVLSSA-N,LTS0112132,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+OZBAVEKZGSOMOJ-MIUGBVLSSA-N,LTS0112132,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+OZBAVEKZGSOMOJ-UHFFFAOYSA-N,LTS0220550,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+OZBAVEKZGSOMOJ-UHFFFAOYSA-N,LTS0220550,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+PVUYNAPZRICYPA-UHFFFAOYSA-N,LTS0267326,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+QMXOFBXZEKTJIK-LSDHHAIUSA-N,LTS0154334,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976832,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/S11418-010-0411-Z,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1124/DMD.109.028555,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.30.1965,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.36.1174,iNaturalist
+QTVAYNGFFDZGDR-CIJVEFAYSA-N,LTS0026566,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.36.4171,iNaturalist
+QTVAYNGFFDZGDR-FXWBBGIFSA-N,LTS0116003,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02976832,iNaturalist
+QTVAYNGFFDZGDR-FXWBBGIFSA-N,LTS0116003,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+QTVAYNGFFDZGDR-FXWBBGIFSA-N,LTS0116003,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1124/DMD.109.028555,iNaturalist
+QTVAYNGFFDZGDR-FXWBBGIFSA-N,LTS0116003,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.30.1965,iNaturalist
+QTVAYNGFFDZGDR-FXWBBGIFSA-N,LTS0116003,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.36.1174,iNaturalist
+QTVAYNGFFDZGDR-FXWBBGIFSA-N,LTS0116003,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.36.4171,iNaturalist
+RDTAGQKYPGLCBK-GOZZSVHWSA-N,LTS0275484,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(94)00640-F,iNaturalist
+RDTAGQKYPGLCBK-UHFFFAOYSA-N,LTS0148706,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(94)00640-F,iNaturalist
+RIQBSCOBOICSFR-OACYRQNASA-N,LTS0136755,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+RIQBSCOBOICSFR-UHFFFAOYSA-N,LTS0206671,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+RIQBSCOBOICSFR-UHFFFAOYSA-N,LTS0206671,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+RSHRXECKTMWGSX-MIUGBVLSSA-N,LTS0033813,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+RSHRXECKTMWGSX-MIUGBVLSSA-N,LTS0033813,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+RSHRXECKTMWGSX-UHFFFAOYSA-N,LTS0124992,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00371-3,iNaturalist
+RSHRXECKTMWGSX-UHFFFAOYSA-N,LTS0124992,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+RXUWDKBZZLIASQ-UHFFFAOYSA-N,LTS0063343,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+RXUWDKBZZLIASQ-UHFFFAOYSA-N,LTS0063343,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.BBRC.2008.10.178,GBIF Backbone Taxonomy
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(97)01070-4,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1078/0176-1617-01145,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/BPB.24.1117,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.54.1315,iNaturalist
+UXQHNHMMYMGPAH-UHFFFAOYSA-N,LTS0217892,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.23.2449,GBIF Backbone Taxonomy
+VOOFPOMXNLNEOF-UHFFFAOYSA-N,LTS0005015,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/S11418-010-0411-Z,iNaturalist
+VOOFPOMXNLNEOF-UHFFFAOYSA-N,LTS0005015,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+VOOFPOMXNLNEOF-UHFFFAOYSA-N,LTS0005015,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2007-993746,iNaturalist
+VOOFPOMXNLNEOF-UHFFFAOYSA-N,LTS0005015,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1124/DMD.109.028555,iNaturalist
+VOOFPOMXNLNEOF-UHFFFAOYSA-N,LTS0005015,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.93.9_1201,iNaturalist
+VRCBYTZZZFFKEN-RBZNUJCTSA-N,LTS0200229,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(94)00640-F,iNaturalist
+VRCBYTZZZFFKEN-UHFFFAOYSA-N,LTS0115760,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(94)00640-F,iNaturalist
+VWEWSCDQMVNOJP-UHFFFAOYSA-N,LTS0251519,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+WUADCCWRTIWANL-UHFFFAOYSA-N,LTS0111539,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(97)01070-4,iNaturalist
+WUADCCWRTIWANL-UHFFFAOYSA-N,LTS0111539,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+WUADCCWRTIWANL-UHFFFAOYSA-N,LTS0111539,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.96.12_1486,iNaturalist
+XKNZYDKRYPYTHS-UHFFFAOYSA-N,LTS0113325,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/S11418-010-0411-Z,iNaturalist
+XKNZYDKRYPYTHS-ZTATXHNCSA-N,LTS0210022,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/S11418-010-0411-Z,iNaturalist
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+YGCCASGFIOIXIN-UHFFFAOYSA-N,LTS0229079,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(91)84191-T,iNaturalist
+YLYJXNTZVUEFJZ-DODNOZFWSA-N,LTS0035338,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+YLYJXNTZVUEFJZ-UHFFFAOYSA-N,LTS0249660,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+ZBTYHECJEINCMD-AZUAARDMSA-N,LTS0094851,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(91)84191-T,iNaturalist
+ZBTYHECJEINCMD-QUCCMNQESA-N,LTS0228058,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(91)84191-T,iNaturalist
+ZBTYHECJEINCMD-UHFFFAOYSA-N,LTS0054094,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+ZBTYHECJEINCMD-UHFFFAOYSA-N,LTS0054094,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0031-9422(91)84191-T,iNaturalist
+ZBXWGKPUSLRPHX-UHFFFAOYSA-N,LTS0231029,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.59.541,GBIF Backbone Taxonomy
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF02973900,iNaturalist
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.36.1174,iNaturalist
+ZCOLJUOHXJRHDI-CMWLGVBASA-N,LTS0084994,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.40.1978,iNaturalist
+ZCOLJUOHXJRHDI-GRARQNNCSA-N,LTS0076834,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+ZCOLJUOHXJRHDI-UHFFFAOYSA-N,LTS0275563,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1002/JCCS.200400210,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/BF01374033,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/0014-5793(90)80410-K,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/J.BBRC.2008.10.178,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0003-2670(01)01433-7,GBIF Backbone Taxonomy
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(01)00996-7,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0021-9673(97)01070-4,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(97)00723-1,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1016/S0031-9422(98)00729-8,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1021/NP5009416,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2001-11499,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-957534,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1055/S-2006-962420,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1073/PNAS.90.21.10008,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1078/0176-1617-01145,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.38.1942,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.54.1315,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/YAKUSHI1947.104.1_50,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4268/CJCMM20102314,iNaturalist
+ZQSIJRDFPHDXIC-UHFFFAOYSA-N,LTS0130369,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4327/JSNFS.44.123,iNaturalist
+ZZIALNLLNHEQPJ-UHFFFAOYSA-N,LTS0267535,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1007/S12272-012-0508-X,GBIF Backbone Taxonomy
+ZZIALNLLNHEQPJ-UHFFFAOYSA-N,LTS0267535,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.30.1496,iNaturalist
+ZZIALNLLNHEQPJ-UHFFFAOYSA-N,LTS0267535,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.35.4846,iNaturalist
+ZZIALNLLNHEQPJ-UHFFFAOYSA-N,LTS0267535,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.1248/CPB.54.1315,iNaturalist
+ZZIALNLLNHEQPJ-UHFFFAOYSA-N,LTS0267535,Fabaceae,Pueraria,Pueraria,Pueraria,genus,accepted_confirmed,10.4327/JSNFS.44.123,iNaturalist
+FURUXTVZLHCCNA-AWEZNQCLSA-N,LTS0251224,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1016/S0031-9422(97)00802-9,GBIF Backbone Taxonomy
+HUKSJTUUSUGIDC-UHFFFAOYSA-N,LTS0028460,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1016/S0031-9422(97)00802-9,GBIF Backbone Taxonomy
+HUKSJTUUSUGIDC-ZBEGNZNMSA-N,LTS0159117,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1007/BF02994750,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-NDEPHWFRSA-N,LTS0191150,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1002/IJC.10414,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-NDEPHWFRSA-N,LTS0191150,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1016/S1875-5364(13)60081-3,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-NDEPHWFRSA-N,LTS0191150,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1248/CPB.17.1299,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-NDEPHWFRSA-N,LTS0191150,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.3109/00498254.2015.1041181,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-UHFFFAOYSA-N,LTS0127567,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1002/IJC.10414,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-UHFFFAOYSA-N,LTS0127567,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1016/S1875-5364(13)60081-3,GBIF Backbone Taxonomy
+IORSRBKNYXPSDO-UHFFFAOYSA-N,LTS0127567,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.3109/00498254.2015.1041181,GBIF Backbone Taxonomy
+MGJLSBDCWOSMHL-WFMNFSIZSA-N,LTS0042622,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1007/BF02994750,GBIF Backbone Taxonomy
+NSRJSISNDPOJOP-BBRMVZONSA-N,LTS0261149,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1016/S0031-9422(97)00802-9,GBIF Backbone Taxonomy
+OGNAERBXKNMZRC-ZBEGNZNMSA-N,LTS0132096,Fabaceae,Sophora,Sophora,Sophora,genus,accepted_confirmed,10.1007/BF02994750,GBIF Backbone Taxonomy
+AQBZCCQCDWNNJQ-AUSIDOKSSA-N,LTS0199590,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1021/JF3032217,GBIF Backbone Taxonomy
+AQBZCCQCDWNNJQ-UHFFFAOYSA-N,LTS0136892,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1021/JF3032217,GBIF Backbone Taxonomy
+FHECBCWIVGBBEG-OKCWMKPZSA-N,LTS0131239,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1016/S0031-9422(00)00371-X,GBIF Backbone Taxonomy
+FHECBCWIVGBBEG-SZFOBQCWSA-N,LTS0170410,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1016/S0031-9422(00)00371-X,GBIF Backbone Taxonomy
+ILWIXDUFMCFWAS-UHFFFAOYSA-N,LTS0266770,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.3109/13880209509065367,GBIF Backbone Taxonomy
+ITOTUSMHIQFNHJ-INIZCTEOSA-N,LTS0243251,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1016/S0031-9422(00)00371-X,GBIF Backbone Taxonomy
+JDLWWTGCAJYSSZ-ZSDSOXJFSA-N,LTS0180061,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.3109/13880209509065367,GBIF Backbone Taxonomy
+VLSXHSGQICXETC-MDZDMXLPSA-N,LTS0060566,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1016/S0031-9422(00)00371-X,GBIF Backbone Taxonomy
+VYVZELWVPQMZDE-INIZCTEOSA-N,LTS0143333,Fabaceae,Tephrosia,Tephrosia,Tephrosia,genus,accepted_confirmed,10.1016/S0031-9422(00)00371-X,GBIF Backbone Taxonomy
+HKQYGTCOTHHOMP-UHFFFAOYSA-N,LTS0082756,Fabaceae,Thermopsis,Thermopsis,Thermopsis,genus,accepted_confirmed,10.1007/BF00630203,GBIF Backbone Taxonomy
+XNPSXACEPKSJAF-QFLFCSHESA-N,LTS0212247,Fabaceae,Virgilia,Virgilia,Virgilia,genus,accepted_confirmed,10.1016/0305-1978(94)90085-X,ITIS
+GMISZFQPFDAPGI-JJYFIROESA-N,LTS0076760,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+GMISZFQPFDAPGI-OSYQBESMSA-N,LTS0196496,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+MOJZMWJRUKIQGL-GUZXBWELSA-N,LTS0059648,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+RTEDIEITOBJPNI-UHFFFAOYSA-N,LTS0144797,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-UKWJTHFESA-N,LTS0066122,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-VUGKQVTMSA-N,LTS0116257,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Fagaceae,Castanea,Castanea,Castanea,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+ADSYMQORONDIDD-ZJHVPRRPSA-N,LTS0134734,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-UZRWAPQLSA-N,LTS0129178,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+BMLIIPOXVWESJG-LMBCONBSSA-N,LTS0213394,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+GJWXCPDVDRIBKP-CNTBMXMRSA-N,LTS0175097,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+KGNWKZGVYSTAOX-HOFKKMOUSA-N,LTS0013864,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+LNIQZRIHAMVRJA-UHFFFAOYSA-N,LTS0040601,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+LQHGGFQNRNEFIG-UHFFFAOYSA-N,LTS0016552,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+LTTQKYMNTNISSZ-MWTRTKDXSA-N,LTS0161057,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+NDVRQFZUJRMKKP-UHFFFAOYSA-N,LTS0009981,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+NLAWPKPYBMEWIR-SKYQDXIQSA-N,LTS0171172,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+OZBAVEKZGSOMOJ-MIUGBVLSSA-N,LTS0112132,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+PADQINQHPQKXNL-LSDHHAIUSA-N,LTS0134832,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+PDGDCUUTDPJPTI-UHFFFAOYSA-N,LTS0252079,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+RYYWWFXWFMYKJM-GFCCVEGCSA-N,LTS0168243,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+WBZSDBHJYZORRP-VWLOTQADSA-N,LTS0014715,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+WQWVIIRCVOZVPN-HWKANZROSA-N,LTS0001244,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+XFFLLCTVQRLAND-VWLOTQADSA-N,LTS0039596,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+YABIJLLNNFURIJ-UHFFFAOYSA-N,LTS0057633,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+ZNWIOJJMPZWSQO-YRDUZITASA-N,LTS0118106,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+ZROGCCBNZBKLEL-MFSALPCASA-N,LTS0088600,Lamiaceae,Cunila,Cunila,Cunila,genus,accepted_confirmed,10.1007/S00299-018-2303-8,GBIF Backbone Taxonomy
+OBNFHDULZZPDMI-CSNPZDCASA-N,LTS0237321,Lamiaceae,Isodon,Isodon,Isodon,genus,accepted_confirmed,10.1016/S0031-9422(01)00245-X,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-HAXTVYHKSA-N,LTS0014248,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1055/S-2007-969135,GBIF Backbone Taxonomy
+GPLOTACQBREROW-WQLSNUALSA-N,LTS0070963,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+HXTFHSYLYXVTHC-AJHDJQPGSA-N,LTS0259265,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1021/JF00039A015,iNaturalist
+IPMYMEWFZKHGAX-ZKSIBHASSA-N,LTS0215589,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+OMQADRGFMLGFJF-MNPJBKLOSA-N,LTS0210425,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1016/S0308-8146(00)00302-2,iNaturalist
+OMQADRGFMLGFJF-MNPJBKLOSA-N,LTS0210425,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1021/JF00039A015,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+QUQPHWDTPGMPEX-QJBIFVCTSA-N,LTS0261835,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1016/S0308-8146(00)00302-2,iNaturalist
+QUQPHWDTPGMPEX-QJBIFVCTSA-N,LTS0261835,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1021/JF00039A015,iNaturalist
+RAFHNDRXYHOLSH-MMQMLBMASA-N,LTS0245332,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1016/S0308-8146(00)00302-2,iNaturalist
+RAFHNDRXYHOLSH-MMQMLBMASA-N,LTS0245332,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1021/JF00039A015,iNaturalist
+TUJOKWPTOVJHLY-JBJHRQGLSA-N,LTS0220245,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+WMBWREPUVVBILR-GHTZIAJQSA-N,LTS0223197,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Lamiaceae,Mentha,Mentha,Mentha,genus,accepted_confirmed,10.1111/J.1365-2621.2005.TB08304.X,iNaturalist
+HMUJXQRRKBLVOO-AWEZNQCLSA-N,LTS0268841,Lamiaceae,Salvia,Salvia,Salvia,genus,accepted_confirmed,10.1016/S0031-9422(01)00415-0,GBIF Backbone Taxonomy
+HMUJXQRRKBLVOO-AWEZNQCLSA-N,LTS0268841,Lamiaceae,Salvia,Salvia,Salvia,genus,accepted_confirmed,10.1021/NP50048A050,GBIF Backbone Taxonomy
+NBQYBZYBTNQEQG-LSDHHAIUSA-N,LTS0089205,Lamiaceae,Scutellaria,Scutellaria,Scutellaria,genus,accepted_confirmed,10.1021/NP970035L,GBIF Backbone Taxonomy
+TWELZOKMSAJRKP-ZDUSSCGKSA-N,LTS0085335,Lamiaceae,Scutellaria,Scutellaria,Scutellaria,genus,accepted_confirmed,10.1021/NP970035L,GBIF Backbone Taxonomy
+TWELZOKMSAJRKP-ZDUSSCGKSA-N,LTS0085335,Lamiaceae,Scutellaria,Scutellaria,Scutellaria,genus,accepted_confirmed,10.1055/S-2007-971499,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Lamiaceae,Thymus,Thymus,Thymus,genus,accepted_confirmed,10.1016/S0308-8146(01)00114-5,ITIS
+DFPMSGMNTNDNHN-ZPHOTFPESA-N,LTS0165229,Lamiaceae,Thymus,Thymus,Thymus,genus,accepted_confirmed,10.1021/JF010697N,ITIS
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Lamiaceae,Thymus,Thymus,Thymus,genus,accepted_confirmed,10.1021/JF040083T,ITIS
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Lamiaceae,Thymus,Thymus,Thymus,genus,accepted_confirmed,10.1021/JF040083T,ITIS
+SBHXYTNGIZCORC-ZDUSSCGKSA-N,LTS0220769,Lamiaceae,Thymus,Thymus,Thymus,genus,accepted_confirmed,10.1021/JF040083T,ITIS
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Lauraceae,Cinnamomum,Cinnamomum,Cinnamomum,genus,accepted_confirmed,10.1021/JF051513Y,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Lauraceae,Ocotea,Ocotea,Ocotea,genus,accepted_confirmed,10.3109/13880209409083024,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-AFYYWNPRSA-N,LTS0267103,Malvaceae,Theobroma,Theobroma,Theobroma,genus,accepted_confirmed,10.1007/S00394-008-0761-4,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UHFFFAOYSA-N,LTS0090912,Malvaceae,Theobroma,Theobroma,Theobroma,genus,accepted_confirmed,10.1007/S00394-008-0761-4,GBIF Backbone Taxonomy
+LHPRYOJTASOZGJ-UHFFFAOYSA-N,LTS0148845,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1021/NP010451C,GBIF Backbone Taxonomy
+LNBFFYUGHCUNLA-UHFFFAOYSA-N,LTS0126898,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.08.009,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1021/NP010451C,GBIF Backbone Taxonomy
+QBLQLKNOKUHRCH-UHFFFAOYSA-N,LTS0070044,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1021/NP010451C,GBIF Backbone Taxonomy
+QIWOFDHUQPJCJF-LSDHHAIUSA-N,LTS0068109,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1021/NP010451C,GBIF Backbone Taxonomy
+RSYUFYQTACJFML-HIFRSBDPSA-N,LTS0019891,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.08.009,GBIF Backbone Taxonomy
+SCYFWIZEROMNMU-UHFFFAOYSA-N,LTS0136117,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2003.08.009,GBIF Backbone Taxonomy
+SQJLTDFIOMWZDE-XRBICMMMSA-N,LTS0196359,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1021/NP010451C,GBIF Backbone Taxonomy
+VQUPQWGKORWZII-UZFIDVBXSA-N,LTS0123801,Moraceae,Artocarpus,Artocarpus,Artocarpus,genus,accepted_confirmed,10.1021/NP010451C,GBIF Backbone Taxonomy
+XPMCEWWRVJLSLM-NRFANRHFSA-N,LTS0144445,Moraceae,Maclura,Maclura,Maclura,genus,accepted_confirmed,10.1002/CBDV.200490164,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-JJYFIROESA-N,LTS0076760,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-OSYQBESMSA-N,LTS0196496,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-GUZXBWELSA-N,LTS0059648,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1007/S00217-003-0762-8,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+RTEDIEITOBJPNI-UHFFFAOYSA-N,LTS0144797,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-GHTZIAJQSA-N,LTS0223197,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-UKWJTHFESA-N,LTS0066122,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-VUGKQVTMSA-N,LTS0116257,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Musaceae,Musa,Musa,Musa,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+FVQOMEDMFUMIMO-RPFXOQMXSA-N,LTS0149637,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+FVQOMEDMFUMIMO-UHFFFAOYSA-N,LTS0053474,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+GXMWXESSGGEWEM-NBVFXJDISA-N,LTS0001636,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+GXMWXESSGGEWEM-UHFFFAOYSA-N,LTS0143475,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+UKSPRKDZNYSFRL-HUWKJKRASA-N,LTS0195920,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+UKSPRKDZNYSFRL-UHFFFAOYSA-N,LTS0263742,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+VQUPQWGKORWZII-UHFFFAOYSA-N,LTS0270077,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+XUJNKPZDIVKHBE-UHFFFAOYSA-N,LTS0186059,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+ZROGCCBNZBKLEL-UHFFFAOYSA-N,LTS0079309,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+ZROGCCBNZBKLEL-XEXNSLJOSA-N,LTS0213990,Onagraceae,Epilobium,Epilobium,Epilobium,genus,synonym_replaced,10.1016/0031-9422(94)00629-8,iNaturalist
+GZMQBBRYFCFXLO-NDGMBFRGSA-N,LTS0227658,Orchidaceae,Vanda,Vanda,Vanda,genus,accepted_confirmed,10.1016/J.BSE.2004.02.004,GBIF Backbone Taxonomy
+HAWCEZLOTYMLMO-LLIIEXLISA-N,LTS0080649,Orchidaceae,Vanda,Vanda,Vanda,genus,accepted_confirmed,10.1016/J.BSE.2004.02.004,GBIF Backbone Taxonomy
+ICIBLPUNJLISNS-VCWNRGAVSA-N,LTS0192978,Orchidaceae,Vanda,Vanda,Vanda,genus,accepted_confirmed,10.1016/J.BSE.2004.02.004,GBIF Backbone Taxonomy
+JFDMVFCEHFDXJK-NIGBQGMVSA-N,LTS0020007,Orchidaceae,Vanda,Vanda,Vanda,genus,accepted_confirmed,10.1016/J.BSE.2004.02.004,GBIF Backbone Taxonomy
+KNAAKGXQWAOOSH-CEHBZMSSSA-N,LTS0258082,Orchidaceae,Vanda,Vanda,Vanda,genus,accepted_confirmed,10.1016/J.BSE.2004.02.004,GBIF Backbone Taxonomy
+UESFDRVOHWXYIQ-PRANAVDNSA-N,LTS0033439,Phrymaceae,Mimulus,Mimulus,Mimulus,genus,accepted_confirmed,10.1016/0031-9422(89)80371-1,iNaturalist
+UESFDRVOHWXYIQ-PRANAVDNSA-N,LTS0033439,Phrymaceae,Mimulus,Mimulus,Mimulus,genus,accepted_confirmed,10.1016/0305-1978(86)90061-X,iNaturalist
+XCYSQFHYFNWYFP-VIZOYTHASA-N,LTS0196070,Phrymaceae,Mimulus,Mimulus,Mimulus,genus,accepted_confirmed,10.1016/0031-9422(89)80371-1,iNaturalist
+XCYSQFHYFNWYFP-VIZOYTHASA-N,LTS0196070,Phrymaceae,Mimulus,Mimulus,Mimulus,genus,accepted_confirmed,10.1016/0305-1978(86)90061-X,iNaturalist
+XYIQIBWIEGCVQY-RWHUQTJRSA-N,LTS0016846,Phrymaceae,Mimulus,Mimulus,Mimulus,genus,accepted_confirmed,10.1016/0031-9422(89)80371-1,iNaturalist
+XYIQIBWIEGCVQY-RWHUQTJRSA-N,LTS0016846,Phrymaceae,Mimulus,Mimulus,Mimulus,genus,accepted_confirmed,10.1016/0305-1978(86)90061-X,iNaturalist
+INBPQAJYHSJVRY-UHFFFAOYSA-N,LTS0075777,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1248/CPB1953.5.195,GBIF Backbone Taxonomy
+INBPQAJYHSJVRY-ZDUSSCGKSA-N,LTS0190343,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1248/CPB1953.5.195,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+URFCJEUYXNAHFI-UHFFFAOYSA-N,LTS0155292,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.3891/ACTA.CHEM.SCAND.03-0763,iNaturalist
+URFCJEUYXNAHFI-UHFFFAOYSA-N,LTS0155292,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.3891/ACTA.CHEM.SCAND.05-0121,iNaturalist
+URFCJEUYXNAHFI-ZDUSSCGKSA-N,LTS0141508,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.3891/ACTA.CHEM.SCAND.03-0763,iNaturalist
+URFCJEUYXNAHFI-ZDUSSCGKSA-N,LTS0141508,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.3891/ACTA.CHEM.SCAND.05-0121,iNaturalist
+WMBWREPUVVBILR-GHTZIAJQSA-N,LTS0223197,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Pinaceae,Pinus,Pinus,Pinus,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+ORJDDOBAOGKRJV-AWEZNQCLSA-N,LTS0241120,Piperaceae,Piper,Piper,Piper,genus,accepted_confirmed,10.1021/NP960601X,GBIF Backbone Taxonomy
+CRBYNQCDRNZCNX-DUXPYHPUSA-N,LTS0260237,Plumbaginaceae,Limonium,Limonium,Limonium,genus,accepted_confirmed,10.1016/S0031-9422(00)88547-7,GBIF Backbone Taxonomy
+DMUFTHUNUKRXSC-KYSZGLPYSA-N,LTS0042131,Poaceae,Sorghum,Sorghum,Sorghum,genus,accepted_confirmed,10.1016/S0031-9422(00)81304-7,GBIF Backbone Taxonomy
+RPKUCYSGAXIESU-CHWSQXEVSA-N,LTS0249324,Poaceae,Sorghum,Sorghum,Sorghum,genus,accepted_confirmed,10.1021/JF00115A011,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Polygonaceae,Rheum,Rheum,Rheum,genus,accepted_confirmed,10.1248/CPB.34.3208,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Polygonaceae,Rheum,Rheum,Rheum,genus,accepted_confirmed,10.1248/CPB.34.4083,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Polygonaceae,Rheum,Rheum,Rheum,genus,accepted_confirmed,10.1248/CPB.34.4083,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Polygonaceae,Rheum,Rheum,Rheum,genus,accepted_confirmed,10.1248/CPB.34.4083,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-UHFFFAOYSA-N,LTS0248252,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-GHTZIAJQSA-N,LTS0223197,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Proteaceae,Macadamia,Macadamia,Macadamia,genus,accepted_confirmed,10.1021/JF061478A,GBIF Backbone Taxonomy
+JOWOJLYSOUYSCI-CMDGGOBGSA-N,LTS0057940,Pteridaceae,Pentagramma,Pentagramma,Pentagramma,genus,accepted_confirmed,10.1016/S0031-9422(00)89386-3,iNaturalist
+MJPLGHSVCRZIQU-UHFFFAOYSA-N,LTS0167296,Pteridaceae,Pentagramma,Pentagramma,Pentagramma,genus,accepted_confirmed,10.1016/S0031-9422(00)83163-5,iNaturalist
+QKQLSQLKXBHUSO-CMDGGOBGSA-N,LTS0134402,Pteridaceae,Pentagramma,Pentagramma,Pentagramma,genus,accepted_confirmed,10.1016/S0031-9422(00)83163-5,iNaturalist
+URFCJEUYXNAHFI-ZDUSSCGKSA-N,LTS0141508,Pteridaceae,Pentagramma,Pentagramma,Pentagramma,genus,accepted_confirmed,10.1016/S0031-9422(00)83163-5,iNaturalist
+MDMCODCJMHTFIZ-UHFFFAOYSA-N,LTS0269836,Pteridaceae,Pityrogramma,Pityrogramma,Pityrogramma,genus,accepted_confirmed,10.3891/ACTA.CHEM.SCAND.15-0154,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1002/(SICI)1099-1565(200003/04)11:2<106::AID-PCA496>3.0.CO;2-O,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1055/S-0031-1299862,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1002/(SICI)1099-1565(200003/04)11:2<106::AID-PCA496>3.0.CO;2-O,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1055/S-0031-1299862,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1002/(SICI)1099-1565(200003/04)11:2<106::AID-PCA496>3.0.CO;2-O,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1055/S-0031-1299862,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-ATEOAPGCSA-N,LTS0097406,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1002/(SICI)1099-1565(200003/04)11:2<106::AID-PCA496>3.0.CO;2-O,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-ATEOAPGCSA-N,LTS0097406,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1055/S-0031-1299862,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1002/(SICI)1099-1565(200003/04)11:2<106::AID-PCA496>3.0.CO;2-O,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Crataegus,Crataegus,Crataegus,genus,accepted_confirmed,10.1055/S-0031-1299862,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-JJYFIROESA-N,LTS0076760,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+GMISZFQPFDAPGI-OSYQBESMSA-N,LTS0196496,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+MOJZMWJRUKIQGL-GUZXBWELSA-N,LTS0059648,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+RTEDIEITOBJPNI-UHFFFAOYSA-N,LTS0144797,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1016/S0308-8146(00)00134-5,ITIS
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-UKWJTHFESA-N,LTS0066122,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XFZJEEAOWLFHDH-VUGKQVTMSA-N,LTS0116257,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Rosaceae,Cydonia,Cydonia,Cydonia,genus,accepted_confirmed,10.1021/JF000549H,ITIS
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1016/S0021-9673(97)01061-3,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-JJYFIROESA-N,LTS0076760,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-OSYQBESMSA-N,LTS0196496,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-GUZXBWELSA-N,LTS0059648,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF049450R,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF049450R,GBIF Backbone Taxonomy
+RTEDIEITOBJPNI-UHFFFAOYSA-N,LTS0144797,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF049450R,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-UKWJTHFESA-N,LTS0066122,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-VUGKQVTMSA-N,LTS0116257,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Rosaceae,Fragaria,Fragaria,Fragaria,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+IOUVKUPGCMBWBT-QNDFHXLGSA-N,LTS0198771,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/0031-9422(91)80010-X,iNaturalist
+IOUVKUPGCMBWBT-QNDFHXLGSA-N,LTS0198771,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/0308-8146(93)90071-M,iNaturalist
+IOUVKUPGCMBWBT-QNDFHXLGSA-N,LTS0198771,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/S0308-8146(96)00287-7,iNaturalist
+IOUVKUPGCMBWBT-QNDFHXLGSA-N,LTS0198771,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF00048A016,iNaturalist
+IOUVKUPGCMBWBT-QNDFHXLGSA-N,LTS0198771,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF00076A022,iNaturalist
+IOUVKUPGCMBWBT-QNDFHXLGSA-N,LTS0198771,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF404542D,GBIF Backbone Taxonomy
+IOUVKUPGCMBWBT-UHFFFAOYSA-N,LTS0176319,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF404542D,GBIF Backbone Taxonomy
+KKJMOABHCCNIEF-WVXKDWSHSA-N,LTS0256007,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF025993U,GBIF Backbone Taxonomy
+OEIJRRGCTVHYTH-UHFFFAOYSA-N,LTS0082052,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/0308-8146(92)90223-O,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/0308-8146(92)90223-O,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/S0021-9673(98)00294-5,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/S0021-9673(99)00684-6,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF00048A016,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF025993U,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1080/01483918808076763,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1080/10826079208018822,iNaturalist
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF025993U,GBIF Backbone Taxonomy
+VGEREEWJJVICBM-UHFFFAOYSA-N,LTS0003293,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/0031-9422(91)80010-X,iNaturalist
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/0031-9422(75)85197-1,iNaturalist
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1016/S0021-9673(99)00684-6,iNaturalist
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1021/JF00048A016,iNaturalist
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1046/J.0007-0963.2001.04558.X,iNaturalist
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1080/10826079208018822,iNaturalist
+XJHMLSKQZFKMLL-QNDFHXLGSA-N,LTS0243086,Rosaceae,Malus,Malus,Malus,genus,accepted_confirmed,10.1039/JR9610004133,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-CYBMUJFWSA-N,LTS0072900,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1271/BBB1961.54.3355,iNaturalist
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1271/BBB1961.54.3355,iNaturalist
+HHQIZOGLMHHKLC-SOCIYPEWSA-N,LTS0186744,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+HHQIZOGLMHHKLC-UHFFFAOYSA-N,LTS0030659,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+MNYVBVCMMNPLJI-QPJJXVBHSA-N,LTS0069433,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+NEPMMBQHELYZIW-UHFFFAOYSA-N,LTS0197829,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+NEPMMBQHELYZIW-YMTXFHFDSA-N,LTS0171291,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+NKYUUWHIEOUGKB-HCBKAOJGSA-N,LTS0234295,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1071/CH9680539,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1271/BBB1961.54.3355,iNaturalist
+PFTAWBLQPZVEMU-UHFFFAOYSA-N,LTS0090912,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1271/BBB1961.54.3355,iNaturalist
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1016/0031-9422(90)80144-6,iNaturalist
+TZBJGXHYKVUXJN-UHFFFAOYSA-N,LTS0106538,Rosaceae,Prunus,Prunus,Prunus,genus,accepted_confirmed,10.1271/BBB1961.54.3355,iNaturalist
+PQRVOFHRUVJMJN-YMLRRHDESA-N,LTS0214869,Rosaceae,Rosa,Rosa,Rosa,genus,accepted_confirmed,10.1016/S0305-1978(99)00127-1,GBIF Backbone Taxonomy
+UKSPRKDZNYSFRL-PXOCLKCNSA-N,LTS0135293,Rosaceae,Rosa,Rosa,Rosa,genus,accepted_confirmed,10.1002/PCA.2800040607,GBIF Backbone Taxonomy
+XNPSXACEPKSJAF-QFLFCSHESA-N,LTS0212247,Rosaceae,Rosa,Rosa,Rosa,genus,accepted_confirmed,10.1016/S0305-1978(99)00127-1,GBIF Backbone Taxonomy
+ARRWGYUWEBHMSK-LHRGPQAGSA-N,LTS0127720,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1002/JSFA.1885,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-JJYFIROESA-N,LTS0076760,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+GMISZFQPFDAPGI-OSYQBESMSA-N,LTS0196496,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+IVKWSOPWPDHRMQ-YQUABMASSA-N,LTS0126872,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1002/JSFA.1885,GBIF Backbone Taxonomy
+LBMFBWMHQUKCCE-UHFFFAOYSA-N,LTS0006989,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1002/JSFA.1885,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-GUZXBWELSA-N,LTS0059648,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+MOJZMWJRUKIQGL-XILRTYJMSA-N,LTS0260445,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+RTEDIEITOBJPNI-UHFFFAOYSA-N,LTS0144797,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-NFJBMHMQSA-N,LTS0135510,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-UKWJTHFESA-N,LTS0066122,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-VUGKQVTMSA-N,LTS0116257,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1021/JF000549H,GBIF Backbone Taxonomy
+XNPSXACEPKSJAF-UHFFFAOYSA-N,LTS0083305,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1002/JSFA.1885,GBIF Backbone Taxonomy
+ZYAPMQPHTUTWEL-UHFFFAOYSA-N,LTS0209118,Rosaceae,Rubus,Rubus,Rubus,genus,accepted_confirmed,10.1002/JSFA.1885,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UHFFFAOYSA-N,LTS0090912,Rosaceae,Vauquelinia,Vauquelinia,Vauquelinia,genus,accepted_confirmed,10.3390/MOLECULES200815330,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rosaceae,Vauquelinia,Vauquelinia,Vauquelinia,genus,accepted_confirmed,10.3390/MOLECULES200815330,GBIF Backbone Taxonomy
+LSHVYAFMTMFKBA-TZIWHRDSSA-N,LTS0071606,Rubiaceae,Coffea,Coffea,Coffea,genus,accepted_confirmed,10.1021/JF000026+,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Rubiaceae,Coffea,Coffea,Coffea,genus,accepted_confirmed,10.1021/JF000026+,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Rubiaceae,Coffea,Coffea,Coffea,genus,accepted_confirmed,10.1021/JF000026+,GBIF Backbone Taxonomy
+WMBWREPUVVBILR-WIYYLYMNSA-N,LTS0173211,Rubiaceae,Coffea,Coffea,Coffea,genus,accepted_confirmed,10.1021/JF000026+,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-IUODEOHRSA-N,LTS0052496,Rubiaceae,Coffea,Coffea,Coffea,genus,accepted_confirmed,10.1021/JF000026+,GBIF Backbone Taxonomy
+XMOCLSLCDHWDHP-SWLSCSKDSA-N,LTS0267305,Rubiaceae,Coffea,Coffea,Coffea,genus,accepted_confirmed,10.1021/JF000026+,GBIF Backbone Taxonomy
+DPWCTCFTFSFYCZ-INIZCTEOSA-N,LTS0097069,Rutaceae,Cedrelopsis,Cedrelopsis,Cedrelopsis,genus,accepted_confirmed,10.1021/NP0200562,GBIF Backbone Taxonomy
+IMGRRXXTMXIKTA-MRXNPFEDSA-N,LTS0036201,Rutaceae,Cedrelopsis,Cedrelopsis,Cedrelopsis,genus,accepted_confirmed,10.1021/NP0200562,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1002/PTR.4826,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1007/S11418-012-0699-Y,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.CBI.2009.03.005,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.FCT.2009.07.019,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-AWEZNQCLSA-N,LTS0087195,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1211/JPP.60.10.0015,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-UHFFFAOYSA-N,LTS0070100,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1002/PTR.4826,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-UHFFFAOYSA-N,LTS0070100,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1007/S11418-012-0699-Y,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-UHFFFAOYSA-N,LTS0070100,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.CBI.2009.03.005,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-UHFFFAOYSA-N,LTS0070100,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.FCT.2009.07.019,GBIF Backbone Taxonomy
+AIONOLUJZLIMTK-UHFFFAOYSA-N,LTS0070100,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1211/JPP.60.10.0015,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-NRRCNVALSA-N,LTS0120745,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1080/00021369.1979.10863651,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-UHFFFAOYSA-N,LTS0265383,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1111/J.1365-2672.2007.03456.X,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-UHFFFAOYSA-N,LTS0265383,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1515/ZNC-2011-7-810,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-UZRWAPQLSA-N,LTS0129178,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1080/00021369.1979.10863651,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-UZRWAPQLSA-N,LTS0129178,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1111/J.1365-2672.2007.03456.X,GBIF Backbone Taxonomy
+ARGKVCXINMKCAZ-UZRWAPQLSA-N,LTS0129178,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1515/ZNC-2011-7-810,GBIF Backbone Taxonomy
+DFPMSGMNTNDNHN-OHQIONLKSA-N,LTS0138617,Rutaceae,Citrus,Citrus,Citrus,genus,synonym_replaced,10.1016/0031-9422(93)85237-L,ITIS
+DFPMSGMNTNDNHN-UHFFFAOYSA-N,LTS0138800,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.LFS.2003.12.019,GBIF Backbone Taxonomy
+DFPMSGMNTNDNHN-ZPHOTFPESA-N,LTS0165229,Rutaceae,Citrus,Citrus,Citrus,genus,synonym_replaced,10.1016/0031-9422(93)85237-L,ITIS
+DFPMSGMNTNDNHN-ZPHOTFPESA-N,LTS0165229,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.LFS.2003.12.019,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.NUTRES.2007.12.002,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1248/BPB.28.527,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/S0031-9422(00)85805-7,GBIF Backbone Taxonomy
+HXTFHSYLYXVTHC-AJHDJQPGSA-N,LTS0259265,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1007/S11418-012-0699-Y,GBIF Backbone Taxonomy
+HXTFHSYLYXVTHC-AJHDJQPGSA-N,LTS0259265,Rutaceae,Citrus,Citrus,Citrus,genus,synonym_replaced,10.1016/0031-9422(93)85237-L,ITIS
+HXTFHSYLYXVTHC-AJHDJQPGSA-N,LTS0259265,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.FCT.2012.07.007,GBIF Backbone Taxonomy
+HXTFHSYLYXVTHC-AJHDJQPGSA-N,LTS0259265,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.TOX.2010.01.012,GBIF Backbone Taxonomy
+HXTFHSYLYXVTHC-UHFFFAOYSA-N,LTS0252145,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1007/S11418-012-0699-Y,GBIF Backbone Taxonomy
+HXTFHSYLYXVTHC-UHFFFAOYSA-N,LTS0252145,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.FCT.2012.07.007,GBIF Backbone Taxonomy
+HXTFHSYLYXVTHC-UHFFFAOYSA-N,LTS0252145,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.TOX.2010.01.012,GBIF Backbone Taxonomy
+OMQADRGFMLGFJF-MNPJBKLOSA-N,LTS0210425,Rutaceae,Citrus,Citrus,Citrus,genus,synonym_replaced,10.1016/0031-9422(93)85237-L,ITIS
+OMQADRGFMLGFJF-MNPJBKLOSA-N,LTS0210425,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1080/00021369.1979.10863651,GBIF Backbone Taxonomy
+OMQADRGFMLGFJF-MWJMZSRHSA-N,LTS0096238,Rutaceae,Citrus,Citrus,Citrus,genus,synonym_replaced,10.1016/0031-9422(93)85237-L,ITIS
+OMQADRGFMLGFJF-PCSPYYSVSA-N,LTS0268239,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1080/00021369.1979.10863651,GBIF Backbone Taxonomy
+RMCRQBAILCLJGU-HIBKWJPLSA-N,LTS0187794,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.LUNGCAN.2009.08.013,GBIF Backbone Taxonomy
+RMCRQBAILCLJGU-UHFFFAOYSA-N,LTS0053955,Rutaceae,Citrus,Citrus,Citrus,genus,accepted_confirmed,10.1016/J.LUNGCAN.2009.08.013,GBIF Backbone Taxonomy
+WAWHTTXPRUWFCZ-DBGLWBBTSA-N,LTS0218585,Rutaceae,Citrus,Citrus,Citrus,genus,synonym_replaced,10.1016/S0031-9422(01)00132-7,ITIS
+QUQPHWDTPGMPEX-QJBIFVCTSA-N,LTS0261835,Rutaceae,Esenbeckia,Esenbeckia,Esenbeckia,genus,accepted_confirmed,10.1016/S0031-9422(98)00110-1,ITIS
+QUQPHWDTPGMPEX-YEDPJISVSA-N,LTS0214031,Rutaceae,Esenbeckia,Esenbeckia,Esenbeckia,genus,accepted_confirmed,10.1016/S0031-9422(98)00110-1,ITIS
+MRUCPTGFOUAUDY-IBGZPJMESA-N,LTS0230642,Rutaceae,Glycosmis,Glycosmis,Glycosmis,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2009.05.007,GBIF Backbone Taxonomy
+QMJNQPPYYVEJAY-ZGKFYVQTSA-N,LTS0160310,Rutaceae,Glycosmis,Glycosmis,Glycosmis,genus,accepted_confirmed,10.1016/J.PHYTOCHEM.2009.05.007,GBIF Backbone Taxonomy
+ORJDDOBAOGKRJV-AWEZNQCLSA-N,LTS0241120,Salicaceae,Populus,Populus,Populus,genus,accepted_confirmed,10.1007/BF00630627,iNaturalist
+ORJDDOBAOGKRJV-CQSZACIVSA-N,LTS0226959,Salicaceae,Populus,Populus,Populus,genus,accepted_confirmed,10.1007/BF00630627,iNaturalist
+QPOCKDYYXFOBCM-JKSUJKDBSA-N,LTS0119680,Salicaceae,Populus,Populus,Populus,genus,accepted_confirmed,10.1007/BF00630627,iNaturalist
+QPOCKDYYXFOBCM-UHFFFAOYSA-N,LTS0190740,Salicaceae,Populus,Populus,Populus,genus,accepted_confirmed,10.1007/BF00630627,iNaturalist
+SUYJZKRQHBQNCA-LSDHHAIUSA-N,LTS0036850,Salicaceae,Populus,Populus,Populus,genus,accepted_confirmed,10.1007/BF00630627,iNaturalist
+URFCJEUYXNAHFI-ZDUSSCGKSA-N,LTS0141508,Salicaceae,Populus,Populus,Populus,genus,accepted_confirmed,10.1007/BF00630627,iNaturalist
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Salicaceae,Salix,Salix,Salix,genus,accepted_confirmed,10.1016/0031-9422(90)80054-K,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Salicaceae,Salix,Salix,Salix,genus,accepted_confirmed,10.1039/P19880000219,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-UKRRQHHQSA-N,LTS0265245,Salicaceae,Salix,Salix,Salix,genus,accepted_confirmed,10.1016/0031-9422(90)80054-K,GBIF Backbone Taxonomy
+XFZJEEAOWLFHDH-AVFWISQGSA-N,LTS0151498,Salicaceae,Salix,Salix,Salix,genus,accepted_confirmed,10.1016/0031-9422(90)80054-K,GBIF Backbone Taxonomy
+PENVZGWIOSIDJF-UHFFFAOYSA-N,LTS0195087,Selaginellaceae,Selaginella,Selaginella,Selaginella,genus,accepted_confirmed,10.1021/JF8010432,GBIF Backbone Taxonomy
+XUAORUWVUTVEEC-UHFFFAOYSA-N,LTS0128343,Selaginellaceae,Selaginella,Selaginella,Selaginella,genus,accepted_confirmed,10.1016/J.JEP.2015.01.031,GBIF Backbone Taxonomy
+VFZYLYJWCROVLO-DZGCQCFKSA-N,LTS0143893,Simaroubaceae,Castela,Castela,Castela,genus,accepted_confirmed,10.1016/0031-9422(93)85540-8,iNaturalist
+VFZYLYJWCROVLO-UHFFFAOYSA-N,LTS0053622,Simaroubaceae,Castela,Castela,Castela,genus,accepted_confirmed,10.1016/0031-9422(93)85540-8,iNaturalist
+BJYHZSNSMVEQEH-SJORKVTESA-N,LTS0086670,Siparunaceae,Siparuna,Siparuna,Siparuna,genus,accepted_confirmed,10.1016/0031-9422(93)85293-Z,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Siparunaceae,Siparuna,Siparuna,Siparuna,genus,accepted_confirmed,10.1016/0031-9422(93)85293-Z,GBIF Backbone Taxonomy
+SBHXYTNGIZCORC-ZDUSSCGKSA-N,LTS0220769,Siparunaceae,Siparuna,Siparuna,Siparuna,genus,accepted_confirmed,10.1016/0031-9422(93)85293-Z,GBIF Backbone Taxonomy
+SUYJZKRQHBQNCA-LSDHHAIUSA-N,LTS0036850,Siparunaceae,Siparuna,Siparuna,Siparuna,genus,accepted_confirmed,10.1016/0031-9422(93)85293-Z,GBIF Backbone Taxonomy
+URFCJEUYXNAHFI-ZDUSSCGKSA-N,LTS0141508,Siparunaceae,Siparuna,Siparuna,Siparuna,genus,accepted_confirmed,10.1016/0031-9422(93)85293-Z,GBIF Backbone Taxonomy
+CXQWRCVTCMQVQX-LSDHHAIUSA-N,LTS0090664,Solanaceae,Petunia,Petunia,Petunia,genus,accepted_confirmed,10.1016/0031-9422(89)80139-6,GBIF Backbone Taxonomy
+CXQWRCVTCMQVQX-UHFFFAOYSA-N,LTS0040950,Solanaceae,Petunia,Petunia,Petunia,genus,accepted_confirmed,10.1016/0031-9422(89)80139-6,GBIF Backbone Taxonomy
+FTVWIRXFELQLPI-UHFFFAOYSA-N,LTS0068303,Solanaceae,Solanum,Solanum,Solanum,genus,accepted_confirmed,10.1016/J.JFCA.2005.02.003,iNaturalist
+FTVWIRXFELQLPI-ZDUSSCGKSA-N,LTS0031098,Solanaceae,Solanum,Solanum,Solanum,genus,accepted_confirmed,10.1016/J.JFCA.2005.02.003,iNaturalist
+IPMYMEWFZKHGAX-ZKSIBHASSA-N,LTS0215589,Theaceae,Camellia,Camellia,Camellia,genus,accepted_confirmed,10.1016/S0021-9673(01)88752-5,GBIF Backbone Taxonomy
+KJXSIXMJHKAJOD-LSDHHAIUSA-N,LTS0061492,Vitaceae,Ampelopsis,Ampelopsis,Ampelopsis,genus,accepted_confirmed,NA,GBIF Backbone Taxonomy
+KJXSIXMJHKAJOD-UHFFFAOYSA-N,LTS0105545,Vitaceae,Ampelopsis,Ampelopsis,Ampelopsis,genus,accepted_confirmed,NA,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Vitaceae,Vitis,Vitis,Vitis,genus,accepted_confirmed,10.1080/13102818.2006.10817302,GBIF Backbone Taxonomy
+PFTAWBLQPZVEMU-DZGCQCFKSA-N,LTS0117079,Zingiberaceae,Zingiber,Zingiber,Zingiber,genus,accepted_confirmed,10.1021/JF051513Y,GBIF Backbone Taxonomy

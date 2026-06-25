@@ -1,380 +1,317 @@
-# Comparative flavonoid chemotaxonomy across plant lineages reveals structural specialization and target-dependent functional patterns
+# Taxonomic distribution, structural diversity, and functional evidence of selected flavonoid subclasses across vascular plant families
 
-This repository contains the code, input files, and exported outputs associated with the manuscript:
+This repository contains the analytical workflow, processed datasets, audit files, statistical outputs, and figure source files associated with the manuscript:
 
-**Comparative flavonoid chemotaxonomy across plant lineages reveals structural specialization and target-dependent functional patterns**
+> **Taxonomic distribution, structural diversity, and functional evidence of selected flavonoid subclasses across vascular plant families**
 
-The workflow integrates:
+The project integrates taxonomically normalized occurrence records from LOTUS, RDKit-based structural annotation, a branch-length-free family-level visualization tree, and curated ChEMBL bioactivity records. The analyses were designed to distinguish documented chemical patterns from unequal sampling and selective functional testing.
 
-- MongoDB-based extraction from a curated LOTUS subset
-- taxonomic curation and normalization with World Flora Online
-- bioactivity integration
-- RDKit-based structural annotation
-- macro-group statistical analyses
-- phylogeny/iTOL-oriented formatting
+## Study scope
 
-The analytical workflow is implemented in **R** and **Python**.
+The analysis focuses on 17 selected and harmonized flavonoid subclasses:
 
----
+- 2-Arylbenzofurans
+- Anthocyanidins
+- Aurones
+- Chalcones
+- Coumestans
+- Dihydroflavonols
+- Flavan-3-ols
+- Flavandiols
+- Flavanones
+- Flavans
+- Flavonolignans
+- Isoflavanones
+- Isoflavones
+- Neoflavonoids
+- Proanthocyanidins
+- Pterocarpans
+- Rotenoids
 
-## Repository contents
+Flavones and flavonols were excluded a priori because together they represented 53.37% of the source-level LOTUS flavonoid universe and could obscure variation among the selected subclasses. This analytical exclusion does not imply lower biological, ecological, or chemotaxonomic importance.
 
-### Main driver
+## Validated analytical dataset
 
-- `Main_Pipeline_end.R`
+The manuscript-level workflow produced:
 
-### Scripts
+- 10,863 structures assigned to the 17 selected and harmonized subclasses
+- 10,679 structures with retrievable plant occurrence records
+- 10,496 taxonomically resolved compounds
+- 10,469 compounds eligible for the primary structural analyses
+- 33,109 deduplicated documentary occurrence records
+- 25,900 distinct compound–taxon associations
+- 213 vascular plant families in the family-level visualization tree
+- 131 families with at least 10 eligible compounds in the primary family-level inferential analyses
+- 2,064 compounds mapped to ChEMBL identifiers
+- 1,003 compounds with eligible primary quantitative bioactivity records
+- 1,000 compounds contributing to the final functional aggregation
 
-- `scripts/Part I_Extraction.R`
-- `scripts/Part II - Bio_iTOL_Prep.R`
-- `scripts/3_annotate_flavonoids_rdkit_auto.py`
-- `scripts/Part III - Figures_Stats.R`
-- `scripts/Tree_APG_ITOL.R`
+The primary family-level threshold was **n ≥ 10 compounds**, with sensitivity analyses at **n ≥ 5** and **n ≥ 20**.
 
-### Main folders currently distributed in the repository
+## Analytical workflow
 
-- `inputs/`
-- `outputs/`
-- `scripts/`
-- `data/` (local support structure; large backbone files are distributed separately)
+The workflow is organized into five connected stages:
 
----
+1. **LOTUS extraction and taxonomic normalization**  
+   Extraction from MongoDB, World Flora Online-assisted taxonomic resolution, occurrence deduplication, and audit-table generation.
 
-## Current repository structure
+2. **Bioactivity integration and structural-input preparation**  
+   ChEMBL identifier mapping, activity retrieval and filtering, functional-domain assignment, binary-evidence classification, and preparation of the RDKit input table.
+
+3. **RDKit structural annotation**  
+   Structure standardization, quality control, physicochemical descriptors, Bemis–Murcko scaffolds, structural motifs, and compound-level audit files.
+
+4. **Family-level visualization tree**  
+   Deterministic representative-species selection, V.PhyloMaker2 placement, APG-based lineage annotation, topology auditing, and iTOL exports. The tree is used as a family-level visualization framework rather than as a dated phylogeny.
+
+5. **Statistical analyses and figures**  
+   Family-level multivariate analyses, sampling-adjusted scaffold richness, functional evidence summaries, Fsp3 and motif–potency models, sensitivity analyses, and the descriptive structure–bioactivity evidence network.
+
+## Repository structure
 
 ```text
 .
-├─ README.md
-├─ .gitignore
-├─ .here
-├─ Main_Pipeline_end.R
-├─ data/
-├─ inputs/
-├─ outputs/
-└─ scripts/
-   ├─ Part I_Extraction.R
-   ├─ Part II - Bio_iTOL_Prep.R
-   ├─ 3_annotate_flavonoids_rdkit_auto.py
-   ├─ Part III - Figures_Stats.R
-   └─ Tree_APG_ITOL.R
+├── README.md
+├── CITATION.cff
+├── Main_Pipeline_end.R
+├── scripts/
+│   ├── Part_I_Extraction_v2_1.R
+│   ├── Part_II_Bio_iTOL_Prep_v2_1.R
+│   ├── 3_annotate_flavonoids_rdkit_auto.py
+│   ├── Tree_APG_ITOL_v2_1.R
+│   ├── Part_III_Figures_Stats_v2_1.R
+│   └── APGIV_family_order_clades_WorldFlora.csv
+├── outputs/
+│   └── lotus_kingdom_Plantae_20260622/
+│       ├── PartI_ALL/
+│       ├── PartII_ALL/
+│       ├── RDKit_ALL/
+│       ├── Tree_APG_iTOL/
+│       ├── PartIII_ALL/
+│       ├── lotus_kingdom_Plantae_20260622_lin_enriched.parquet
+│       ├── lotus_kingdom_Plantae_20260622_uni_enriched.parquet
+│       └── lotus_kingdom_Plantae_20260622_lin_compound_species.parquet
+└── phylo_outputs_FINAL/
+    ├── family_tree_s3.nwk
+    ├── newick_end.nwk
+    ├── family_representatives.csv
+    ├── APG_clade_assignments.csv
+    └── tree and taxonomic audit files
 ```
 
----
+## Principal scripts
 
-## Files currently provided in the repository
+### `Main_Pipeline_end.R`
 
-### Inputs
+Creates the `cfg` and `runtime` objects, defines the run directory, and controls execution of the R modules. Review the configuration block before running the workflow, particularly:
 
-The repository currently includes lightweight workflow inputs such as:
+- database and collection names;
+- taxonomic scope;
+- input and output paths;
+- module switches;
+- the primary threshold of `analysis_min_compounds_per_taxon = 10L`;
+- the sensitivity thresholds `c(5L, 10L, 20L)`;
+- the validated random seed `20260622L`.
 
-- `inputs/Lotus_Final_Database_v9_Fixed.xlsx`
-- `inputs/groups.xlsx`
-- `inputs/lotus_flavonoids_rdkit_annotations.csv`
+### `scripts/Part_I_Extraction_v2_1.R`
 
-These files allow direct execution of downstream steps without requiring users to regenerate every intermediate artifact from scratch.
+Performs LOTUS extraction, hierarchical taxonomic resolution, deduplication, and audit exports.
 
-### Outputs
+### `scripts/Part_II_Bio_iTOL_Prep_v2_1.R`
 
-The repository also includes exported workflow results under `outputs/`, including run-specific folders such as:
+Maps compounds to ChEMBL, retrieves and filters bioactivity records, assigns functional domains, generates binary evidence summaries, and exports the input used by RDKit.
 
-- `outputs/<run_tag>/PartI_ALL/`
-- `outputs/<run_tag>/PartII_ALL/`
-- `outputs/<run_tag>/PartIII_ALL/`
+### `scripts/3_annotate_flavonoids_rdkit_auto.py`
 
-These folders contain the analytical products generated during the pipeline execution used for the manuscript.
+Standardizes molecular structures and generates compound- and occurrence-level structural annotations. The main compact compound-level output is:
 
----
+```text
+RDKit_ALL/lotus_flavonoids_rdkit_compounds.csv
+```
 
-## Large files distributed separately
+### `scripts/Tree_APG_ITOL_v2_1.R`
 
-Because of GitHub file size limits, some required files are distributed separately through a public Google Drive folder rather than stored directly in this repository. These include:
+Constructs the branch-length-free family-level visualization tree and exports Newick, iTOL, APG-assignment, representative-species, substitution, exclusion, and topology-audit files.
 
-- `data/wfo/classification.tsv`
-- `mongo/subset_minor_flavonoids_V.bson`
-- `mongo/subset_minor_flavonoids_V.metadata.json`
-- `mongo/lotusUniqueNaturalProduct.bson`
-- `mongo/lotusUniqueNaturalProduct.metadata.json`
+### `scripts/Part_III_Figures_Stats_v2_1.R`
 
----
+Runs the validated manuscript analyses. The script requires a primary family threshold of **n ≥ 10**, uses sensitivity thresholds of 5, 10, and 20 compounds, applies 999 permutations in multivariate tests, and uses the random seed `20260622`.
 
 ## Software requirements
 
-- **R**
-- **Python 3**
-- **MongoDB Community Server**
-- **MongoDB Database Tools** (`mongorestore`)
+The validated analytical run used:
 
----
+- R 4.5.3
+- Python 3.14.5
+- RDKit 2026.03.3
+- pandas 3.0.3
+- MongoDB Community Server and MongoDB Database Tools for reconstruction from the raw LOTUS collections
 
-## R dependencies
+Important R packages include:
 
-The workflow uses packages including:
-
-- `here`
-- `arrow`
-- `dplyr`
-- `mongolite`
-- `jsonlite`
-- `progress`
-- `stringr`
-- `stringi`
-- `writexl`
-- `readr`
-- `readxl`
-- `httr`
-- `ggplot2`
-- `grid`
-- `gridExtra`
-- `scales`
-- `openxlsx`
-- `janitor`
-- `ggrepel`
-- `vegan`
-- `rstatix`
-- `multcompView`
-- `broom`
-- `ape`
-- `V.PhyloMaker2`
-
-Example installation block:
-
-```r
-install.packages(c(
-  "here", "arrow", "dplyr", "mongolite", "jsonlite", "progress",
-  "stringr", "stringi", "writexl", "readr", "readxl", "httr",
-  "ggplot2", "gridExtra", "scales", "openxlsx", "janitor",
-  "ggrepel", "vegan", "rstatix", "multcompView", "broom", "ape"
-))
+```text
+arrow, here, mongolite, jsonlite, dplyr, tidyr, readr, readxl,
+writexl, openxlsx, stringr, stringi, progress, httr, purrr,
+tibble, ggplot2, ggrepel, patchwork, scales, vegan, mgcv,
+rstatix, multcompView, broom, sandwich, lmtest, ComplexHeatmap,
+circlize, ggridges, igraph, tidygraph, ggraph, gridExtra, ape,
+V.PhyloMaker2
 ```
 
-If `V.PhyloMaker2` is not available from your default CRAN mirror, install it separately according to its official instructions.
-
----
-
-## Python dependencies
-
-The RDKit annotation step requires:
-
-- `pandas`
-- `rdkit`
-
-Example installation:
+Install the Python dependencies with:
 
 ```bash
-pip install pandas rdkit
+python -m pip install pandas rdkit
 ```
 
----
+Install CRAN R packages as needed with `install.packages()`. `V.PhyloMaker2` should be installed according to its official distribution instructions when it is not available from the configured CRAN repository.
 
-## MongoDB configuration
+## Reproducing the analyses
 
-The workflow is configured around:
-
-- **database:** `lotusdb`
-- **primary collection:** `subset_minor_flavonoids_V`
-
-Example restore command:
+### 1. Clone the repository
 
 ```bash
-mongorestore --db lotusdb --collection subset_minor_flavonoids_V ./mongo
+git clone https://github.com/carloscarollo-UFMS/Mapping_flavonoid.git
+cd Mapping_flavonoid
 ```
 
-The scripts use the environment variable `LOTUS_MONGO_URL`. A typical local value is:
+### 2. Configure the R controller
+
+Open `Main_Pipeline_end.R` and verify database settings, external-data paths, module switches, the run tag, and the output directory.
+
+The R modules depend on the `cfg` and `runtime` objects created by the controller. Running the modules in isolated R sessions without reproducing these objects is not recommended.
+
+### 3. Run Parts I and II when reconstructing from source data
+
+Execute the controller with the relevant module switches enabled:
+
+```bash
+Rscript Main_Pipeline_end.R
+```
+
+Part I requires a local MongoDB instance containing the configured LOTUS collection and the World Flora Online classification backbone. Part II additionally requires internet access to query ChEMBL unless the validated cached or processed outputs are used.
+
+### 4. Run the RDKit annotation step
+
+```bash
+python scripts/3_annotate_flavonoids_rdkit_auto.py \
+  --input outputs/lotus_kingdom_Plantae_20260622/PartII_ALL/lotus_kingdom_Plantae_20260622__flavonoids_for_rdkit.csv \
+  --output-dir outputs/lotus_kingdom_Plantae_20260622/RDKit_ALL
+```
+
+The script exports compact compound-level annotations, occurrence-level annotations, invalid-structure and conflict audits, structural-QC records, and run metadata.
+
+### 5. Generate or audit the family-level tree
+
+Run `Tree_APG_ITOL_v2_1.R` through the project configuration used by the controller. The validated tree and all corresponding audit files are also provided in `phylo_outputs_FINAL/`.
+
+### 6. Run the final statistical analyses
+
+Set the Part III module to active in `Main_Pipeline_end.R` and execute:
+
+```bash
+Rscript Main_Pipeline_end.R
+```
+
+The final outputs are written to:
 
 ```text
-mongodb://127.0.0.1:27017
+outputs/lotus_kingdom_Plantae_20260622/PartIII_ALL/
 ```
 
-If the environment variable is not defined, the workflow may use a localhost fallback for the current session, but defining `LOTUS_MONGO_URL` explicitly is recommended for reproducibility.
+## Reproduction from the committed processed data
 
----
+Users who do not need to repeat the raw MongoDB extraction can begin from the committed processed Parquet, RDKit, taxonomic, tree, and ChEMBL-derived tables. These files support inspection and reproduction of the downstream manuscript statistics and figures without repeating every database query.
 
-## External data downloads
+Public-database content can change over time. Exact reconstruction of the validated run should therefore use the committed processed tables and metadata rather than newly retrieved ChEMBL or taxonomic records.
 
-### World Flora Online backbone
+## External and large data files
 
-Taxonomic normalization in Part I uses the World Flora Online backbone through `classification.tsv`.
+Raw MongoDB dumps and the complete World Flora Online classification backbone are not stored directly in this repository because of their size. Their download location and required local paths are documented in this README and in `Main_Pipeline_end.R`; no separate `external_data/` directory is required.
 
-Download it from the public folder associated with this project and place it locally at:
+The occurrence-level file `lotus_flavonoids_rdkit_annotations.csv` is also omitted from the normal GitHub repository because it exceeds the standard single-file limit. The smaller compound-level file and the corresponding metadata and audit tables are provided for downstream reproduction.
 
-```text
-data/wfo/classification.tsv
-```
+When external files are used, record their version, retrieval date, and cryptographic hash. Do not commit local credentials, `.Renviron`, MongoDB connection strings, or private access tokens.
 
-Public folder: [Google Drive folder](https://drive.google.com/drive/folders/1Vln0kwsQZpmy7CIRpSkIFOaev6HUvE6S?usp=sharing)
-
-Alternatively, provide an explicit path through `cfg$wfo_csv_path` in `Main_Pipeline_end.R`.
-
-Example:
-
-```r
-wfo_csv_path = "C:/Users/Carollo/Documents/Maira_Bio/data/wfo/classification.tsv"
-```
-
-### MongoDB dumps
-
-The MongoDB dump files required for reproduction are also distributed separately because of file size limits.
-
-After download, place them locally in:
-
-```text
-mongo/
-```
-
-Expected files:
-
-- `mongo/subset_minor_flavonoids_V.bson`
-- `mongo/subset_minor_flavonoids_V.metadata.json`
-
-Optional but required for full reproduction of the global-context layer in Part II:
-
-- `mongo/lotusUniqueNaturalProduct.bson`
-- `mongo/lotusUniqueNaturalProduct.metadata.json`
-
----
-
-## Important note about Part II
-
-`subset_minor_flavonoids_V` is sufficient for the subset-based workflow and for Part I.
-
-However, **Part II is not fully reproduced with this subset alone**. One section of Part II also queries the additional MongoDB collection `lotusUniqueNaturalProduct` in the same database (`lotusdb`) to recover global occurrence context across plant families.
-
-Therefore:
-
-- the subset collection is sufficient for the core extraction and downstream subset-based analyses;
-- full reproduction of the global-context step in Part II requires `lotusUniqueNaturalProduct`;
-- if `lotusUniqueNaturalProduct` is not installed locally, the global occurrence layer used in Part II will be incomplete.
-
----
-
-## Part III macro-group mapping
-
-Part III requires a family-level mapping table with three columns:
-
-1. `family`
-2. `color`
-3. `macro_group`
-
-In the current version of the workflow, this mapping is provided directly by:
-
-```text
-inputs/groups.xlsx
-```
-
-Therefore, `groups.xlsx` should be available before running Part III.
-
----
-
-## Workflow logic
-
-The workflow is organized as follows:
-
-1. **Part I** extracts, curates, and normalizes records from MongoDB
-2. **Part II** prepares the flavonoid subset for structural annotation and integrates bioactivity metadata
-3. **Python RDKit annotation** computes structural descriptors and motif flags
-4. **Part III** generates macro-group statistics and figures
-
-An additional script, `Tree_APG_ITOL.R`, can be used when APG-based phylogenetic or iTOL-oriented formatting is required.
-
----
-
-## Recommended execution order
-
-### Full analytical workflow
-
-1. `Main_Pipeline_end.R`
-
-This is the recommended option because the main driver creates and propagates the `cfg` and `runtime` objects expected by downstream scripts.
-
-### Stepwise execution
-
-If the workflow is run manually by parts, the practical execution order is:
-
-1. `scripts/Part I_Extraction.R`
-2. `scripts/Part II - Bio_iTOL_Prep.R`
-3. `scripts/3_annotate_flavonoids_rdkit_auto.py`
-4. `scripts/Part III - Figures_Stats.R`
-
-Optional:
-
-5. `scripts/Tree_APG_ITOL.R`
-
----
-
-## Main pipeline script
-
-`Main_Pipeline_end.R` centralizes:
-
-- taxonomic scope
-- database settings
-- module execution switches
-- output directory logic
-- file path resolution for the workflow
-
-Users intending to run the workflow through the main driver script should review the configuration block and activate the desired modules before execution.
-
-Part II and Part III expect `cfg` and `runtime` objects created by the main pipeline. Running the full workflow through a single R session is therefore recommended.
-
----
-
-## Expected outputs
-
-The workflow generates run-specific outputs under `outputs/`, including:
-
-- curated analytical tables
-- Excel summaries
-- RDKit input and annotation tables
-- statistical result tables
-- PDF figures
-- phylogeny/iTOL-compatible files
-
-Typical outputs include:
+## Main outputs
 
 ### Part I
 
-- run-specific LOTUS Excel workbook
-- `lin_enriched`
-- `uni_enriched`
-- exported baseline datasets
+- taxonomically normalized occurrence tables;
+- WFO resolution summaries and conflict audits;
+- deduplication summaries;
+- family-coverage summaries;
+- processed Parquet datasets.
 
 ### Part II
 
-- `PartII_ALL/<base_tag>__flavonoids_for_rdkit.csv`
-- `PartII_ALL/<base_tag>_BIO_A_Summary.xlsx`
-- `PartII_ALL/<base_tag>_BIO_C_Global_Context.xlsx`
-- `PartII_ALL/<base_tag>_Lotus_Final_Database_v9_Fixed.xlsx`
+- ChEMBL mapping and filtering flow;
+- curated quantitative bioactivity tables;
+- target and assay functional-domain classifications;
+- binary-evidence summaries;
+- compound–family, compound–species, and compound–subclass maps;
+- RDKit input file and run metadata.
 
-### Python step
+### RDKit
 
-- `lotus_flavonoids_rdkit_annotations.csv`
+- compound-level structural descriptors and motifs;
+- Bemis–Murcko scaffolds;
+- primary structural-eligibility flag;
+- review and exclusion audits;
+- software and run metadata.
+
+### Family-level tree
+
+- validated Newick files;
+- deterministic representative-species table;
+- APG lineage assignments;
+- iTOL annotation files;
+- backbone substitutions, exclusions, and topology corrections;
+- run metadata.
 
 ### Part III
 
-- `PartIII_ALL/macro_groups_STATS_MASTER.xlsx`
-- `PartIII_ALL/Fig1_ChemistryStats.pdf`
-- `PartIII_ALL/Fig2_OrdinationStats.pdf`
-- `PartIII_ALL/Fig3_BioprospectingLandscape.pdf`
+- manuscript figure components;
+- family-level chemical and structural matrices;
+- global and pairwise PERMANOVA results;
+- multivariate-dispersion tests;
+- sampling-adjusted scaffold-richness models;
+- univariate tests and multiple-testing correction;
+- functional-domain and subclass summaries;
+- Fsp3 and motif–potency models;
+- descriptive network edges and nodes;
+- sensitivity analyses, model objects, and audit files.
 
----
+## Journal supplementary material
 
-## Notes on reproducibility
+The formal Supplementary Information, supplementary tables, and supplementary figures are distributed through the journal article webpage and are not duplicated in this repository. The repository retains the processed tables, audit files, model outputs, and figure source files required to trace and reproduce the reported analyses.
 
-This repository provides the resources needed to reproduce the subset-based comparative flavonoid chemotaxonomy workflow associated with the manuscript.
+After publication, the article DOI and direct link to the journal-hosted supplementary material should be added to this section.
 
-Complete reproduction of the **global occurrence context** used in Part II additionally depends on the MongoDB collection `lotusUniqueNaturalProduct`.
+## Interpretation limits
 
-Because several core input files exceed GitHub size limits, the workflow is split between:
+This repository documents the available evidence in LOTUS and ChEMBL; it does not represent a complete inventory of plant metabolomes or biological activities. Important limitations include:
 
-- **GitHub** for code, lightweight inputs, and exported analytical outputs
-- **Google Drive** for large datasets and database dumps
+- unequal phytochemical documentation among families and subclasses;
+- selective testing and reporting of bioactivity;
+- heterogeneous assay, target, and measurement contexts;
+- incomplete taxonomic or database coverage;
+- descriptive rather than causal interpretation of the structure–bioactivity evidence network.
 
-The repository therefore combines:
-- executable code,
-- selected workflow inputs,
-- and exported outputs corresponding to the analytical run used in the manuscript.
-
----
+The absence of indexed ChEMBL evidence should be interpreted as a functional annotation gap, not as evidence of inactivity.
 
 ## Citation
 
-If you use this repository, please cite the associated manuscript and any linked data resources.
+A machine-readable citation file is provided as `CITATION.cff`. Until the associated article receives its final bibliographic information, cite the repository using its GitHub URL and release version.
+
+Repository:
+
+```text
+https://github.com/carloscarollo-UFMS/Mapping_flavonoid
+```
+
+When the manuscript is published, its DOI and complete citation should be added to this section and to `CITATION.cff`.
+
+## Contact
+
+For questions about the workflow or data organization, open an issue in this repository or contact the corresponding author through the institutional information provided in the associated manuscript.

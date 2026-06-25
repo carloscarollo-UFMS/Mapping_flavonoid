@@ -1,0 +1,154 @@
+"visual_clade","target_domain_macro","n_compounds","n_records","median_z_potency","sufficient_coverage","value"
+"ANA","Infectious Diseases",6,34,-0.389259609881512,FALSE,NA
+"ANA","Cell Signaling and Survival",4,13,-0.101297086027223,FALSE,NA
+"ANA","Inflammation and Proteolysis",6,27,-0.299080883486539,FALSE,NA
+"ANA","Phenotypic: Cancer and Cells",5,14,-0.456074251252367,FALSE,NA
+"ANA","Gene Regulation",2,4,-0.525694628718399,FALSE,NA
+"ANA","Metabolic Enzymes",7,55,0.00207872436428096,FALSE,NA
+"ANA","Neuroscience Targets",5,17,-0.865996837860992,FALSE,NA
+"ANA","General Assays and Safety",7,38,0.20029981322697,FALSE,NA
+"ANA","Transporters and Ion Channels",3,9,-0.588701110961888,FALSE,NA
+"Chloranthales","Infectious Diseases",NA,NA,NA,FALSE,NA
+"Chloranthales","Cell Signaling and Survival",1,1,-0.170473904214093,FALSE,NA
+"Chloranthales","Inflammation and Proteolysis",1,1,-0.969598927807977,FALSE,NA
+"Chloranthales","Phenotypic: Cancer and Cells",3,9,-0.41992288509379,FALSE,NA
+"Chloranthales","Gene Regulation",NA,NA,NA,FALSE,NA
+"Chloranthales","Metabolic Enzymes",1,1,-0.19424202866535,FALSE,NA
+"Chloranthales","Neuroscience Targets",NA,NA,NA,FALSE,NA
+"Chloranthales","General Assays and Safety",NA,NA,NA,FALSE,NA
+"Chloranthales","Transporters and Ion Channels",1,2,-0.496368533581971,FALSE,NA
+"Magnoliids","Infectious Diseases",57,222,-0.0243322567603712,TRUE,-0.0243322567603712
+"Magnoliids","Cell Signaling and Survival",27,89,-0.170473904214093,TRUE,-0.170473904214093
+"Magnoliids","Inflammation and Proteolysis",32,86,-0.504850364240731,TRUE,-0.504850364240731
+"Magnoliids","Phenotypic: Cancer and Cells",49,214,-0.41992288509379,TRUE,-0.41992288509379
+"Magnoliids","Gene Regulation",9,38,0.125555698000072,FALSE,NA
+"Magnoliids","Metabolic Enzymes",37,135,-0.076959152703165,TRUE,-0.076959152703165
+"Magnoliids","Neuroscience Targets",21,61,-0.183626420670612,TRUE,-0.183626420670612
+"Magnoliids","General Assays and Safety",28,95,-0.348436391338253,TRUE,-0.348436391338253
+"Magnoliids","Transporters and Ion Channels",17,77,-0.336742133450101,TRUE,-0.336742133450101
+"Monocots","Infectious Diseases",27,120,-0.392955243341266,TRUE,-0.392955243341266
+"Monocots","Cell Signaling and Survival",22,60,-0.216875290601357,TRUE,-0.216875290601357
+"Monocots","Inflammation and Proteolysis",34,94,-0.406382951653437,TRUE,-0.406382951653437
+"Monocots","Phenotypic: Cancer and Cells",45,288,-0.653921585171334,TRUE,-0.653921585171334
+"Monocots","Gene Regulation",13,79,-0.120091355060404,TRUE,-0.120091355060404
+"Monocots","Metabolic Enzymes",35,207,0.0146352619161542,TRUE,0.0146352619161542
+"Monocots","Neuroscience Targets",19,60,-0.207121586391263,TRUE,-0.207121586391263
+"Monocots","General Assays and Safety",29,86,-0.312804170262589,TRUE,-0.312804170262589
+"Monocots","Transporters and Ion Channels",12,82,-0.418202539958315,TRUE,-0.418202539958315
+"Monocots (Commelinids)","Infectious Diseases",28,222,-0.160783432421009,TRUE,-0.160783432421009
+"Monocots (Commelinids)","Cell Signaling and Survival",30,149,-0.16987360957945,TRUE,-0.16987360957945
+"Monocots (Commelinids)","Inflammation and Proteolysis",29,106,-0.426105591011729,TRUE,-0.426105591011729
+"Monocots (Commelinids)","Phenotypic: Cancer and Cells",54,338,-0.492225617410944,TRUE,-0.492225617410944
+"Monocots (Commelinids)","Gene Regulation",15,114,0.205533808298831,TRUE,0.205533808298831
+"Monocots (Commelinids)","Metabolic Enzymes",34,202,0.0461422779353825,TRUE,0.0461422779353825
+"Monocots (Commelinids)","Neuroscience Targets",21,84,-0.452689141473311,TRUE,-0.452689141473311
+"Monocots (Commelinids)","General Assays and Safety",27,106,-0.526597496716572,TRUE,-0.526597496716572
+"Monocots (Commelinids)","Transporters and Ion Channels",16,74,-0.387774049562606,TRUE,-0.387774049562606
+"Basal Eudicots","Infectious Diseases",16,189,-0.268736049411234,TRUE,-0.268736049411234
+"Basal Eudicots","Cell Signaling and Survival",15,91,0.536342027872495,TRUE,0.536342027872495
+"Basal Eudicots","Inflammation and Proteolysis",18,75,-0.400206891008025,TRUE,-0.400206891008025
+"Basal Eudicots","Phenotypic: Cancer and Cells",16,180,-0.636338492068649,TRUE,-0.636338492068649
+"Basal Eudicots","Gene Regulation",9,95,0.211246530463028,FALSE,NA
+"Basal Eudicots","Metabolic Enzymes",22,136,-0.0225521328131693,TRUE,-0.0225521328131693
+"Basal Eudicots","Neuroscience Targets",18,76,-0.195374003530938,TRUE,-0.195374003530938
+"Basal Eudicots","General Assays and Safety",17,92,-0.237976506003696,TRUE,-0.237976506003696
+"Basal Eudicots","Transporters and Ion Channels",7,46,-0.378502124172027,FALSE,NA
+"Saxifragales","Infectious Diseases",16,169,-0.184253262960508,TRUE,-0.184253262960508
+"Saxifragales","Cell Signaling and Survival",15,81,-0.0333208571096399,TRUE,-0.0333208571096399
+"Saxifragales","Inflammation and Proteolysis",20,68,-0.50948240972479,TRUE,-0.50948240972479
+"Saxifragales","Phenotypic: Cancer and Cells",16,80,-0.591641874347032,TRUE,-0.591641874347032
+"Saxifragales","Gene Regulation",8,37,0.095744664027097,FALSE,NA
+"Saxifragales","Metabolic Enzymes",22,104,0.047186346804214,TRUE,0.047186346804214
+"Saxifragales","Neuroscience Targets",15,48,-0.241523098400612,TRUE,-0.241523098400612
+"Saxifragales","General Assays and Safety",20,86,-0.277171949186926,TRUE,-0.277171949186926
+"Saxifragales","Transporters and Ion Channels",10,61,-0.366894054201643,TRUE,-0.366894054201643
+"Rosids (Basal)","Infectious Diseases",12,155,0.0670965316256753,TRUE,0.0670965316256753
+"Rosids (Basal)","Cell Signaling and Survival",13,73,-0.0333208571096399,TRUE,-0.0333208571096399
+"Rosids (Basal)","Inflammation and Proteolysis",17,67,-0.595947258760557,TRUE,-0.595947258760557
+"Rosids (Basal)","Phenotypic: Cancer and Cells",14,107,-0.591641874347032,TRUE,-0.591641874347032
+"Rosids (Basal)","Gene Regulation",8,36,-0.00422797384635266,FALSE,NA
+"Rosids (Basal)","Metabolic Enzymes",18,114,-0.0225521328131693,TRUE,-0.0225521328131693
+"Rosids (Basal)","Neuroscience Targets",14,54,0.024413340667919,TRUE,0.024413340667919
+"Rosids (Basal)","General Assays and Safety",18,78,-0.690505713664626,TRUE,-0.690505713664626
+"Rosids (Basal)","Transporters and Ion Channels",5,53,-0.336742133450101,FALSE,NA
+"Rosids (Fabids)","Infectious Diseases",189,638,-0.166903988239738,TRUE,-0.166903988239738
+"Rosids (Fabids)","Cell Signaling and Survival",183,382,-0.170473904214093,TRUE,-0.170473904214093
+"Rosids (Fabids)","Inflammation and Proteolysis",112,242,-0.20457292957576,TRUE,-0.20457292957576
+"Rosids (Fabids)","Phenotypic: Cancer and Cells",362,1159,-0.157825480444102,TRUE,-0.157825480444102
+"Rosids (Fabids)","Gene Regulation",49,172,-0.0921695134417085,TRUE,-0.0921695134417085
+"Rosids (Fabids)","Metabolic Enzymes",194,554,0.0177824286260031,TRUE,0.0177824286260031
+"Rosids (Fabids)","Neuroscience Targets",72,168,-0.133696877949364,TRUE,-0.133696877949364
+"Rosids (Fabids)","General Assays and Safety",174,292,0.0791502615697127,TRUE,0.0791502615697127
+"Rosids (Fabids)","Transporters and Ion Channels",49,198,-0.378502124172027,TRUE,-0.378502124172027
+"Rosids (Malvids)","Infectious Diseases",67,328,-0.245371179614961,TRUE,-0.245371179614961
+"Rosids (Malvids)","Cell Signaling and Survival",47,176,-0.170473904214093,TRUE,-0.170473904214093
+"Rosids (Malvids)","Inflammation and Proteolysis",47,146,-0.399012433585968,TRUE,-0.399012433585968
+"Rosids (Malvids)","Phenotypic: Cancer and Cells",86,436,-0.489966157026034,TRUE,-0.489966157026034
+"Rosids (Malvids)","Gene Regulation",25,138,0.199821086134634,TRUE,0.199821086134634
+"Rosids (Malvids)","Metabolic Enzymes",61,291,-0.162721010610891,TRUE,-0.162721010610891
+"Rosids (Malvids)","Neuroscience Targets",36,112,-0.203695593984479,TRUE,-0.203695593984479
+"Rosids (Malvids)","General Assays and Safety",51,142,-0.237976506003696,TRUE,-0.237976506003696
+"Rosids (Malvids)","Transporters and Ion Channels",32,134,-0.374724957396622,TRUE,-0.374724957396622
+"Caryophy_Santalales","Infectious Diseases",28,186,-0.0819808636889756,TRUE,-0.0819808636889756
+"Caryophy_Santalales","Cell Signaling and Survival",24,98,-0.101297086027223,TRUE,-0.101297086027223
+"Caryophy_Santalales","Inflammation and Proteolysis",29,87,-0.399012433585968,TRUE,-0.399012433585968
+"Caryophy_Santalales","Phenotypic: Cancer and Cells",35,213,-0.471153156469173,TRUE,-0.471153156469173
+"Caryophy_Santalales","Gene Regulation",9,112,0.125555698000072,FALSE,NA
+"Caryophy_Santalales","Metabolic Enzymes",33,173,-0.260147981941802,TRUE,-0.260147981941802
+"Caryophy_Santalales","Neuroscience Targets",21,72,-0.241523098400612,TRUE,-0.241523098400612
+"Caryophy_Santalales","General Assays and Safety",28,101,-0.254011005487745,TRUE,-0.254011005487745
+"Caryophy_Santalales","Transporters and Ion Channels",17,65,-0.397045974953184,TRUE,-0.397045974953184
+"Asterids (Basal)","Infectious Diseases",38,239,-0.126135117627121,TRUE,-0.126135117627121
+"Asterids (Basal)","Cell Signaling and Survival",25,106,0.412857810368658,TRUE,0.412857810368658
+"Asterids (Basal)","Inflammation and Proteolysis",29,90,-0.399012433585968,TRUE,-0.399012433585968
+"Asterids (Basal)","Phenotypic: Cancer and Cells",28,196,-0.551125018640714,TRUE,-0.551125018640714
+"Asterids (Basal)","Gene Regulation",13,101,0.211246530463028,TRUE,0.211246530463028
+"Asterids (Basal)","Metabolic Enzymes",33,173,-0.260147981941802,TRUE,-0.260147981941802
+"Asterids (Basal)","Neuroscience Targets",24,79,-0.191948011124153,TRUE,-0.191948011124153
+"Asterids (Basal)","General Assays and Safety",28,105,-0.277171949186926,TRUE,-0.277171949186926
+"Asterids (Basal)","Transporters and Ion Channels",12,98,-0.479866743231209,TRUE,-0.479866743231209
+"Asterids (Lamiids)","Infectious Diseases",57,275,-0.131469506635579,TRUE,-0.131469506635579
+"Asterids (Lamiids)","Cell Signaling and Survival",36,122,-0.170473904214093,TRUE,-0.170473904214093
+"Asterids (Lamiids)","Inflammation and Proteolysis",45,122,-0.389049227139258,TRUE,-0.389049227139258
+"Asterids (Lamiids)","Phenotypic: Cancer and Cells",62,344,-0.300171392047198,TRUE,-0.300171392047198
+"Asterids (Lamiids)","Gene Regulation",15,53,-0.0344005225974473,TRUE,-0.0344005225974473
+"Asterids (Lamiids)","Metabolic Enzymes",39,171,-0.076959152703165,TRUE,-0.076959152703165
+"Asterids (Lamiids)","Neuroscience Targets",36,107,-0.355653711876275,TRUE,-0.355653711876275
+"Asterids (Lamiids)","General Assays and Safety",44,121,-0.312804170262589,TRUE,-0.312804170262589
+"Asterids (Lamiids)","Transporters and Ion Channels",18,111,-0.418202539958315,TRUE,-0.418202539958315
+"Asterids (Campanulids)","Infectious Diseases",51,285,-0.37056811058273,TRUE,-0.37056811058273
+"Asterids (Campanulids)","Cell Signaling and Survival",41,177,0.0615330277222282,TRUE,0.0615330277222282
+"Asterids (Campanulids)","Inflammation and Proteolysis",32,105,-0.426105591011729,TRUE,-0.426105591011729
+"Asterids (Campanulids)","Phenotypic: Cancer and Cells",68,343,-0.437998568173078,TRUE,-0.437998568173078
+"Asterids (Campanulids)","Gene Regulation",22,127,0.165544753149451,TRUE,0.165544753149451
+"Asterids (Campanulids)","Metabolic Enzymes",56,267,0.0461422779353825,TRUE,0.0461422779353825
+"Asterids (Campanulids)","Neuroscience Targets",32,103,-0.193802622658165,TRUE,-0.193802622658165
+"Asterids (Campanulids)","General Assays and Safety",45,134,-0.255792616541526,TRUE,-0.255792616541526
+"Asterids (Campanulids)","Transporters and Ion Channels",27,87,-0.348144019173806,TRUE,-0.348144019173806
+"Gymnosperms","Infectious Diseases",25,191,-0.554789725254831,TRUE,-0.554789725254831
+"Gymnosperms","Cell Signaling and Survival",23,101,-0.170473904214093,TRUE,-0.170473904214093
+"Gymnosperms","Inflammation and Proteolysis",25,81,-0.426105591011729,TRUE,-0.426105591011729
+"Gymnosperms","Phenotypic: Cancer and Cells",27,169,-0.618755398965965,TRUE,-0.618755398965965
+"Gymnosperms","Gene Regulation",10,107,0.095744664027097,TRUE,0.095744664027097
+"Gymnosperms","Metabolic Enzymes",28,172,0.0013200885201648,TRUE,0.0013200885201648
+"Gymnosperms","Neuroscience Targets",24,74,-0.0360234417784795,TRUE,-0.0360234417784795
+"Gymnosperms","General Assays and Safety",26,100,-0.211252340196947,TRUE,-0.211252340196947
+"Gymnosperms","Transporters and Ion Channels",15,62,-0.439359104963446,TRUE,-0.439359104963446
+"Ferns","Infectious Diseases",18,54,-0.113174475626405,TRUE,-0.113174475626405
+"Ferns","Cell Signaling and Survival",12,27,-0.16987360957945,TRUE,-0.16987360957945
+"Ferns","Inflammation and Proteolysis",15,39,-0.583595137469733,TRUE,-0.583595137469733
+"Ferns","Phenotypic: Cancer and Cells",18,66,-0.383771518935212,TRUE,-0.383771518935212
+"Ferns","Gene Regulation",3,8,-0.0743895777468273,FALSE,NA
+"Ferns","Metabolic Enzymes",19,78,-0.744289887786773,TRUE,-0.744289887786773
+"Ferns","Neuroscience Targets",9,24,-0.241523098400612,FALSE,NA
+"Ferns","General Assays and Safety",11,46,-0.474417346782004,TRUE,-0.474417346782004
+"Ferns","Transporters and Ion Channels",6,16,-0.469289054988172,FALSE,NA
+"Lycophytes","Infectious Diseases",1,2,-0.392955243341266,FALSE,NA
+"Lycophytes","Cell Signaling and Survival",2,5,-0.700391310912172,FALSE,NA
+"Lycophytes","Inflammation and Proteolysis",1,3,0.521919718058998,FALSE,NA
+"Lycophytes","Phenotypic: Cancer and Cells",3,11,-0.371164412647618,FALSE,NA
+"Lycophytes","Gene Regulation",1,4,0.125555698000072,FALSE,NA
+"Lycophytes","Metabolic Enzymes",2,9,1.12962574220445,FALSE,NA
+"Lycophytes","Neuroscience Targets",1,1,1.86348483090053,FALSE,NA
+"Lycophytes","General Assays and Safety",3,4,-1.06820725706666,FALSE,NA
+"Lycophytes","Transporters and Ion Channels",2,3,-0.296835533417134,FALSE,NA

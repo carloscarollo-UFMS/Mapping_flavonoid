@@ -1,0 +1,39 @@
+family,genus,species,inchikey,ref_id,species_binomial,valid_binomial,species_genus,primary_structure_eligible,primary_structure_filter_reason
+Amaryllidaceae,Allium,Allium cepa,BMRQRDSXSJLTAI-UHFFFAOYSA-N,10.1021/JF060251C,Allium cepa,TRUE,Allium,FALSE,carbon_count_below_14
+Apiaceae,Daucus,Daucus carota,RWCCWEUUXYIKHB-UHFFFAOYSA-N,10.1002/CBDV.201300390,Daucus carota,TRUE,Daucus,FALSE,carbon_count_below_14
+Apiaceae,Conioselinum,Conioselinum anthriscoides,YLHXLHGIAMFFBU-UHFFFAOYSA-N,10.1016/J.JEP.2012.10.010,Conioselinum anthriscoides,TRUE,Conioselinum,FALSE,carbon_count_below_14
+Apiaceae,Ferula,Ferula communis,YXZAANSFGURKCL-UHFFFAOYSA-N,10.1016/0031-9422(88)80778-7,Ferula communis,TRUE,Ferula,FALSE,carbon_count_below_14
+Araceae,Sauromatum,Sauromatum venosum,RWCCWEUUXYIKHB-UHFFFAOYSA-N,10.1016/S0031-9422(00)94756-3,Sauromatum venosum,TRUE,Sauromatum,FALSE,carbon_count_below_14
+Asteraceae,Ophryosporus,Ophryosporus heptanthus,DZWVGWIVGSAXKU-JTQLQIEISA-N,10.1021/JF0527549,Ophryosporus heptanthus,TRUE,Ophryosporus,FALSE,carbon_count_below_14
+Asteraceae,Ophryosporus,Ophryosporus heptanthus,DZWVGWIVGSAXKU-UHFFFAOYSA-N,10.1021/JF0527549,Ophryosporus heptanthus,TRUE,Ophryosporus,FALSE,carbon_count_below_14
+Asteraceae,Carlina,Carlina acaulis,FURJBIIWGLKKIO-UHFFFAOYSA-N,10.1002/CBER.190603901108,Carlina acaulis,TRUE,Carlina,FALSE,carbon_count_below_14
+Asteraceae,Artemisia,Artemisia capillaris,GHNBEBDYYSVNEK-XPQLPGEHSA-N,10.1016/0378-8741(89)90060-3,Artemisia capillaris,TRUE,Artemisia,FALSE,carbon_count_below_14
+Asteraceae,Taraxacum,Taraxacum platycarpum,IDTFANFXLFNLMC-UHFFFAOYSA-N,10.1002/PTR.5276,Taraxacum platycarpum,TRUE,Taraxacum,FALSE,carbon_count_below_14
+Asteraceae,Artemisia,Artemisia judaica,KRIOVPPHQSLHCZ-UHFFFAOYSA-N,10.1080/10412905.1990.9697881,Artemisia judaica,TRUE,Artemisia,FALSE,carbon_count_below_14
+Asteraceae,Lasiolaena,Lasiolaena morii,MSTDXOZUKAQDRL-UHFFFAOYSA-N,10.1016/0031-9422(82)80035-6,Lasiolaena morii,TRUE,Lasiolaena,FALSE,carbon_count_below_14
+Asteraceae,Calea,Calea cuneifolia,UJIZCWIVJDTVIG-UHFFFAOYSA-N,10.1016/0031-9422(81)85172-2,Calea cuneifolia,TRUE,Calea,FALSE,carbon_count_below_14
+Asteraceae,Platypodanthera,Platypodanthera melissifolia,UJIZCWIVJDTVIG-UHFFFAOYSA-N,10.1016/0031-9422(88)80060-8,Platypodanthera melissifolia,TRUE,Platypodanthera,FALSE,carbon_count_below_14
+Asteraceae,Trichogonia,Trichogonia campestris,UJIZCWIVJDTVIG-UHFFFAOYSA-N,10.1002/CHIN.198414320,Trichogonia campestris,TRUE,Trichogonia,FALSE,carbon_count_below_14
+Asteraceae,Trichogonia,Trichogonia campestris,UJIZCWIVJDTVIG-UHFFFAOYSA-N,10.1002/JLAC.198419840117,Trichogonia campestris,TRUE,Trichogonia,FALSE,carbon_count_below_14
+Asteraceae,Trichogonia,Trichogonia villosa,UJIZCWIVJDTVIG-UHFFFAOYSA-N,10.1016/0031-9422(81)80032-5,Trichogonia villosa,TRUE,Trichogonia,FALSE,carbon_count_below_14
+Begoniaceae,Begonia,Begonia nantoensis,PWSZACWUDDFZMQ-UHFFFAOYSA-N,10.1248/CPB.52.345,Begonia nantoensis,TRUE,Begonia,FALSE,zero_oxygen
+Campanulaceae,Codonopsis,Codonopsis lanceolata,WOQCLXFQXTUHMV-UHFFFAOYSA-N,10.1002/HLCA.201100339,Codonopsis lanceolata,TRUE,Codonopsis,FALSE,carbon_count_below_14
+Clusiaceae,Garcinia,Garcinia nigrolineata,QDTZHTJSNHSYDA-ISVAXAHUSA-N,10.1021/NP0303254,Garcinia nigrolineata,TRUE,Garcinia,FALSE,carbon_count_below_14
+Clusiaceae,Garcinia,Garcinia nigrolineata,QDTZHTJSNHSYDA-UHFFFAOYSA-N,10.1021/NP0303254,Garcinia nigrolineata,TRUE,Garcinia,FALSE,carbon_count_below_14
+Convolvulaceae,Ipomoea,Ipomoea purpurea,OJUGVDODNPJEEC-UHFFFAOYSA-N,10.1271/BBB1961.52.1013,Ipomoea purpurea,TRUE,Ipomoea,FALSE,carbon_count_below_14
+Lamiaceae,Micromeria,Micromeria cristata,KRIOVPPHQSLHCZ-UHFFFAOYSA-N,10.1080/10412905.1995.9698563,Micromeria cristata,TRUE,Micromeria,FALSE,carbon_count_below_14
+Lamiaceae,Scutellaria,Scutellaria barbata,STTXNQGVHWYOHI-LBPRGKRZSA-N,10.3390/MOLECULES16021402,Scutellaria barbata,TRUE,Scutellaria,FALSE,carbon_count_below_14
+Lamiaceae,Scutellaria,Scutellaria barbata,STTXNQGVHWYOHI-UHFFFAOYSA-N,10.3390/MOLECULES16021402,Scutellaria barbata,TRUE,Scutellaria,FALSE,carbon_count_below_14
+Moraceae,Ficus,Ficus sagittata,JHGVLAHJJNKSAW-UHFFFAOYSA-N,10.1080/14786411003754223,Ficus sagittata,TRUE,Ficus,FALSE,carbon_count_below_14
+Piperaceae,Piper,Piper dilatatum,MYNYNZOFYYKQDQ-UHFFFAOYSA-N,10.1016/S0031-9422(98)00197-6,Piper dilatatum,TRUE,Piper,FALSE,carbon_count_below_14
+Piperaceae,Piper,Piper gaudichaudianum,MYNYNZOFYYKQDQ-UHFFFAOYSA-N,10.1021/NP030530J,Piper gaudichaudianum,TRUE,Piper,FALSE,carbon_count_below_14
+Piperaceae,Piper,Piper pseudofuligineum,MYNYNZOFYYKQDQ-UHFFFAOYSA-N,10.1016/0031-9422(90)85016-9,Piper pseudofuligineum,TRUE,Piper,FALSE,carbon_count_below_14
+Pontederiaceae,Pontederia,Pontederia crassipes,UGWLWTKODVAUFB-UHFFFAOYSA-N,10.1186/1472-6882-14-397,Pontederia crassipes,TRUE,Pontederia,FALSE,zero_oxygen;contains_nitrogen
+Rutaceae,Citrus,Citrus limon,DIKOBVULVNJCCO-NTEUORMPSA-N,10.1016/S0031-9422(98)00247-7,Citrus limon,TRUE,Citrus,FALSE,carbon_count_below_14;contains_nitrogen
+Rutaceae,Citrus,Citrus × aurantium nothof. aurantium,DIKOBVULVNJCCO-NTEUORMPSA-N,10.1016/S0031-9422(98)00247-7,Citrus ×,FALSE,,FALSE,carbon_count_below_14;contains_nitrogen
+Rutaceae,Citrus,Citrus limon,DIKOBVULVNJCCO-ZROIWOOFSA-N,10.1248/CPB.38.2586,Citrus limon,TRUE,Citrus,FALSE,carbon_count_below_14;contains_nitrogen
+Rutaceae,Citrus,Citrus × aurantium nothof. aurantium,DIKOBVULVNJCCO-ZROIWOOFSA-N,10.1248/CPB.38.2586,Citrus ×,FALSE,,FALSE,carbon_count_below_14;contains_nitrogen
+Sapotaceae,Manilkara,Manilkara zapota,KRIOVPPHQSLHCZ-UHFFFAOYSA-N,10.1021/JF00111A026,Manilkara zapota,TRUE,Manilkara,FALSE,carbon_count_below_14
+Theaceae,Camellia,Camellia sinensis,FDOIILRSEMNMIH-UHFFFAOYSA-N,10.1248/CPB.36.1676,Camellia sinensis,TRUE,Camellia,FALSE,substantial_multicomponent_input;standardized_inchikey_connectivity_changed
+Theaceae,Camellia,Camellia sinensis,VGQRIILEZYZAOE-UHFFFAOYSA-N,10.1021/JF60201A032,Camellia sinensis,TRUE,Camellia,FALSE,carbon_count_below_14
+Vitaceae,Vitis,Vitis vinifera,FAQJJMHZNSSFSM-UHFFFAOYSA-N,10.3389/FMICB.2017.00457,Vitis vinifera,TRUE,Vitis,FALSE,carbon_count_below_14

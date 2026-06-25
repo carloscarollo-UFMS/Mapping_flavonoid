@@ -1,0 +1,85 @@
+analysis,group1,group2,n1,n2,pseudo_f,r_squared,p_value,status,p_adjust_bh
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Gymnosperms,9,6,1.0681628410843873,0.0759276710932678,0.384,ok,0.46747826086956523
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.8518755792397266,0.10989136316203885,0.024,ok,0.08088888888888889
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Monocots,9,15,1.6436584718363147,0.06951794172607409,0.023,ok,0.08088888888888889
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,2.333683221631389,0.12728938279450266,0.006,ok,0.0336
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Rosids,9,47,1.9375388391048503,0.034637541788848855,0.001,ok,0.028
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Caryophyllales & Santalales,9,11,1.1750840567868226,0.061281820372042314,0.235,ok,0.32899999999999996
+Bemis-Murcko scaffold incidence,Non-seed vascular plants,Asterids,9,26,1.4724875197431662,0.042714861203440556,0.056,ok,0.12061538461538461
+Bemis-Murcko scaffold incidence,Gymnosperms,Early angiosperms & magnoliids,6,8,1.3469818409966365,0.10092033218021189,0.041,ok,0.10436363636363637
+Bemis-Murcko scaffold incidence,Gymnosperms,Monocots,6,15,0.888549209959231,0.044676421622261334,0.638,ok,0.6616296296296296
+Bemis-Murcko scaffold incidence,Gymnosperms,Early eudicots & Saxifragales,6,9,1.714255797129184,0.11650305803869762,0.031,ok,0.08679999999999999
+Bemis-Murcko scaffold incidence,Gymnosperms,Rosids,6,47,1.0868796477176108,0.020866668440662418,0.298,ok,0.37927272727272726
+Bemis-Murcko scaffold incidence,Gymnosperms,Caryophyllales & Santalales,6,11,0.9461345185274016,0.05933315797807377,0.573,ok,0.617076923076923
+Bemis-Murcko scaffold incidence,Gymnosperms,Asterids,6,26,0.9841575869741299,0.03176325140393276,0.457,ok,0.5331666666666667
+Bemis-Murcko scaffold incidence,Early angiosperms & magnoliids,Monocots,8,15,1.2345883240266788,0.05552557600954471,0.138,ok,0.25760000000000005
+Bemis-Murcko scaffold incidence,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,2.3172481492579546,0.13381156921039147,0.005,ok,0.0336
+Bemis-Murcko scaffold incidence,Early angiosperms & magnoliids,Rosids,8,47,1.5396387700920162,0.028229720709780536,0.017,ok,0.07933333333333334
+Bemis-Murcko scaffold incidence,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,1.2379202315604458,0.06787617315148925,0.152,ok,0.26023529411764706
+Bemis-Murcko scaffold incidence,Early angiosperms & magnoliids,Asterids,8,26,1.2450612169142443,0.0374510129125823,0.136,ok,0.25760000000000005
+Bemis-Murcko scaffold incidence,Monocots,Early eudicots & Saxifragales,15,9,1.8011749134099713,0.07567588238659428,0.026,ok,0.08088888888888889
+Bemis-Murcko scaffold incidence,Monocots,Rosids,15,47,1.0937662829254753,0.017903075051229272,0.296,ok,0.37927272727272726
+Bemis-Murcko scaffold incidence,Monocots,Caryophyllales & Santalales,15,11,1.158569096415194,0.046050675297756784,0.225,ok,0.32899999999999996
+Bemis-Murcko scaffold incidence,Monocots,Asterids,15,26,0.8471125056566153,0.021259068785382154,0.712,ok,0.712
+Bemis-Murcko scaffold incidence,Early eudicots & Saxifragales,Rosids,9,47,1.7893870801842784,0.032073969151380895,0.002,ok,0.028
+Bemis-Murcko scaffold incidence,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,1.7649481442386536,0.08929687704508973,0.045,ok,0.105
+Bemis-Murcko scaffold incidence,Early eudicots & Saxifragales,Asterids,9,26,2.0889819195621455,0.05953384239961479,0.004,ok,0.0336
+Bemis-Murcko scaffold incidence,Rosids,Caryophyllales & Santalales,47,11,1.1550356056468567,0.020208816133302183,0.192,ok,0.2986666666666667
+Bemis-Murcko scaffold incidence,Rosids,Asterids,47,26,1.2189447324613418,0.016878462250826055,0.158,ok,0.26023529411764706
+Bemis-Murcko scaffold incidence,Caryophyllales & Santalales,Asterids,11,26,0.9393972616481198,0.026138369956765394,0.538,ok,0.6025600000000001
+NPClassifier class incidence,Non-seed vascular plants,Gymnosperms,9,6,1.81295481051018,0.12238981578637106,0.104,ok,0.19413333333333332
+NPClassifier class incidence,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,3.1583761270655915,0.17393494357449396,0.013,ok,0.0455
+NPClassifier class incidence,Non-seed vascular plants,Monocots,9,15,2.87346206929483,0.11552320546651966,0.007,ok,0.042
+NPClassifier class incidence,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,1.8218288621566767,0.10222457393389038,0.127,ok,0.21933333333333332
+NPClassifier class incidence,Non-seed vascular plants,Rosids,9,47,4.626169902268772,0.07890963898853887,0.001,ok,0.028
+NPClassifier class incidence,Non-seed vascular plants,Caryophyllales & Santalales,9,11,3.053648063309625,0.14504127997804064,0.012,ok,0.0455
+NPClassifier class incidence,Non-seed vascular plants,Asterids,9,26,4.25041341877812,0.11410379184236016,0.002,ok,0.028
+NPClassifier class incidence,Gymnosperms,Early angiosperms & magnoliids,6,8,0.9978769152386225,0.0767723007184903,0.468,ok,0.5158461538461538
+NPClassifier class incidence,Gymnosperms,Monocots,6,15,1.5416080468046005,0.07504807039896806,0.141,ok,0.21933333333333332
+NPClassifier class incidence,Gymnosperms,Early eudicots & Saxifragales,6,9,1.2242117592839765,0.08606534970100876,0.307,ok,0.392
+NPClassifier class incidence,Gymnosperms,Rosids,6,47,1.1017112492781924,0.021145394707039602,0.357,ok,0.4346086956521739
+NPClassifier class incidence,Gymnosperms,Caryophyllales & Santalales,6,11,1.092155607284209,0.0678688196868938,0.379,ok,0.4421666666666667
+NPClassifier class incidence,Gymnosperms,Asterids,6,26,1.2258429662853692,0.03925732181542433,0.308,ok,0.392
+NPClassifier class incidence,Early angiosperms & magnoliids,Monocots,8,15,1.4101485175774437,0.06292455029788806,0.186,ok,0.27410526315789474
+NPClassifier class incidence,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,1.8325955196476886,0.10887183248172326,0.134,ok,0.21933333333333332
+NPClassifier class incidence,Early angiosperms & magnoliids,Rosids,8,47,1.2592670075316952,0.023208330613034213,0.287,ok,0.392
+NPClassifier class incidence,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,0.8071789295705909,0.045328849267089126,0.558,ok,0.5786666666666667
+NPClassifier class incidence,Early angiosperms & magnoliids,Asterids,8,26,0.3157580939073548,0.009771025423255853,0.938,ok,0.938
+NPClassifier class incidence,Monocots,Early eudicots & Saxifragales,15,9,2.573065332065541,0.10471080010957903,0.009,ok,0.042
+NPClassifier class incidence,Monocots,Rosids,15,47,3.046456588882562,0.04832082171957887,0.008,ok,0.042
+NPClassifier class incidence,Monocots,Caryophyllales & Santalales,15,11,2.4689953315675144,0.09327877014746137,0.004,ok,0.037333333333333336
+NPClassifier class incidence,Monocots,Asterids,15,26,1.9572417081269515,0.047787439449043394,0.055,ok,0.13999999999999999
+NPClassifier class incidence,Early eudicots & Saxifragales,Rosids,9,47,1.6744019129497982,0.030074897177482466,0.101,ok,0.19413333333333332
+NPClassifier class incidence,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,2.1692774757258375,0.10755355407929758,0.07,ok,0.16333333333333336
+NPClassifier class incidence,Early eudicots & Saxifragales,Asterids,9,26,2.3322182703098022,0.06600826057586087,0.041,ok,0.1148
+NPClassifier class incidence,Rosids,Caryophyllales & Santalales,47,11,1.7951974369514603,0.031061360053485997,0.092,ok,0.19413333333333332
+NPClassifier class incidence,Rosids,Asterids,47,26,2.1755383403905473,0.02973040430902741,0.038,ok,0.1148
+NPClassifier class incidence,Caryophyllales & Santalales,Asterids,11,26,0.9444214589676447,0.026274493249133224,0.479,ok,0.5158461538461538
+Descriptor and motif profile,Non-seed vascular plants,Gymnosperms,9,6,1.1672663458881491,0.08239178380569741,0.282,ok,0.3805454545454545
+Descriptor and motif profile,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.6941910884917872,0.10148386822166454,0.153,ok,0.3295384615384615
+Descriptor and motif profile,Non-seed vascular plants,Monocots,9,15,2.5862101176807935,0.10518945804587265,0.031,ok,0.217
+Descriptor and motif profile,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,1.2791426690987375,0.0740281328532752,0.287,ok,0.3805454545454545
+Descriptor and motif profile,Non-seed vascular plants,Rosids,9,47,1.4616201188993858,0.026353722011112267,0.186,ok,0.34475
+Descriptor and motif profile,Non-seed vascular plants,Caryophyllales & Santalales,9,11,0.9946487587866023,0.05236468288609415,0.393,ok,0.4491200000000001
+Descriptor and motif profile,Non-seed vascular plants,Asterids,9,26,1.5695147299579153,0.0454016997987471,0.144,ok,0.3295384615384615
+Descriptor and motif profile,Gymnosperms,Early angiosperms & magnoliids,6,8,2.185128774498922,0.15404363324689735,0.061,ok,0.284
+Descriptor and motif profile,Gymnosperms,Monocots,6,15,1.7938065530487481,0.0862663865065987,0.126,ok,0.32072727272727275
+Descriptor and motif profile,Gymnosperms,Early eudicots & Saxifragales,6,9,1.3595153364214652,0.09467696538289085,0.253,ok,0.37284210526315786
+Descriptor and motif profile,Gymnosperms,Rosids,6,47,0.6973598003976716,0.013489273012977103,0.601,ok,0.6232592592592592
+Descriptor and motif profile,Gymnosperms,Caryophyllales & Santalales,6,11,1.4590748628356387,0.08864865583242526,0.197,ok,0.34475
+Descriptor and motif profile,Gymnosperms,Asterids,6,26,1.689803462937945,0.05332325474704236,0.116,ok,0.32072727272727275
+Descriptor and motif profile,Early angiosperms & magnoliids,Monocots,8,15,0.9912583978524285,0.045075110296972844,0.401,ok,0.4491200000000001
+Descriptor and motif profile,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,3.4925763592377357,0.18886369813436316,0.017,ok,0.217
+Descriptor and motif profile,Early angiosperms & magnoliids,Rosids,8,47,1.7564419570353302,0.032077357371275574,0.113,ok,0.32072727272727275
+Descriptor and motif profile,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,0.9877830064095547,0.05491410509330582,0.365,ok,0.44434782608695655
+Descriptor and motif profile,Early angiosperms & magnoliids,Asterids,8,26,0.4922593650911166,0.015150050341528049,0.815,ok,0.815
+Descriptor and motif profile,Monocots,Early eudicots & Saxifragales,15,9,4.480716896018428,0.1692067821884436,0.007,ok,0.196
+Descriptor and motif profile,Monocots,Rosids,15,47,1.973030131721098,0.0318369156313239,0.087,ok,0.3045
+Descriptor and motif profile,Monocots,Caryophyllales & Santalales,15,11,2.1239060511771566,0.08130124365844793,0.071,ok,0.284
+Descriptor and motif profile,Monocots,Asterids,15,26,1.4949769206323629,0.0369175891509316,0.188,ok,0.34475
+Descriptor and motif profile,Early eudicots & Saxifragales,Rosids,9,47,1.204797517752932,0.021824145217913163,0.299,ok,0.3805454545454545
+Descriptor and motif profile,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,2.5636661012228967,0.12466970085020193,0.039,ok,0.21839999999999998
+Descriptor and motif profile,Early eudicots & Saxifragales,Asterids,9,26,2.6957967190316814,0.07552140495002262,0.03,ok,0.217
+Descriptor and motif profile,Rosids,Caryophyllales & Santalales,47,11,1.3358209901941835,0.023298192423592247,0.225,ok,0.37058823529411766
+Descriptor and motif profile,Rosids,Asterids,47,26,1.3585015675159269,0.018774595079865532,0.24,ok,0.37284210526315786
+Descriptor and motif profile,Caryophyllales & Santalales,Asterids,11,26,0.7711431101614488,0.021557687093941135,0.6,ok,0.6232592592592592

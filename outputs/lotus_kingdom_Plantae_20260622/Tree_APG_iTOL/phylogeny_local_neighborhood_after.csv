@@ -1,0 +1,214 @@
+family,expected_order,expected_clade,n_sister_tips,sister_tips,sister_orders,sister_clades,same_order_sister,same_clade_sister
+Asteraceae,Asterales,Asterids (Campanulids),1,Campanulaceae,Asterales,Asterids (Campanulids),TRUE,TRUE
+Campanulaceae,Asterales,Asterids (Campanulids),1,Asteraceae,Asterales,Asterids (Campanulids),TRUE,TRUE
+Apiaceae,Apiales,Asterids (Campanulids),1,Araliaceae,Apiales,Asterids (Campanulids),TRUE,TRUE
+Araliaceae,Apiales,Asterids (Campanulids),1,Apiaceae,Apiales,Asterids (Campanulids),TRUE,TRUE
+Caprifoliaceae,Dipsacales,Asterids (Campanulids),1,Viburnaceae,,Asterids (Campanulids),FALSE,TRUE
+Viburnaceae,,Asterids (Campanulids),1,Caprifoliaceae,Dipsacales,Asterids (Campanulids),FALSE,TRUE
+Paracryphiaceae,Paracryphiales,Asterids (Campanulids),2,Caprifoliaceae;Viburnaceae,Dipsacales,Asterids (Campanulids),FALSE,TRUE
+Aquifoliaceae,Aquifoliales,Asterids (Campanulids),7,Asteraceae;Campanulaceae;Apiaceae;Araliaceae;Caprifoliaceae;Viburnaceae;Paracryphiaceae,Asterales;Apiales;Dipsacales;Paracryphiales,Asterids (Campanulids),FALSE,TRUE
+Lamiaceae,Lamiales,Asterids (Lamiids),2,Paulowniaceae;Phrymaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Paulowniaceae,Lamiales,Asterids (Lamiids),1,Phrymaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Phrymaceae,Lamiales,Asterids (Lamiids),1,Paulowniaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Acanthaceae,Lamiales,Asterids (Lamiids),1,Bignoniaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Bignoniaceae,Lamiales,Asterids (Lamiids),1,Acanthaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Verbenaceae,Lamiales,Asterids (Lamiids),2,Acanthaceae;Bignoniaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Scrophulariaceae,Lamiales,Asterids (Lamiids),6,Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Plantaginaceae,Lamiales,Asterids (Lamiids),7,Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Gesneriaceae,Lamiales,Asterids (Lamiids),1,Calceolariaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Calceolariaceae,Lamiales,Asterids (Lamiids),1,Gesneriaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Oleaceae,Lamiales,Asterids (Lamiids),10,Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae;Plantaginaceae;Gesneriaceae;Calceolariaceae,Lamiales,Asterids (Lamiids),TRUE,TRUE
+Boraginaceae,Boraginales,Asterids (Lamiids),3,Namaceae;Heliotropiaceae;Cordiaceae,,Asterids (Lamiids),FALSE,TRUE
+Namaceae,,Asterids (Lamiids),1,Heliotropiaceae,,Asterids (Lamiids),FALSE,TRUE
+Heliotropiaceae,,Asterids (Lamiids),1,Namaceae,,Asterids (Lamiids),FALSE,TRUE
+Cordiaceae,,Asterids (Lamiids),2,Namaceae;Heliotropiaceae,,Asterids (Lamiids),FALSE,TRUE
+Rubiaceae,Gentianales,Asterids (Lamiids),3,Apocynaceae;Gentianaceae;Loganiaceae,Gentianales,Asterids (Lamiids),TRUE,TRUE
+Apocynaceae,Gentianales,Asterids (Lamiids),1,Gentianaceae,Gentianales,Asterids (Lamiids),TRUE,TRUE
+Gentianaceae,Gentianales,Asterids (Lamiids),1,Apocynaceae,Gentianales,Asterids (Lamiids),TRUE,TRUE
+Loganiaceae,Gentianales,Asterids (Lamiids),2,Apocynaceae;Gentianaceae,Gentianales,Asterids (Lamiids),TRUE,TRUE
+Solanaceae,Solanales,Asterids (Lamiids),1,Convolvulaceae,Solanales,Asterids (Lamiids),TRUE,TRUE
+Convolvulaceae,Solanales,Asterids (Lamiids),1,Solanaceae,Solanales,Asterids (Lamiids),TRUE,TRUE
+Eucommiaceae,Garryales,Asterids (Lamiids),21,Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae;Plantaginaceae;Gesneriaceae;Calceolariaceae;Oleaceae;Boraginaceae;Namaceae;Heliotropiaceae;Cordiaceae;Rubiaceae;Apocynaceae;Gentianaceae;Loganiaceae;Solanaceae;Convolvulaceae,Lamiales;Boraginales;Gentianales;Solanales,Asterids (Lamiids),FALSE,TRUE
+Ericaceae,Ericales,Asterids (Basal),2,Actinidiaceae;Sarraceniaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Actinidiaceae,Ericales,Asterids (Basal),1,Sarraceniaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Sarraceniaceae,Ericales,Asterids (Basal),1,Actinidiaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Symplocaceae,Ericales,Asterids (Basal),1,Diapensiaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Diapensiaceae,Ericales,Asterids (Basal),1,Symplocaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Primulaceae,Ericales,Asterids (Basal),2,Ebenaceae;Lecythidaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Ebenaceae,Ericales,Asterids (Basal),1,Lecythidaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Lecythidaceae,Ericales,Asterids (Basal),1,Ebenaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Sapotaceae,Ericales,Asterids (Basal),1,Theaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Theaceae,Ericales,Asterids (Basal),1,Sapotaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Pentaphylacaceae,Ericales,Asterids (Basal),10,Ericaceae;Actinidiaceae;Sarraceniaceae;Symplocaceae;Diapensiaceae;Primulaceae;Ebenaceae;Lecythidaceae;Sapotaceae;Theaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Balsaminaceae,Ericales,Asterids (Basal),1,Marcgraviaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Marcgraviaceae,Ericales,Asterids (Basal),1,Balsaminaceae,Ericales,Asterids (Basal),TRUE,TRUE
+Hydrangeaceae,Cornales,Asterids (Basal),1,Cornaceae,Cornales,Asterids (Basal),TRUE,TRUE
+Cornaceae,Cornales,Asterids (Basal),1,Hydrangeaceae,Cornales,Asterids (Basal),TRUE,TRUE
+Cactaceae,Caryophyllales,Caryophyllales,1,Portulacaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Portulacaceae,Caryophyllales,Caryophyllales,1,Cactaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Didiereaceae,Caryophyllales,Caryophyllales,1,Basellaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Basellaceae,Caryophyllales,Caryophyllales,1,Didiereaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Molluginaceae,Caryophyllales,Caryophyllales,4,Cactaceae;Portulacaceae;Didiereaceae;Basellaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Aizoaceae,Caryophyllales,Caryophyllales,3,Nyctaginaceae;Petiveriaceae;Phytolaccaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Nyctaginaceae,Caryophyllales,Caryophyllales,2,Petiveriaceae;Phytolaccaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Petiveriaceae,Caryophyllales,Caryophyllales,1,Phytolaccaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Phytolaccaceae,Caryophyllales,Caryophyllales,1,Petiveriaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Caryophyllaceae,Caryophyllales,Caryophyllales,1,Amaranthaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Amaranthaceae,Caryophyllales,Caryophyllales,1,Caryophyllaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Physenaceae,Caryophyllales,Caryophyllales,11,Cactaceae;Portulacaceae;Didiereaceae;Basellaceae;Molluginaceae;Aizoaceae;Nyctaginaceae;Petiveriaceae;Phytolaccaceae;Caryophyllaceae;Amaranthaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Polygonaceae,Caryophyllales,Caryophyllales,1,Plumbaginaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Plumbaginaceae,Caryophyllales,Caryophyllales,1,Polygonaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Tamaricaceae,Caryophyllales,Caryophyllales,2,Polygonaceae;Plumbaginaceae,Caryophyllales,Caryophyllales,TRUE,TRUE
+Loranthaceae,Santalales,Santalales,2,Santalaceae;Balanophoraceae,Santalales,Santalales,TRUE,TRUE
+Santalaceae,Santalales,Santalales,1,Balanophoraceae,Santalales,Santalales,TRUE,TRUE
+Balanophoraceae,Santalales,Santalales,1,Santalaceae,Santalales,Santalales,TRUE,TRUE
+Olacaceae,Santalales,Santalales,3,Loranthaceae;Santalaceae;Balanophoraceae,Santalales,Santalales,TRUE,TRUE
+Dilleniaceae,Dilleniales,Other Eudicots,64,Asteraceae;Campanulaceae;Apiaceae;Araliaceae;Caprifoliaceae;Viburnaceae;Paracryphiaceae;Aquifoliaceae;Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae;Plantaginaceae;Gesneriaceae;Calceolariaceae;Oleaceae;Boraginaceae;Namaceae;Heliotropiaceae;Cordiaceae;Rubiaceae;Apocynaceae;Gentianaceae;Loganiaceae;Solanaceae;Convolvulaceae;Eucommiaceae;Ericaceae;Actinidiaceae;Sarraceniaceae;Symplocaceae;Diapensiaceae;Primulaceae;Ebenaceae;Lecythidaceae;Sapotaceae;Theaceae;Pentaphylacaceae;Balsaminaceae;Marcgraviaceae;Hydrangeaceae;Cornaceae;Cactaceae;Portulacaceae;Didiereaceae;Basellaceae;Molluginaceae;Aizoaceae;Nyctaginaceae;Petiveriaceae;Phytolaccaceae;Caryophyllaceae;Amaranthaceae;Physenaceae;Polygonaceae;Plumbaginaceae;Tamaricaceae;Loranthaceae;Santalaceae;Balanophoraceae;Olacaceae,Asterales;Apiales;Dipsacales;Paracryphiales;Aquifoliales;Lamiales;Boraginales;Gentianales;Solanales;Garryales;Ericales;Cornales;Caryophyllales;Santalales,Asterids (Campanulids);Asterids (Lamiids);Asterids (Basal);Caryophyllales;Santalales,FALSE,FALSE
+Fabaceae,Fabales,Rosids (Fabids),1,Polygalaceae,Fabales,Rosids (Fabids),TRUE,TRUE
+Polygalaceae,Fabales,Rosids (Fabids),1,Fabaceae,Fabales,Rosids (Fabids),TRUE,TRUE
+Rosaceae,Rosales,Rosids (Fabids),6,Moraceae;Urticaceae;Cannabaceae;Ulmaceae;Rhamnaceae;Elaeagnaceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Moraceae,Rosales,Rosids (Fabids),1,Urticaceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Urticaceae,Rosales,Rosids (Fabids),1,Moraceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Cannabaceae,Rosales,Rosids (Fabids),2,Moraceae;Urticaceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Ulmaceae,Rosales,Rosids (Fabids),3,Moraceae;Urticaceae;Cannabaceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Rhamnaceae,Rosales,Rosids (Fabids),1,Elaeagnaceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Elaeagnaceae,Rosales,Rosids (Fabids),1,Rhamnaceae,Rosales,Rosids (Fabids),TRUE,TRUE
+Cucurbitaceae,Cucurbitales,Rosids (Fabids),2,Begoniaceae;Coriariaceae,Cucurbitales,Rosids (Fabids),TRUE,TRUE
+Begoniaceae,Cucurbitales,Rosids (Fabids),1,Coriariaceae,Cucurbitales,Rosids (Fabids),TRUE,TRUE
+Coriariaceae,Cucurbitales,Rosids (Fabids),1,Begoniaceae,Cucurbitales,Rosids (Fabids),TRUE,TRUE
+Betulaceae,Fagales,Rosids (Fabids),1,Casuarinaceae,Fagales,Rosids (Fabids),TRUE,TRUE
+Casuarinaceae,Fagales,Rosids (Fabids),1,Betulaceae,Fagales,Rosids (Fabids),TRUE,TRUE
+Myricaceae,Fagales,Rosids (Fabids),2,Betulaceae;Casuarinaceae,Fagales,Rosids (Fabids),TRUE,TRUE
+Juglandaceae,Fagales,Rosids (Fabids),3,Betulaceae;Casuarinaceae;Myricaceae,Fagales,Rosids (Fabids),TRUE,TRUE
+Fagaceae,Fagales,Rosids (Fabids),4,Betulaceae;Casuarinaceae;Myricaceae;Juglandaceae,Fagales,Rosids (Fabids),TRUE,TRUE
+Nothofagaceae,Fagales,Rosids (Fabids),5,Betulaceae;Casuarinaceae;Myricaceae;Juglandaceae;Fagaceae,Fagales,Rosids (Fabids),TRUE,TRUE
+Hypericaceae,Malpighiales,Rosids (Fabids),1,Clusiaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Clusiaceae,Malpighiales,Rosids (Fabids),1,Hypericaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Calophyllaceae,Malpighiales,Rosids (Fabids),1,Bonnetiaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Bonnetiaceae,Malpighiales,Rosids (Fabids),1,Calophyllaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Malpighiaceae,Malpighiales,Rosids (Fabids),1,Elatinaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Elatinaceae,Malpighiales,Rosids (Fabids),1,Malpighiaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Passifloraceae,Malpighiales,Rosids (Fabids),1,Salicaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Salicaceae,Malpighiales,Rosids (Fabids),1,Passifloraceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Violaceae,Malpighiales,Rosids (Fabids),1,Achariaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Achariaceae,Malpighiales,Rosids (Fabids),1,Violaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Phyllanthaceae,Malpighiales,Rosids (Fabids),3,Rhizophoraceae;Erythroxylaceae;Pandaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Rhizophoraceae,Malpighiales,Rosids (Fabids),1,Erythroxylaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Erythroxylaceae,Malpighiales,Rosids (Fabids),1,Rhizophoraceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Pandaceae,Malpighiales,Rosids (Fabids),2,Rhizophoraceae;Erythroxylaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Chrysobalanaceae,Malpighiales,Rosids (Fabids),14,Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Euphorbiaceae,Malpighiales,Rosids (Fabids),1,Ochnaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Ochnaceae,Malpighiales,Rosids (Fabids),1,Euphorbiaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Humiriaceae,Malpighiales,Rosids (Fabids),17,Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae;Chrysobalanaceae;Euphorbiaceae;Ochnaceae,Malpighiales,Rosids (Fabids),TRUE,TRUE
+Cunoniaceae,Oxalidales,Rosids (Fabids),1,Oxalidaceae,Oxalidales,Rosids (Fabids),TRUE,TRUE
+Oxalidaceae,Oxalidales,Rosids (Fabids),1,Cunoniaceae,Oxalidales,Rosids (Fabids),TRUE,TRUE
+Celastraceae,Celastrales,Rosids (Fabids),20,Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae;Chrysobalanaceae;Euphorbiaceae;Ochnaceae;Humiriaceae;Cunoniaceae;Oxalidaceae,Malpighiales;Oxalidales,Rosids (Fabids),FALSE,TRUE
+Zygophyllaceae,Zygophyllales,Rosids (Fabids),1,Krameriaceae,Zygophyllales,Rosids (Fabids),TRUE,TRUE
+Krameriaceae,Zygophyllales,Rosids (Fabids),1,Zygophyllaceae,Zygophyllales,Rosids (Fabids),TRUE,TRUE
+Brassicaceae,Brassicales,Rosids (Malvids),2,Cleomaceae;Capparaceae,Brassicales,Rosids (Malvids),TRUE,TRUE
+Cleomaceae,Brassicales,Rosids (Malvids),1,Capparaceae,Brassicales,Rosids (Malvids),TRUE,TRUE
+Capparaceae,Brassicales,Rosids (Malvids),1,Cleomaceae,Brassicales,Rosids (Malvids),TRUE,TRUE
+Malvaceae,Malvales,Rosids (Malvids),1,Muntingiaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Muntingiaceae,Malvales,Rosids (Malvids),1,Malvaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Dipterocarpaceae,Malvales,Rosids (Malvids),1,Sarcolaenaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Sarcolaenaceae,Malvales,Rosids (Malvids),1,Dipterocarpaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Cistaceae,Malvales,Rosids (Malvids),2,Dipterocarpaceae;Sarcolaenaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Bixaceae,Malvales,Rosids (Malvids),3,Dipterocarpaceae;Sarcolaenaceae;Cistaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Thymelaeaceae,Malvales,Rosids (Malvids),6,Malvaceae;Muntingiaceae;Dipterocarpaceae;Sarcolaenaceae;Cistaceae;Bixaceae,Malvales,Rosids (Malvids),TRUE,TRUE
+Rutaceae,Sapindales,Rosids (Malvids),2,Meliaceae;Simaroubaceae,Sapindales,Rosids (Malvids),TRUE,TRUE
+Meliaceae,Sapindales,Rosids (Malvids),1,Simaroubaceae,Sapindales,Rosids (Malvids),TRUE,TRUE
+Simaroubaceae,Sapindales,Rosids (Malvids),1,Meliaceae,Sapindales,Rosids (Malvids),TRUE,TRUE
+Sapindaceae,Sapindales,Rosids (Malvids),3,Rutaceae;Meliaceae;Simaroubaceae,Sapindales,Rosids (Malvids),TRUE,TRUE
+Burseraceae,Sapindales,Rosids (Malvids),1,Anacardiaceae,Sapindales,Rosids (Malvids),TRUE,TRUE
+Anacardiaceae,Sapindales,Rosids (Malvids),1,Burseraceae,Sapindales,Rosids (Malvids),TRUE,TRUE
+Stachyuraceae,Crossosomatales,Rosids (Malvids),16,Brassicaceae;Cleomaceae;Capparaceae;Malvaceae;Muntingiaceae;Dipterocarpaceae;Sarcolaenaceae;Cistaceae;Bixaceae;Thymelaeaceae;Rutaceae;Meliaceae;Simaroubaceae;Sapindaceae;Burseraceae;Anacardiaceae,Brassicales;Malvales;Sapindales,Rosids (Malvids),FALSE,TRUE
+Melastomataceae,Myrtales,Rosids (Malvids),2,Myrtaceae;Vochysiaceae,Myrtales,Rosids (Malvids),TRUE,TRUE
+Myrtaceae,Myrtales,Rosids (Malvids),1,Vochysiaceae,Myrtales,Rosids (Malvids),TRUE,TRUE
+Vochysiaceae,Myrtales,Rosids (Malvids),1,Myrtaceae,Myrtales,Rosids (Malvids),TRUE,TRUE
+Onagraceae,Myrtales,Rosids (Malvids),1,Lythraceae,Myrtales,Rosids (Malvids),TRUE,TRUE
+Lythraceae,Myrtales,Rosids (Malvids),1,Onagraceae,Myrtales,Rosids (Malvids),TRUE,TRUE
+Combretaceae,Myrtales,Rosids (Malvids),5,Melastomataceae;Myrtaceae;Vochysiaceae;Onagraceae;Lythraceae,Myrtales,Rosids (Malvids),TRUE,TRUE
+Geraniaceae,Geraniales,Rosids (Malvids),1,Francoaceae,Geraniales,Rosids (Malvids),TRUE,TRUE
+Francoaceae,Geraniales,Rosids (Malvids),1,Geraniaceae,Geraniales,Rosids (Malvids),TRUE,TRUE
+Vitaceae,Vitales,Rosids (Basal),66,Fabaceae;Polygalaceae;Rosaceae;Moraceae;Urticaceae;Cannabaceae;Ulmaceae;Rhamnaceae;Elaeagnaceae;Cucurbitaceae;Begoniaceae;Coriariaceae;Betulaceae;Casuarinaceae;Myricaceae;Juglandaceae;Fagaceae;Nothofagaceae;Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae;Chrysobalanaceae;Euphorbiaceae;Ochnaceae;Humiriaceae;Cunoniaceae;Oxalidaceae;Celastraceae;Zygophyllaceae;Krameriaceae;Brassicaceae;Cleomaceae;Capparaceae;Malvaceae;Muntingiaceae;Dipterocarpaceae;Sarcolaenaceae;Cistaceae;Bixaceae;Thymelaeaceae;Rutaceae;Meliaceae;Simaroubaceae;Sapindaceae;Burseraceae;Anacardiaceae;Stachyuraceae;Melastomataceae;Myrtaceae;Vochysiaceae;Onagraceae;Lythraceae;Combretaceae;Geraniaceae;Francoaceae,Fabales;Rosales;Cucurbitales;Fagales;Malpighiales;Oxalidales;Celastrales;Zygophyllales;Brassicales;Malvales;Sapindales;Crossosomatales;Myrtales;Geraniales,Rosids (Fabids);Rosids (Malvids),FALSE,FALSE
+Crassulaceae,Saxifragales,Saxifragales,1,Haloragaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Haloragaceae,Saxifragales,Saxifragales,1,Crassulaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Saxifragaceae,Saxifragales,Saxifragales,1,Grossulariaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Grossulariaceae,Saxifragales,Saxifragales,1,Saxifragaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Hamamelidaceae,Saxifragales,Saxifragales,3,Altingiaceae;Daphniphyllaceae;Cercidiphyllaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Altingiaceae,Saxifragales,Saxifragales,2,Daphniphyllaceae;Cercidiphyllaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Daphniphyllaceae,Saxifragales,Saxifragales,1,Cercidiphyllaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Cercidiphyllaceae,Saxifragales,Saxifragales,1,Daphniphyllaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Paeoniaceae,Saxifragales,Saxifragales,4,Hamamelidaceae;Altingiaceae;Daphniphyllaceae;Cercidiphyllaceae,Saxifragales,Saxifragales,TRUE,TRUE
+Trochodendraceae,Trochodendrales,Basal Eudicots,142,Asteraceae;Campanulaceae;Apiaceae;Araliaceae;Caprifoliaceae;Viburnaceae;Paracryphiaceae;Aquifoliaceae;Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae;Plantaginaceae;Gesneriaceae;Calceolariaceae;Oleaceae;Boraginaceae;Namaceae;Heliotropiaceae;Cordiaceae;Rubiaceae;Apocynaceae;Gentianaceae;Loganiaceae;Solanaceae;Convolvulaceae;Eucommiaceae;Ericaceae;Actinidiaceae;Sarraceniaceae;Symplocaceae;Diapensiaceae;Primulaceae;Ebenaceae;Lecythidaceae;Sapotaceae;Theaceae;Pentaphylacaceae;Balsaminaceae;Marcgraviaceae;Hydrangeaceae;Cornaceae;Cactaceae;Portulacaceae;Didiereaceae;Basellaceae;Molluginaceae;Aizoaceae;Nyctaginaceae;Petiveriaceae;Phytolaccaceae;Caryophyllaceae;Amaranthaceae;Physenaceae;Polygonaceae;Plumbaginaceae;Tamaricaceae;Loranthaceae;Santalaceae;Balanophoraceae;Olacaceae;Dilleniaceae;Fabaceae;Polygalaceae;Rosaceae;Moraceae;Urticaceae;Cannabaceae;Ulmaceae;Rhamnaceae;Elaeagnaceae;Cucurbitaceae;Begoniaceae;Coriariaceae;Betulaceae;Casuarinaceae;Myricaceae;Juglandaceae;Fagaceae;Nothofagaceae;Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae;Chrysobalanaceae;Euphorbiaceae;Ochnaceae;Humiriaceae;Cunoniaceae;Oxalidaceae;Celastraceae;Zygophyllaceae;Krameriaceae;Brassicaceae;Cleomaceae;Capparaceae;Malvaceae;Muntingiaceae;Dipterocarpaceae;Sarcolaenaceae;Cistaceae;Bixaceae;Thymelaeaceae;Rutaceae;Meliaceae;Simaroubaceae;Sapindaceae;Burseraceae;Anacardiaceae;Stachyuraceae;Melastomataceae;Myrtaceae;Vochysiaceae;Onagraceae;Lythraceae;Combretaceae;Geraniaceae;Francoaceae;Vitaceae;Crassulaceae;Haloragaceae;Saxifragaceae;Grossulariaceae;Hamamelidaceae;Altingiaceae;Daphniphyllaceae;Cercidiphyllaceae;Paeoniaceae;Cynomoriaceae,Asterales;Apiales;Dipsacales;Paracryphiales;Aquifoliales;Lamiales;Boraginales;Gentianales;Solanales;Garryales;Ericales;Cornales;Caryophyllales;Santalales;Dilleniales;Fabales;Rosales;Cucurbitales;Fagales;Malpighiales;Oxalidales;Celastrales;Zygophyllales;Brassicales;Malvales;Sapindales;Crossosomatales;Myrtales;Geraniales;Vitales;Saxifragales,Asterids (Campanulids);Asterids (Lamiids);Asterids (Basal);Caryophyllales;Santalales;Other Eudicots;Rosids (Fabids);Rosids (Malvids);Rosids (Basal);Saxifragales,FALSE,FALSE
+Proteaceae,Proteales,Basal Eudicots,1,Platanaceae,Proteales,Basal Eudicots,TRUE,TRUE
+Platanaceae,Proteales,Basal Eudicots,1,Proteaceae,Proteales,Basal Eudicots,TRUE,TRUE
+Nelumbonaceae,Proteales,Basal Eudicots,2,Proteaceae;Platanaceae,Proteales,Basal Eudicots,TRUE,TRUE
+Ranunculaceae,Ranunculales,Basal Eudicots,1,Berberidaceae,Ranunculales,Basal Eudicots,TRUE,TRUE
+Berberidaceae,Ranunculales,Basal Eudicots,1,Ranunculaceae,Ranunculales,Basal Eudicots,TRUE,TRUE
+Menispermaceae,Ranunculales,Basal Eudicots,2,Ranunculaceae;Berberidaceae,Ranunculales,Basal Eudicots,TRUE,TRUE
+Lardizabalaceae,Ranunculales,Basal Eudicots,3,Ranunculaceae;Berberidaceae;Menispermaceae,Ranunculales,Basal Eudicots,TRUE,TRUE
+Papaveraceae,Ranunculales,Basal Eudicots,4,Ranunculaceae;Berberidaceae;Menispermaceae;Lardizabalaceae,Ranunculales,Basal Eudicots,TRUE,TRUE
+Eupteleaceae,Ranunculales,Basal Eudicots,5,Ranunculaceae;Berberidaceae;Menispermaceae;Lardizabalaceae;Papaveraceae,Ranunculales,Basal Eudicots,TRUE,TRUE
+Orchidaceae,Asparagales,Monocots,4,Asparagaceae;Amaryllidaceae;Asphodelaceae;Iridaceae,Asparagales,Monocots,TRUE,TRUE
+Asparagaceae,Asparagales,Monocots,1,Amaryllidaceae,Asparagales,Monocots,TRUE,TRUE
+Amaryllidaceae,Asparagales,Monocots,1,Asparagaceae,Asparagales,Monocots,TRUE,TRUE
+Asphodelaceae,Asparagales,Monocots,2,Asparagaceae;Amaryllidaceae,Asparagales,Monocots,TRUE,TRUE
+Iridaceae,Asparagales,Monocots,3,Asparagaceae;Amaryllidaceae;Asphodelaceae,Asparagales,Monocots,TRUE,TRUE
+Poaceae,Poales,Monocots (Commelinids),1,Eriocaulaceae,Poales,Monocots (Commelinids),TRUE,TRUE
+Eriocaulaceae,Poales,Monocots (Commelinids),1,Poaceae,Poales,Monocots (Commelinids),TRUE,TRUE
+Cyperaceae,Poales,Monocots (Commelinids),2,Poaceae;Eriocaulaceae,Poales,Monocots (Commelinids),TRUE,TRUE
+Bromeliaceae,Poales,Monocots (Commelinids),1,Typhaceae,Poales,Monocots (Commelinids),TRUE,TRUE
+Typhaceae,Poales,Monocots (Commelinids),1,Bromeliaceae,Poales,Monocots (Commelinids),TRUE,TRUE
+Zingiberaceae,Zingiberales,Monocots (Commelinids),1,Musaceae,Zingiberales,Monocots (Commelinids),TRUE,TRUE
+Musaceae,Zingiberales,Monocots (Commelinids),1,Zingiberaceae,Zingiberales,Monocots (Commelinids),TRUE,TRUE
+Arecaceae,Arecales,Monocots (Commelinids),2,Zingiberaceae;Musaceae,Zingiberales,Monocots (Commelinids),FALSE,TRUE
+Smilacaceae,Liliales,Monocots,1,Melanthiaceae,Liliales,Monocots,TRUE,TRUE
+Melanthiaceae,Liliales,Monocots,1,Smilacaceae,Liliales,Monocots,TRUE,TRUE
+Stemonaceae,Pandanales,Monocots,1,Velloziaceae,Pandanales,Monocots,TRUE,TRUE
+Velloziaceae,Pandanales,Monocots,1,Stemonaceae,Pandanales,Monocots,TRUE,TRUE
+Dioscoreaceae,Dioscoreales,Monocots,2,Stemonaceae;Velloziaceae,Pandanales,Monocots,FALSE,TRUE
+Araceae,Alismatales,Monocots,1,Posidoniaceae,Alismatales,Monocots,TRUE,TRUE
+Posidoniaceae,Alismatales,Monocots,1,Araceae,Alismatales,Monocots,TRUE,TRUE
+Annonaceae,Magnoliales,Magnoliids,1,Myristicaceae,Magnoliales,Magnoliids,TRUE,TRUE
+Myristicaceae,Magnoliales,Magnoliids,1,Annonaceae,Magnoliales,Magnoliids,TRUE,TRUE
+Lauraceae,Laurales,Magnoliids,1,Hernandiaceae,Laurales,Magnoliids,TRUE,TRUE
+Hernandiaceae,Laurales,Magnoliids,1,Lauraceae,Laurales,Magnoliids,TRUE,TRUE
+Siparunaceae,Laurales,Magnoliids,2,Lauraceae;Hernandiaceae,Laurales,Magnoliids,TRUE,TRUE
+Piperaceae,Piperales,Magnoliids,1,Saururaceae,Piperales,Magnoliids,TRUE,TRUE
+Saururaceae,Piperales,Magnoliids,1,Piperaceae,Piperales,Magnoliids,TRUE,TRUE
+Aristolochiaceae,Piperales,Magnoliids,2,Piperaceae;Saururaceae,Piperales,Magnoliids,TRUE,TRUE
+Winteraceae,Canellales,Magnoliids,3,Piperaceae;Saururaceae;Aristolochiaceae,Piperales,Magnoliids,FALSE,TRUE
+Chloranthaceae,Chloranthales,Chloranthales,9,Annonaceae;Myristicaceae;Lauraceae;Hernandiaceae;Siparunaceae;Piperaceae;Saururaceae;Aristolochiaceae;Winteraceae,Magnoliales;Laurales;Piperales;Canellales,Magnoliids,FALSE,FALSE
+Schisandraceae,Austrobaileyales,Basal Angiosperms,182,Asteraceae;Campanulaceae;Apiaceae;Araliaceae;Caprifoliaceae;Viburnaceae;Paracryphiaceae;Aquifoliaceae;Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae;Plantaginaceae;Gesneriaceae;Calceolariaceae;Oleaceae;Boraginaceae;Namaceae;Heliotropiaceae;Cordiaceae;Rubiaceae;Apocynaceae;Gentianaceae;Loganiaceae;Solanaceae;Convolvulaceae;Eucommiaceae;Ericaceae;Actinidiaceae;Sarraceniaceae;Symplocaceae;Diapensiaceae;Primulaceae;Ebenaceae;Lecythidaceae;Sapotaceae;Theaceae;Pentaphylacaceae;Balsaminaceae;Marcgraviaceae;Hydrangeaceae;Cornaceae;Cactaceae;Portulacaceae;Didiereaceae;Basellaceae;Molluginaceae;Aizoaceae;Nyctaginaceae;Petiveriaceae;Phytolaccaceae;Caryophyllaceae;Amaranthaceae;Physenaceae;Polygonaceae;Plumbaginaceae;Tamaricaceae;Loranthaceae;Santalaceae;Balanophoraceae;Olacaceae;Dilleniaceae;Fabaceae;Polygalaceae;Rosaceae;Moraceae;Urticaceae;Cannabaceae;Ulmaceae;Rhamnaceae;Elaeagnaceae;Cucurbitaceae;Begoniaceae;Coriariaceae;Betulaceae;Casuarinaceae;Myricaceae;Juglandaceae;Fagaceae;Nothofagaceae;Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae;Chrysobalanaceae;Euphorbiaceae;Ochnaceae;Humiriaceae;Cunoniaceae;Oxalidaceae;Celastraceae;Zygophyllaceae;Krameriaceae;Brassicaceae;Cleomaceae;Capparaceae;Malvaceae;Muntingiaceae;Dipterocarpaceae;Sarcolaenaceae;Cistaceae;Bixaceae;Thymelaeaceae;Rutaceae;Meliaceae;Simaroubaceae;Sapindaceae;Burseraceae;Anacardiaceae;Stachyuraceae;Melastomataceae;Myrtaceae;Vochysiaceae;Onagraceae;Lythraceae;Combretaceae;Geraniaceae;Francoaceae;Vitaceae;Crassulaceae;Haloragaceae;Saxifragaceae;Grossulariaceae;Hamamelidaceae;Altingiaceae;Daphniphyllaceae;Cercidiphyllaceae;Paeoniaceae;Trochodendraceae;Proteaceae;Platanaceae;Nelumbonaceae;Ranunculaceae;Berberidaceae;Menispermaceae;Lardizabalaceae;Papaveraceae;Eupteleaceae;Orchidaceae;Asparagaceae;Amaryllidaceae;Asphodelaceae;Iridaceae;Poaceae;Eriocaulaceae;Cyperaceae;Bromeliaceae;Typhaceae;Zingiberaceae;Musaceae;Arecaceae;Smilacaceae;Melanthiaceae;Stemonaceae;Velloziaceae;Dioscoreaceae;Araceae;Posidoniaceae;Annonaceae;Myristicaceae;Lauraceae;Hernandiaceae;Siparunaceae;Piperaceae;Saururaceae;Aristolochiaceae;Winteraceae;Chloranthaceae;Cynomoriaceae,Asterales;Apiales;Dipsacales;Paracryphiales;Aquifoliales;Lamiales;Boraginales;Gentianales;Solanales;Garryales;Ericales;Cornales;Caryophyllales;Santalales;Dilleniales;Fabales;Rosales;Cucurbitales;Fagales;Malpighiales;Oxalidales;Celastrales;Zygophyllales;Brassicales;Malvales;Sapindales;Crossosomatales;Myrtales;Geraniales;Vitales;Saxifragales;Trochodendrales;Proteales;Ranunculales;Asparagales;Poales;Zingiberales;Arecales;Liliales;Pandanales;Dioscoreales;Alismatales;Magnoliales;Laurales;Piperales;Canellales;Chloranthales,Asterids (Campanulids);Asterids (Lamiids);Asterids (Basal);Caryophyllales;Santalales;Other Eudicots;Rosids (Fabids);Rosids (Malvids);Rosids (Basal);Saxifragales;Basal Eudicots;Monocots;Monocots (Commelinids);Magnoliids;Chloranthales,FALSE,FALSE
+Nymphaeaceae,Nymphaeales,Basal Angiosperms,183,Asteraceae;Campanulaceae;Apiaceae;Araliaceae;Caprifoliaceae;Viburnaceae;Paracryphiaceae;Aquifoliaceae;Lamiaceae;Paulowniaceae;Phrymaceae;Acanthaceae;Bignoniaceae;Verbenaceae;Scrophulariaceae;Plantaginaceae;Gesneriaceae;Calceolariaceae;Oleaceae;Boraginaceae;Namaceae;Heliotropiaceae;Cordiaceae;Rubiaceae;Apocynaceae;Gentianaceae;Loganiaceae;Solanaceae;Convolvulaceae;Eucommiaceae;Ericaceae;Actinidiaceae;Sarraceniaceae;Symplocaceae;Diapensiaceae;Primulaceae;Ebenaceae;Lecythidaceae;Sapotaceae;Theaceae;Pentaphylacaceae;Balsaminaceae;Marcgraviaceae;Hydrangeaceae;Cornaceae;Cactaceae;Portulacaceae;Didiereaceae;Basellaceae;Molluginaceae;Aizoaceae;Nyctaginaceae;Petiveriaceae;Phytolaccaceae;Caryophyllaceae;Amaranthaceae;Physenaceae;Polygonaceae;Plumbaginaceae;Tamaricaceae;Loranthaceae;Santalaceae;Balanophoraceae;Olacaceae;Dilleniaceae;Fabaceae;Polygalaceae;Rosaceae;Moraceae;Urticaceae;Cannabaceae;Ulmaceae;Rhamnaceae;Elaeagnaceae;Cucurbitaceae;Begoniaceae;Coriariaceae;Betulaceae;Casuarinaceae;Myricaceae;Juglandaceae;Fagaceae;Nothofagaceae;Hypericaceae;Clusiaceae;Calophyllaceae;Bonnetiaceae;Malpighiaceae;Elatinaceae;Passifloraceae;Salicaceae;Violaceae;Achariaceae;Phyllanthaceae;Rhizophoraceae;Erythroxylaceae;Pandaceae;Chrysobalanaceae;Euphorbiaceae;Ochnaceae;Humiriaceae;Cunoniaceae;Oxalidaceae;Celastraceae;Zygophyllaceae;Krameriaceae;Brassicaceae;Cleomaceae;Capparaceae;Malvaceae;Muntingiaceae;Dipterocarpaceae;Sarcolaenaceae;Cistaceae;Bixaceae;Thymelaeaceae;Rutaceae;Meliaceae;Simaroubaceae;Sapindaceae;Burseraceae;Anacardiaceae;Stachyuraceae;Melastomataceae;Myrtaceae;Vochysiaceae;Onagraceae;Lythraceae;Combretaceae;Geraniaceae;Francoaceae;Vitaceae;Crassulaceae;Haloragaceae;Saxifragaceae;Grossulariaceae;Hamamelidaceae;Altingiaceae;Daphniphyllaceae;Cercidiphyllaceae;Paeoniaceae;Trochodendraceae;Proteaceae;Platanaceae;Nelumbonaceae;Ranunculaceae;Berberidaceae;Menispermaceae;Lardizabalaceae;Papaveraceae;Eupteleaceae;Orchidaceae;Asparagaceae;Amaryllidaceae;Asphodelaceae;Iridaceae;Poaceae;Eriocaulaceae;Cyperaceae;Bromeliaceae;Typhaceae;Zingiberaceae;Musaceae;Arecaceae;Smilacaceae;Melanthiaceae;Stemonaceae;Velloziaceae;Dioscoreaceae;Araceae;Posidoniaceae;Annonaceae;Myristicaceae;Lauraceae;Hernandiaceae;Siparunaceae;Piperaceae;Saururaceae;Aristolochiaceae;Winteraceae;Chloranthaceae;Schisandraceae;Cynomoriaceae,Asterales;Apiales;Dipsacales;Paracryphiales;Aquifoliales;Lamiales;Boraginales;Gentianales;Solanales;Garryales;Ericales;Cornales;Caryophyllales;Santalales;Dilleniales;Fabales;Rosales;Cucurbitales;Fagales;Malpighiales;Oxalidales;Celastrales;Zygophyllales;Brassicales;Malvales;Sapindales;Crossosomatales;Myrtales;Geraniales;Vitales;Saxifragales;Trochodendrales;Proteales;Ranunculales;Asparagales;Poales;Zingiberales;Arecales;Liliales;Pandanales;Dioscoreales;Alismatales;Magnoliales;Laurales;Piperales;Canellales;Chloranthales;Austrobaileyales,Asterids (Campanulids);Asterids (Lamiids);Asterids (Basal);Caryophyllales;Santalales;Other Eudicots;Rosids (Fabids);Rosids (Malvids);Rosids (Basal);Saxifragales;Basal Eudicots;Monocots;Monocots (Commelinids);Magnoliids;Chloranthales;Basal Angiosperms,FALSE,TRUE
+Podocarpaceae,Cupressales,Gymnosperms,1,Araucariaceae,Cupressales,Gymnosperms,TRUE,TRUE
+Araucariaceae,Cupressales,Gymnosperms,1,Podocarpaceae,Cupressales,Gymnosperms,TRUE,TRUE
+Cupressaceae,Cupressales,Gymnosperms,2,Cephalotaxaceae;Taxaceae,Cupressales,Gymnosperms,TRUE,TRUE
+Cephalotaxaceae,,Gymnosperms,1,Taxaceae,Cupressales,Gymnosperms,FALSE,TRUE
+Taxaceae,Cupressales,Gymnosperms,1,Cephalotaxaceae,,Gymnosperms,FALSE,TRUE
+Sciadopityaceae,Cupressales,Gymnosperms,3,Cupressaceae;Cephalotaxaceae;Taxaceae,Cupressales,Gymnosperms,TRUE,TRUE
+Pinaceae,Pinales,Gymnosperms,6,Podocarpaceae;Araucariaceae;Cupressaceae;Cephalotaxaceae;Taxaceae;Sciadopityaceae,Cupressales,Gymnosperms,FALSE,TRUE
+Cycadaceae,Cycadales,Gymnosperms,2,Ephedraceae;Gnetaceae,Gnetales,Gymnosperms,FALSE,TRUE
+Ephedraceae,Gnetales,Gymnosperms,1,Gnetaceae,Gnetales,Gymnosperms,TRUE,TRUE
+Gnetaceae,Gnetales,Gymnosperms,1,Ephedraceae,Gnetales,Gymnosperms,TRUE,TRUE
+Ginkgoaceae,Ginkgoales,Gymnosperms,3,Cycadaceae;Ephedraceae;Gnetaceae,Cycadales;Gnetales,Gymnosperms,FALSE,TRUE
+Dryopteridaceae,Polypodiales,Ferns,3,Polypodiaceae;Tectariaceae;Davalliaceae,Polypodiales,Ferns,TRUE,TRUE
+Polypodiaceae,Polypodiales,Ferns,2,Tectariaceae;Davalliaceae,Polypodiales,Ferns,TRUE,TRUE
+Tectariaceae,Polypodiales,Ferns,1,Davalliaceae,Polypodiales,Ferns,TRUE,TRUE
+Davalliaceae,Polypodiales,Ferns,1,Tectariaceae,Polypodiales,Ferns,TRUE,TRUE
+Blechnaceae,Polypodiales,Ferns,1,Onocleaceae,Polypodiales,Ferns,TRUE,TRUE
+Onocleaceae,Polypodiales,Ferns,1,Blechnaceae,Polypodiales,Ferns,TRUE,TRUE
+Athyriaceae,Polypodiales,Ferns,2,Blechnaceae;Onocleaceae,Polypodiales,Ferns,TRUE,TRUE
+Woodsiaceae,Polypodiales,Ferns,3,Blechnaceae;Onocleaceae;Athyriaceae,Polypodiales,Ferns,TRUE,TRUE
+Thelypteridaceae,Polypodiales,Ferns,4,Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae,Polypodiales,Ferns,TRUE,TRUE
+Aspleniaceae,Polypodiales,Ferns,9,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae,Polypodiales,Ferns,TRUE,TRUE
+Dennstaedtiaceae,Polypodiales,Ferns,10,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae;Aspleniaceae,Polypodiales,Ferns,TRUE,TRUE
+Pteridaceae,Polypodiales,Ferns,11,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae;Aspleniaceae;Dennstaedtiaceae,Polypodiales,Ferns,TRUE,TRUE
+Cyatheaceae,Cyatheales,Ferns,12,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae;Aspleniaceae;Dennstaedtiaceae;Pteridaceae,Polypodiales,Ferns,FALSE,TRUE
+Gleicheniaceae,Gleicheniales,Ferns,13,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae;Aspleniaceae;Dennstaedtiaceae;Pteridaceae;Cyatheaceae,Polypodiales;Cyatheales,Ferns,FALSE,TRUE
+Equisetaceae,Equisetales,Ferns,14,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae;Aspleniaceae;Dennstaedtiaceae;Pteridaceae;Cyatheaceae;Gleicheniaceae,Polypodiales;Cyatheales;Gleicheniales,Ferns,FALSE,TRUE
+Ophioglossaceae,Ophioglossales,Ferns,15,Dryopteridaceae;Polypodiaceae;Tectariaceae;Davalliaceae;Blechnaceae;Onocleaceae;Athyriaceae;Woodsiaceae;Thelypteridaceae;Aspleniaceae;Dennstaedtiaceae;Pteridaceae;Cyatheaceae;Gleicheniaceae;Equisetaceae,Polypodiales;Cyatheales;Gleicheniales;Equisetales,Ferns,FALSE,TRUE
+Lycopodiaceae,Lycopodiales,Lycophytes,1,Selaginellaceae,Lycopodiales,Lycophytes,TRUE,TRUE
+Selaginellaceae,Lycopodiales,Lycophytes,1,Lycopodiaceae,Lycopodiales,Lycophytes,TRUE,TRUE
+Cynomoriaceae,Saxifragales,Saxifragales,9,Crassulaceae;Haloragaceae;Saxifragaceae;Grossulariaceae;Hamamelidaceae;Altingiaceae;Daphniphyllaceae;Cercidiphyllaceae;Paeoniaceae,Saxifragales,Saxifragales,TRUE,TRUE

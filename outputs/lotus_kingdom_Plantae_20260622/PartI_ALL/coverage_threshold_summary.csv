@@ -1,0 +1,5 @@
+min_compounds,n_families_retained,pct_families_retained,n_compounds_represented,pct_compounds_represented
+1,224,100,10496,100
+5,175,78.125,10465,99.7046493902439
+10,133,59.375,10381,98.90434451219512
+20,103,45.982142857142854,10209,97.265625

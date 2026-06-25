@@ -1,0 +1,67 @@
+{
+  "generated_at_utc": "2026-06-24T17:23:47.421487+00:00",
+  "input_file": "G:\\Meu Drive\\ARTIGOS\\2025\\Maira_LOTUS\\2026\\outputs\\lotus_kingdom_Plantae_20260622\\PartII_ALL\\lotus_kingdom_Plantae_20260622__flavonoids_for_rdkit.csv",
+  "input_sha256": "b7dd5b7e07da4aba02e7cb692ab17f4adf8c31c04f39950270aa16b532d65ee7",
+  "output_directory": "G:\\Meu Drive\\ARTIGOS\\2025\\Maira_LOTUS\\2026\\outputs\\lotus_kingdom_Plantae_20260622\\RDKit_ALL",
+  "software": {
+    "python": "3.14.5",
+    "pandas": "3.0.3",
+    "rdkit": "2026.03.3"
+  },
+  "standardization": {
+    "cleanup": true,
+    "fragment_parent": true,
+    "tautomer_canonicalization": false,
+    "charge_neutralization": false
+  },
+  "motif_smarts": {
+    "phenolic_OH": "[OX2H][cX3]",
+    "methoxy_aryl": "[cX3][OX2][CH3]",
+    "prenyl_like": "C=C(C)C",
+    "alpha_beta_unsaturated_carbonyl": "[CX3](=O)[CX3]=[CX3]"
+  },
+  "structural_qc": {
+    "primary_minimum_carbons": 14,
+    "primary_requires_oxygen": true,
+    "primary_excludes_substantial_multicomponent_inputs": true,
+    "nitrogen_sulfur_and_halogens": "flagged for review, not automatically excluded",
+    "interpretation": "QC flags support manual curation and sensitivity analyses; they do not redefine NPClassifier classes"
+  },
+  "probable_sugar_rule": {
+    "ring_sizes": [
+      5,
+      6
+    ],
+    "allowed_ring_atoms": [
+      "C",
+      "O"
+    ],
+    "non_aromatic": true,
+    "minimum_total_noncarbonyl_oxygens": 3,
+    "minimum_exocyclic_oxygens": 1,
+    "interpretation": "probable sugar-like ring, not definitive glycosylation"
+  },
+  "counts": {
+    "input_rows": 33109,
+    "input_unique_inchikeys": 10496,
+    "compound_rows": 10496,
+    "valid_compounds": 10496,
+    "compounds_without_valid_structure": 0,
+    "invalid_structure_records": 0,
+    "conflicting_inchikeys": 0,
+    "inchikey_exact_matches": 10496,
+    "inchikey_connectivity_matches": 10496,
+    "stereo_fallback_compounds": 0,
+    "primary_structure_eligible": 10469,
+    "structural_qc_exclude_primary": 27,
+    "structural_qc_review": 117,
+    "zero_oxygen_compounds": 2,
+    "carbon_below_14_compounds": 24,
+    "nitrogen_containing_compounds": 82,
+    "sulfur_containing_compounds": 39,
+    "halogen_containing_compounds": 9,
+    "substantial_multicomponent_inputs": 1,
+    "structural_qc_rows": 144,
+    "occurrence_output_rows": 33109
+  }
+}

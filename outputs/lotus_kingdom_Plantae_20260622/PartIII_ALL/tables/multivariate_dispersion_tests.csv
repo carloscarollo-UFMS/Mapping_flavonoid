@@ -1,0 +1,4 @@
+analysis,distance_correction,statistic,p_value,p_adjust_bh
+Bemis-Murcko scaffold incidence,lingoes,0.6783323015046182,0.696,0.7
+NPClassifier class incidence,lingoes,0.6933352783904324,0.7,0.7
+Descriptor and motif profile,lingoes,1.8657015536164991,0.09,0.27

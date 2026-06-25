@@ -1,0 +1,33 @@
+{
+  "generated_at_utc": "2026-06-24 14:50:43 UTC",
+  "base_tag": "lotus_kingdom_Plantae_20260622",
+  "out_dir": "G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026/outputs/lotus_kingdom_Plantae_20260622",
+  "activity_cutoff_nm": 10000,
+  "selected_standard_types": ["IC50", "Ki", "EC50", "Kd", "MIC", "AC50", "GI50"],
+  "pchembl_comparable_types": ["IC50", "XC50", "EC50", "AC50", "Ki", "Kd", "Potency", "ED50"],
+  "allowed_validity_comments": [null, "", "Manually validated"],
+  "target_compounds": 10496,
+  "mapped_compounds": 2064,
+  "raw_activity_records": 14243,
+  "quality_activity_records": 10316,
+  "primary_quantitative_records": 4586,
+  "extended_quantitative_records": 4951,
+  "global_context_collection": "lotusUniqueNaturalProduct",
+  "global_context_requested": true,
+  "chembl_api_status": {
+    "activities": 24527044,
+    "chembl_db_version": "ChEMBL_37",
+    "chembl_release_date": "2026-05-01",
+    "compound_records": 3824604,
+    "disinct_compounds": 2921148,
+    "publications": 101100,
+    "status": "UP",
+    "targets": 18552
+  },
+  "software": {
+    "R": "R version 4.5.3 (2026-03-11 ucrt)",
+    "dplyr": "1.2.1",
+    "httr": "1.4.8",
+    "jsonlite": "2.0.0"
+  }
+}

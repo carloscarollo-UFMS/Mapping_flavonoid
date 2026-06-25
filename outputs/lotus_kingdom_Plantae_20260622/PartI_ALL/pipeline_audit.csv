@@ -1,0 +1,12 @@
+stage,n_rows,n_compounds,n_families,n_genera,n_species,n_species_all,n_references,notes
+01_mongodb_matched,66931,NA,NA,NA,NA,NA,NA,Rows matched before local distinct filtering.
+02_extracted_distinct,64733,10679,237,1332,3863,3863,5798,Distinct compound x reference x source x taxon rows after extraction.
+03_enriched_pre_wfo,64733,10679,237,1332,3863,3863,5798,"Rows after joining chemical properties, before WFO normalization."
+04_wfo_all_before_dedup,64733,10679,226,1323,3696,3811,5798,"All rows after WFO processing, before duplicate removal; core policy=resolved_only."
+05_wfo_core_eligible_before_dedup,62732,10496,224,1300,3518,3633,5686,Rows eligible for the primary dataset before duplicate removal.
+06_wfo_excluded_before_dedup,2001,779,58,135,178,178,344,Rows excluded by the taxonomic policy before duplicate removal.
+07_core_after_dedup,33109,10496,224,1300,3518,3633,5686,Primary occurrence-level analytical dataset after duplicate removal.
+08_taxonomy_excluded_after_dedup,1520,779,58,135,178,178,344,Taxonomically excluded records retained for sensitivity/audit after duplicate removal.
+09_all_taxonomic_records_after_dedup,34629,10679,226,1323,3696,3811,5798,Union of separately deduplicated core and excluded taxonomic records.
+10_compound_species,25900,10496,224,1300,3518,3633,5686,One row per compound x species.
+11_unique_compounds,10496,10496,224,1300,3518,3633,NA,One row per InChIKey; semicolon-delimited taxonomic fields are tokenized for audit counts.

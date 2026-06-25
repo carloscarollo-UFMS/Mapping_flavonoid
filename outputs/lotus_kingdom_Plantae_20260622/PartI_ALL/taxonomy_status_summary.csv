@@ -1,0 +1,6 @@
+taxonomy_action,taxonomy_core_eligible,taxonomy_exclusion_reason,n_rows,n_compounds,n_families,n_genera,n_species
+accepted_confirmed,TRUE,NA,30009,9790,219,1207,3354
+synonym_replaced,TRUE,NA,2656,1417,71,219,289
+unresolved,FALSE,unresolved_name,1520,779,58,135,178
+synonym_canonical_match,TRUE,NA,339,154,7,8,8
+accepted_canonical_match,TRUE,NA,105,98,10,12,12

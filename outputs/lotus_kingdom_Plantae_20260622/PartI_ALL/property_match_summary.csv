@@ -1,0 +1,5 @@
+metric,value
+unique_inchikeys_requested,10679
+unique_inchikeys_with_properties,10679
+unique_inchikeys_without_properties,0
+property_match_percent,100

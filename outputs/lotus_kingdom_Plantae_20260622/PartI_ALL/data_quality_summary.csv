@@ -1,0 +1,9 @@
+metric,n_rows,denominator_rows,percent
+missing_inchikey,0,33109,0
+missing_smiles,0,33109,0
+missing_family,0,33109,0
+missing_genus,0,33109,0
+missing_species,0,33109,0
+non_binomial_species,938,33109,2.83306653779939
+missing_murcko_framework,0,33109,0
+missing_npclassifier_class,0,33109,0

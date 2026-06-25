@@ -1,0 +1,51 @@
+target_domain_macro,motif_combination,n_compounds,n_active,n_above_cutoff,active_rate,ci_low,ci_high,binary_rule
+Cell Signaling and Survival,Methoxy,41,11,30,0.2682926829268293,0.15694805281336685,0.41933825276002934,record_majority_excluding_ties
+Cell Signaling and Survival,Methoxy+Prenyl,31,9,22,0.2903225806451613,0.1609562071843287,0.4659265995754067,record_majority_excluding_ties
+Cell Signaling and Survival,Methoxy+Sugar,3,2,1,0.6666666666666666,0.2076549551264879,0.9385096847238394,record_majority_excluding_ties
+Cell Signaling and Survival,Prenyl,69,35,34,0.5072463768115942,0.39205066383648346,0.6216777550889657,record_majority_excluding_ties
+Cell Signaling and Survival,Simple,74,26,48,0.35135135135135137,0.2523802753489206,0.46499449598157616,record_majority_excluding_ties
+Cell Signaling and Survival,Sugar,11,4,7,0.36363636363636365,0.15166223614131383,0.6462032231083628,record_majority_excluding_ties
+Gene Regulation,Methoxy,16,8,8,0.5,0.2799923761135083,0.7200076238864916,record_majority_excluding_ties
+Gene Regulation,Methoxy+Prenyl,3,3,0,1,0.43849391955098227,1,record_majority_excluding_ties
+Gene Regulation,Methoxy+Sugar,2,1,1,0.5,0.09452865480086614,0.9054713451991339,record_majority_excluding_ties
+Gene Regulation,Prenyl,14,8,6,0.5714285714285714,0.32590266902869364,0.7861949006959947,record_majority_excluding_ties
+Gene Regulation,Simple,24,15,9,0.625,0.42709619037907065,0.7884086656636855,record_majority_excluding_ties
+General Assays and Safety,Methoxy,50,14,36,0.28,0.17474014357680362,0.4166538714598967,record_majority_excluding_ties
+General Assays and Safety,Methoxy+Prenyl,30,19,11,0.6333333333333333,0.45513246433604937,0.7812629779598231,record_majority_excluding_ties
+General Assays and Safety,Methoxy+Sugar,1,0,1,0,0,0.7934567085261071,record_majority_excluding_ties
+General Assays and Safety,Prenyl,62,45,17,0.7258064516129032,0.6040722415667276,0.8211908140090788,record_majority_excluding_ties
+General Assays and Safety,Simple,71,24,47,0.3380281690140845,0.2388482890600142,0.4538359934780396,record_majority_excluding_ties
+General Assays and Safety,Sugar,7,2,5,0.2857142857142857,0.0822171657090155,0.6410709098517873,record_majority_excluding_ties
+Infectious Diseases,Methoxy,104,18,86,0.17307692307692307,0.11237651918444376,0.257069038003135,record_majority_excluding_ties
+Infectious Diseases,Methoxy+Prenyl,40,17,23,0.425,0.28509168524815875,0.5780519956394001,record_majority_excluding_ties
+Infectious Diseases,Methoxy+Sugar,4,1,3,0.25,0.045586062644636216,0.6993639475573634,record_majority_excluding_ties
+Infectious Diseases,Prenyl,61,38,23,0.6229508196721312,0.49747627570942377,0.7338566957163277,record_majority_excluding_ties
+Infectious Diseases,Simple,126,29,97,0.23015873015873015,0.16529948502667768,0.3109854652511994,record_majority_excluding_ties
+Infectious Diseases,Sugar,8,2,6,0.25,0.07147768885802763,0.5907301208974108,record_majority_excluding_ties
+Inflammation and Proteolysis,Methoxy,54,11,43,0.2037037037037037,0.1177393408658538,0.32902561722659174,record_majority_excluding_ties
+Inflammation and Proteolysis,Methoxy+Prenyl,11,7,4,0.6363636363636364,0.35379677689163724,0.8483377638586862,record_majority_excluding_ties
+Inflammation and Proteolysis,Methoxy+Sugar,2,0,2,0,0,0.6576280471103807,record_majority_excluding_ties
+Inflammation and Proteolysis,Prenyl,18,8,10,0.4444444444444444,0.24559231101389126,0.6628393057174837,record_majority_excluding_ties
+Inflammation and Proteolysis,Simple,66,19,47,0.2878787878787879,0.19271802784703906,0.40637477644152253,record_majority_excluding_ties
+Inflammation and Proteolysis,Sugar,5,1,4,0.2,0.03622316096978745,0.6244717358814613,record_majority_excluding_ties
+Metabolic Enzymes,Methoxy,51,29,22,0.5686274509803921,0.4326506123505807,0.694989719076657,record_majority_excluding_ties
+Metabolic Enzymes,Methoxy+Prenyl,19,13,6,0.6842105263157895,0.4601001017506463,0.846358289955714,record_majority_excluding_ties
+Metabolic Enzymes,Prenyl,45,23,22,0.5111111111111111,0.3700422432648975,0.6504321064697549,record_majority_excluding_ties
+Metabolic Enzymes,Simple,90,39,51,0.43333333333333335,0.33576405263265097,0.5363608898235731,record_majority_excluding_ties
+Metabolic Enzymes,Sugar,9,3,6,0.3333333333333333,0.12058159868274293,0.6458026525009102,record_majority_excluding_ties
+Neuroscience Targets,Methoxy,14,9,5,0.6428571428571429,0.3876400468214042,0.8365550926279727,record_majority_excluding_ties
+Neuroscience Targets,Methoxy+Prenyl,15,3,12,0.2,0.07047420643610411,0.4518593533465045,record_majority_excluding_ties
+Neuroscience Targets,Methoxy+Sugar,1,1,0,1,0.20654329147389294,1,record_majority_excluding_ties
+Neuroscience Targets,Prenyl,13,9,4,0.6923076923076923,0.4236888781333764,0.8731950283838191,record_majority_excluding_ties
+Neuroscience Targets,Simple,48,19,29,0.3958333333333333,0.2702062649595057,0.5368984540306487,record_majority_excluding_ties
+Phenotypic: Cancer and Cells,Methoxy,210,44,166,0.20952380952380953,0.1599460625619205,0.26953819120348343,record_majority_excluding_ties
+Phenotypic: Cancer and Cells,Methoxy+Prenyl,81,28,53,0.345679012345679,0.2512249524256235,0.4541082803281198,record_majority_excluding_ties
+Phenotypic: Cancer and Cells,Methoxy+Sugar,17,2,15,0.11764705882352941,0.03287908001292092,0.3433684249770991,record_majority_excluding_ties
+Phenotypic: Cancer and Cells,Prenyl,110,36,74,0.32727272727272727,0.2467099922053786,0.419492872125411,record_majority_excluding_ties
+Phenotypic: Cancer and Cells,Simple,152,17,135,0.1118421052631579,0.07101016485696363,0.17181075073938548,record_majority_excluding_ties
+Phenotypic: Cancer and Cells,Sugar,18,1,17,0.05555555555555555,0.009874935830924525,0.2575779980200754,record_majority_excluding_ties
+Transporters and Ion Channels,Methoxy,22,11,11,0.5,0.3072180469247956,0.6927819530752044,record_majority_excluding_ties
+Transporters and Ion Channels,Methoxy+Prenyl,5,1,4,0.2,0.03622316096978745,0.6244717358814613,record_majority_excluding_ties
+Transporters and Ion Channels,Prenyl,10,7,3,0.7,0.39677321997956516,0.892210712513788,record_majority_excluding_ties
+Transporters and Ion Channels,Simple,20,6,14,0.3,0.14547527396899385,0.5189767762289793,record_majority_excluding_ties
+Transporters and Ion Channels,Sugar,7,1,6,0.14285714285714285,0.02567895594897479,0.51313450331903,record_majority_excluding_ties

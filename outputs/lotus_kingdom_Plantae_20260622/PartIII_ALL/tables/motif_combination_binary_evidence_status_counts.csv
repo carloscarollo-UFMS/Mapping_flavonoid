@@ -1,0 +1,153 @@
+target_domain_macro,motif_combination,binary_evidence_status,n_compounds,n_quality_records
+Cell Signaling and Survival,Methoxy,above_cutoff_only,28,34
+Cell Signaling and Survival,Methoxy,active_only,11,15
+Cell Signaling and Survival,Methoxy,indeterminate,1,1
+Cell Signaling and Survival,Methoxy,mixed_evidence,4,16
+Cell Signaling and Survival,Methoxy+Prenyl,above_cutoff_only,21,26
+Cell Signaling and Survival,Methoxy+Prenyl,active_only,9,9
+Cell Signaling and Survival,Methoxy+Prenyl,mixed_evidence,2,7
+Cell Signaling and Survival,Methoxy+Sugar,above_cutoff_only,1,4
+Cell Signaling and Survival,Methoxy+Sugar,active_only,2,5
+Cell Signaling and Survival,Prenyl,above_cutoff_only,32,34
+Cell Signaling and Survival,Prenyl,active_only,31,56
+Cell Signaling and Survival,Prenyl,mixed_evidence,14,41
+Cell Signaling and Survival,Simple,above_cutoff_only,34,47
+Cell Signaling and Survival,Simple,active_only,21,45
+Cell Signaling and Survival,Simple,indeterminate,1,1
+Cell Signaling and Survival,Simple,mixed_evidence,21,177
+Cell Signaling and Survival,Sugar,above_cutoff_only,5,6
+Cell Signaling and Survival,Sugar,active_only,4,5
+Cell Signaling and Survival,Sugar,mixed_evidence,2,12
+Gene Regulation,Methoxy,above_cutoff_only,7,11
+Gene Regulation,Methoxy,active_only,8,9
+Gene Regulation,Methoxy,mixed_evidence,1,8
+Gene Regulation,Methoxy+Prenyl,active_only,3,6
+Gene Regulation,Methoxy+Sugar,above_cutoff_only,1,1
+Gene Regulation,Methoxy+Sugar,active_only,1,1
+Gene Regulation,Prenyl,above_cutoff_only,6,9
+Gene Regulation,Prenyl,active_only,8,12
+Gene Regulation,Simple,above_cutoff_only,8,16
+Gene Regulation,Simple,active_only,9,16
+Gene Regulation,Simple,mixed_evidence,11,125
+General Assays and Safety,Methoxy,above_cutoff_only,35,50
+General Assays and Safety,Methoxy,active_only,13,16
+General Assays and Safety,Methoxy,indeterminate,1,1
+General Assays and Safety,Methoxy,mixed_evidence,3,9
+General Assays and Safety,Methoxy+Prenyl,above_cutoff_only,11,13
+General Assays and Safety,Methoxy+Prenyl,active_only,18,19
+General Assays and Safety,Methoxy+Prenyl,mixed_evidence,1,3
+General Assays and Safety,Methoxy+Sugar,above_cutoff_only,1,1
+General Assays and Safety,Methoxy+Sugar,mixed_evidence,1,2
+General Assays and Safety,Prenyl,above_cutoff_only,17,20
+General Assays and Safety,Prenyl,active_only,44,49
+General Assays and Safety,Prenyl,mixed_evidence,4,9
+General Assays and Safety,Simple,above_cutoff_only,37,47
+General Assays and Safety,Simple,active_only,20,21
+General Assays and Safety,Simple,mixed_evidence,22,127
+General Assays and Safety,Sugar,above_cutoff_only,5,8
+General Assays and Safety,Sugar,active_only,2,2
+General Assays and Safety,Sugar,mixed_evidence,1,2
+Infectious Diseases,Methoxy,above_cutoff_only,72,139
+Infectious Diseases,Methoxy,active_only,17,31
+Infectious Diseases,Methoxy,indeterminate,1,1
+Infectious Diseases,Methoxy,mixed_evidence,20,148
+Infectious Diseases,Methoxy+Prenyl,above_cutoff_only,22,52
+Infectious Diseases,Methoxy+Prenyl,active_only,13,25
+Infectious Diseases,Methoxy+Prenyl,mixed_evidence,11,33
+Infectious Diseases,Methoxy+Sugar,above_cutoff_only,3,11
+Infectious Diseases,Methoxy+Sugar,active_only,1,1
+Infectious Diseases,Prenyl,above_cutoff_only,21,45
+Infectious Diseases,Prenyl,active_only,31,69
+Infectious Diseases,Prenyl,mixed_evidence,13,74
+Infectious Diseases,Simple,above_cutoff_only,74,152
+Infectious Diseases,Simple,active_only,23,44
+Infectious Diseases,Simple,indeterminate,4,4
+Infectious Diseases,Simple,mixed_evidence,44,413
+Infectious Diseases,Sugar,above_cutoff_only,6,12
+Infectious Diseases,Sugar,active_only,2,3
+Inflammation and Proteolysis,Methoxy,above_cutoff_only,43,70
+Inflammation and Proteolysis,Methoxy,active_only,10,14
+Inflammation and Proteolysis,Methoxy,mixed_evidence,5,15
+Inflammation and Proteolysis,Methoxy+Prenyl,above_cutoff_only,4,4
+Inflammation and Proteolysis,Methoxy+Prenyl,active_only,5,8
+Inflammation and Proteolysis,Methoxy+Prenyl,mixed_evidence,3,10
+Inflammation and Proteolysis,Methoxy+Sugar,above_cutoff_only,2,6
+Inflammation and Proteolysis,Prenyl,above_cutoff_only,10,16
+Inflammation and Proteolysis,Prenyl,active_only,7,11
+Inflammation and Proteolysis,Prenyl,mixed_evidence,5,16
+Inflammation and Proteolysis,Simple,above_cutoff_only,36,65
+Inflammation and Proteolysis,Simple,active_only,13,20
+Inflammation and Proteolysis,Simple,indeterminate,1,2
+Inflammation and Proteolysis,Simple,mixed_evidence,23,116
+Inflammation and Proteolysis,Sugar,above_cutoff_only,4,4
+Inflammation and Proteolysis,Sugar,active_only,1,1
+Inflammation and Proteolysis,Sugar,mixed_evidence,1,2
+Metabolic Enzymes,Methoxy,above_cutoff_only,18,25
+Metabolic Enzymes,Methoxy,active_only,24,40
+Metabolic Enzymes,Methoxy,indeterminate,2,2
+Metabolic Enzymes,Methoxy,mixed_evidence,16,106
+Metabolic Enzymes,Methoxy+Prenyl,above_cutoff_only,4,6
+Metabolic Enzymes,Methoxy+Prenyl,active_only,12,19
+Metabolic Enzymes,Methoxy+Prenyl,mixed_evidence,7,22
+Metabolic Enzymes,Methoxy+Sugar,indeterminate,1,1
+Metabolic Enzymes,Prenyl,above_cutoff_only,17,22
+Metabolic Enzymes,Prenyl,active_only,22,40
+Metabolic Enzymes,Prenyl,mixed_evidence,10,50
+Metabolic Enzymes,Simple,above_cutoff_only,36,54
+Metabolic Enzymes,Simple,active_only,31,45
+Metabolic Enzymes,Simple,mixed_evidence,32,263
+Metabolic Enzymes,Sugar,above_cutoff_only,5,10
+Metabolic Enzymes,Sugar,active_only,3,7
+Metabolic Enzymes,Sugar,mixed_evidence,2,7
+Neuroscience Targets,Methoxy,above_cutoff_only,5,39
+Neuroscience Targets,Methoxy,active_only,9,10
+Neuroscience Targets,Methoxy,mixed_evidence,1,4
+Neuroscience Targets,Methoxy+Prenyl,above_cutoff_only,11,23
+Neuroscience Targets,Methoxy+Prenyl,active_only,3,5
+Neuroscience Targets,Methoxy+Prenyl,mixed_evidence,4,13
+Neuroscience Targets,Methoxy+Sugar,active_only,1,1
+Neuroscience Targets,Methoxy+Sugar,mixed_evidence,1,2
+Neuroscience Targets,Prenyl,above_cutoff_only,4,6
+Neuroscience Targets,Prenyl,active_only,9,19
+Neuroscience Targets,Prenyl,mixed_evidence,2,4
+Neuroscience Targets,Simple,above_cutoff_only,23,39
+Neuroscience Targets,Simple,active_only,15,22
+Neuroscience Targets,Simple,mixed_evidence,15,129
+Phenotypic: Cancer and Cells,Methoxy,above_cutoff_only,147,665
+Phenotypic: Cancer and Cells,Methoxy,active_only,34,121
+Phenotypic: Cancer and Cells,Methoxy,indeterminate,22,1047
+Phenotypic: Cancer and Cells,Methoxy,mixed_evidence,40,694
+Phenotypic: Cancer and Cells,Methoxy+Prenyl,above_cutoff_only,46,93
+Phenotypic: Cancer and Cells,Methoxy+Prenyl,active_only,25,58
+Phenotypic: Cancer and Cells,Methoxy+Prenyl,indeterminate,3,163
+Phenotypic: Cancer and Cells,Methoxy+Prenyl,mixed_evidence,13,84
+Phenotypic: Cancer and Cells,Methoxy+Sugar,above_cutoff_only,15,19
+Phenotypic: Cancer and Cells,Methoxy+Sugar,active_only,2,2
+Phenotypic: Cancer and Cells,Methoxy+Sugar,indeterminate,2,58
+Phenotypic: Cancer and Cells,Prenyl,above_cutoff_only,63,181
+Phenotypic: Cancer and Cells,Prenyl,active_only,26,57
+Phenotypic: Cancer and Cells,Prenyl,indeterminate,5,274
+Phenotypic: Cancer and Cells,Prenyl,mixed_evidence,31,331
+Phenotypic: Cancer and Cells,Simple,above_cutoff_only,115,613
+Phenotypic: Cancer and Cells,Simple,active_only,14,20
+Phenotypic: Cancer and Cells,Simple,indeterminate,15,775
+Phenotypic: Cancer and Cells,Simple,mixed_evidence,31,735
+Phenotypic: Cancer and Cells,Sugar,above_cutoff_only,16,69
+Phenotypic: Cancer and Cells,Sugar,active_only,1,1
+Phenotypic: Cancer and Cells,Sugar,indeterminate,4,118
+Phenotypic: Cancer and Cells,Sugar,mixed_evidence,1,3
+Transporters and Ion Channels,Methoxy,above_cutoff_only,8,15
+Transporters and Ion Channels,Methoxy,active_only,10,16
+Transporters and Ion Channels,Methoxy,mixed_evidence,5,41
+Transporters and Ion Channels,Methoxy+Prenyl,above_cutoff_only,3,4
+Transporters and Ion Channels,Methoxy+Prenyl,active_only,1,1
+Transporters and Ion Channels,Methoxy+Prenyl,mixed_evidence,2,5
+Transporters and Ion Channels,Prenyl,above_cutoff_only,3,5
+Transporters and Ion Channels,Prenyl,active_only,6,12
+Transporters and Ion Channels,Prenyl,mixed_evidence,1,6
+Transporters and Ion Channels,Simple,above_cutoff_only,10,18
+Transporters and Ion Channels,Simple,active_only,4,4
+Transporters and Ion Channels,Simple,indeterminate,1,1
+Transporters and Ion Channels,Simple,mixed_evidence,8,63
+Transporters and Ion Channels,Sugar,above_cutoff_only,5,6
+Transporters and Ion Channels,Sugar,mixed_evidence,3,40

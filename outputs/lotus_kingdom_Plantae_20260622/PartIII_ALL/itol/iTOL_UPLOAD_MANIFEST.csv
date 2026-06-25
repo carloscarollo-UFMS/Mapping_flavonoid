@@ -1,0 +1,8 @@
+figure,upload_order,file,description
+Fig1,1,Fig1_iTOL_01_Flavonoid_Subclasses_Heatmap.txt,17 NPClassifier subclasses; family prevalence 0-1
+Fig1,2,Fig1_iTOL_02_Structural_Motifs_Symbols.txt,"Independent presence of glycosylation, prenylation, methoxylation, and phenolic OH"
+Fig1,3,Fig1_iTOL_03_Functional_Annotation.txt,"Concordant active evidence, multiple functional contexts, and reported high-potency family flags"
+FigS1,1,FigS1_iTOL_Functional_Bioactivity_Domains_Heatmap.txt,Median standardized potency for nine functional bioactivity domains
+FigS2,1,FigS2_iTOL_Top30_Target_Categories_Heatmap.txt,Relative family coverage of the 30 most frequent target categories
+FigS3,1,FigS3_iTOL_01_Structural_Motif_Prevalence.txt,"Family prevalence of prenylation, methoxylation, glycosylation, and phenolic OH"
+FigS3,2,FigS3_iTOL_02_Standardized_Physicochemical_Properties.txt,"Family median MW, LogP, and TPSA standardized across families and clipped to -2 to 2 for display"

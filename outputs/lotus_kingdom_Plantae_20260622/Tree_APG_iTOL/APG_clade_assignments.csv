@@ -1,0 +1,214 @@
+ID,FinalClade,AnalysisClade,Order,apg_match,DetailedColor,Color
+Asteraceae,Asterids (Campanulids),Asterids (Campanulids),Asterales,TRUE,#984EA3,#984EA3
+Campanulaceae,Asterids (Campanulids),Asterids (Campanulids),Asterales,TRUE,#984EA3,#984EA3
+Apiaceae,Asterids (Campanulids),Asterids (Campanulids),Apiales,TRUE,#984EA3,#984EA3
+Araliaceae,Asterids (Campanulids),Asterids (Campanulids),Apiales,TRUE,#984EA3,#984EA3
+Caprifoliaceae,Asterids (Campanulids),Asterids (Campanulids),Dipsacales,TRUE,#984EA3,#984EA3
+Viburnaceae,Asterids (Campanulids),Asterids (Campanulids),,FALSE,#984EA3,#984EA3
+Paracryphiaceae,Asterids (Campanulids),Asterids (Campanulids),Paracryphiales,TRUE,#984EA3,#984EA3
+Aquifoliaceae,Asterids (Campanulids),Asterids (Campanulids),Aquifoliales,TRUE,#984EA3,#984EA3
+Lamiaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Paulowniaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Phrymaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Acanthaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Bignoniaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Verbenaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Scrophulariaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Plantaginaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Gesneriaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Calceolariaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Oleaceae,Asterids (Lamiids),Asterids (Lamiids),Lamiales,TRUE,#377EB8,#377EB8
+Boraginaceae,Asterids (Lamiids),Asterids (Lamiids),Boraginales,TRUE,#377EB8,#377EB8
+Namaceae,Asterids (Lamiids),Asterids (Lamiids),,FALSE,#377EB8,#377EB8
+Heliotropiaceae,Asterids (Lamiids),Asterids (Lamiids),,FALSE,#377EB8,#377EB8
+Cordiaceae,Asterids (Lamiids),Asterids (Lamiids),,FALSE,#377EB8,#377EB8
+Rubiaceae,Asterids (Lamiids),Asterids (Lamiids),Gentianales,TRUE,#377EB8,#377EB8
+Apocynaceae,Asterids (Lamiids),Asterids (Lamiids),Gentianales,TRUE,#377EB8,#377EB8
+Gentianaceae,Asterids (Lamiids),Asterids (Lamiids),Gentianales,TRUE,#377EB8,#377EB8
+Loganiaceae,Asterids (Lamiids),Asterids (Lamiids),Gentianales,TRUE,#377EB8,#377EB8
+Solanaceae,Asterids (Lamiids),Asterids (Lamiids),Solanales,TRUE,#377EB8,#377EB8
+Convolvulaceae,Asterids (Lamiids),Asterids (Lamiids),Solanales,TRUE,#377EB8,#377EB8
+Eucommiaceae,Asterids (Lamiids),Asterids (Lamiids),Garryales,TRUE,#377EB8,#377EB8
+Ericaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Actinidiaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Sarraceniaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Symplocaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Diapensiaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Primulaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Ebenaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Lecythidaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Sapotaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Theaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Pentaphylacaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Balsaminaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Marcgraviaceae,Asterids (Basal),Asterids (Basal),Ericales,TRUE,#FDAE6B,#FF7F00
+Hydrangeaceae,Asterids (Basal),Asterids (Basal),Cornales,TRUE,#FDAE6B,#FF7F00
+Cornaceae,Asterids (Basal),Asterids (Basal),Cornales,TRUE,#FDAE6B,#FF7F00
+Cactaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Portulacaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Didiereaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Basellaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Molluginaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Aizoaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Nyctaginaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Petiveriaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Phytolaccaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Caryophyllaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Amaranthaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Physenaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Polygonaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Plumbaginaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Tamaricaceae,Caryophyllales,Caryophy_Santalales,Caryophyllales,TRUE,#E31A1C,#E31A1C
+Loranthaceae,Santalales,Caryophy_Santalales,Santalales,TRUE,#FF7F00,#E31A1C
+Santalaceae,Santalales,Caryophy_Santalales,Santalales,TRUE,#FF7F00,#E31A1C
+Balanophoraceae,Santalales,Caryophy_Santalales,Santalales,TRUE,#FF7F00,#E31A1C
+Olacaceae,Santalales,Caryophy_Santalales,Santalales,TRUE,#FF7F00,#E31A1C
+Dilleniaceae,Other Eudicots,Basal Eudicots,Dilleniales,TRUE,#BDBDBD,#FC8D62
+Fabaceae,Rosids (Fabids),Rosids (Fabids),Fabales,TRUE,#66A61E,#66A61E
+Polygalaceae,Rosids (Fabids),Rosids (Fabids),Fabales,TRUE,#66A61E,#66A61E
+Rosaceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Moraceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Urticaceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Cannabaceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Ulmaceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Rhamnaceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Elaeagnaceae,Rosids (Fabids),Rosids (Fabids),Rosales,TRUE,#66A61E,#66A61E
+Cucurbitaceae,Rosids (Fabids),Rosids (Fabids),Cucurbitales,TRUE,#66A61E,#66A61E
+Begoniaceae,Rosids (Fabids),Rosids (Fabids),Cucurbitales,TRUE,#66A61E,#66A61E
+Coriariaceae,Rosids (Fabids),Rosids (Fabids),Cucurbitales,TRUE,#66A61E,#66A61E
+Betulaceae,Rosids (Fabids),Rosids (Fabids),Fagales,TRUE,#66A61E,#66A61E
+Casuarinaceae,Rosids (Fabids),Rosids (Fabids),Fagales,TRUE,#66A61E,#66A61E
+Myricaceae,Rosids (Fabids),Rosids (Fabids),Fagales,TRUE,#66A61E,#66A61E
+Juglandaceae,Rosids (Fabids),Rosids (Fabids),Fagales,TRUE,#66A61E,#66A61E
+Fagaceae,Rosids (Fabids),Rosids (Fabids),Fagales,TRUE,#66A61E,#66A61E
+Nothofagaceae,Rosids (Fabids),Rosids (Fabids),Fagales,TRUE,#66A61E,#66A61E
+Hypericaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Clusiaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Calophyllaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Bonnetiaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Malpighiaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Elatinaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Passifloraceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Salicaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Violaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Achariaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Phyllanthaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Rhizophoraceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Erythroxylaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Pandaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Chrysobalanaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Euphorbiaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Ochnaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Humiriaceae,Rosids (Fabids),Rosids (Fabids),Malpighiales,TRUE,#66A61E,#66A61E
+Cunoniaceae,Rosids (Fabids),Rosids (Fabids),Oxalidales,TRUE,#66A61E,#66A61E
+Oxalidaceae,Rosids (Fabids),Rosids (Fabids),Oxalidales,TRUE,#66A61E,#66A61E
+Celastraceae,Rosids (Fabids),Rosids (Fabids),Celastrales,TRUE,#66A61E,#66A61E
+Zygophyllaceae,Rosids (Fabids),Rosids (Fabids),Zygophyllales,TRUE,#66A61E,#66A61E
+Krameriaceae,Rosids (Fabids),Rosids (Fabids),Zygophyllales,TRUE,#66A61E,#66A61E
+Brassicaceae,Rosids (Malvids),Rosids (Malvids),Brassicales,TRUE,#E7298A,#E7298A
+Cleomaceae,Rosids (Malvids),Rosids (Malvids),Brassicales,TRUE,#E7298A,#E7298A
+Capparaceae,Rosids (Malvids),Rosids (Malvids),Brassicales,TRUE,#E7298A,#E7298A
+Malvaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Muntingiaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Dipterocarpaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Sarcolaenaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Cistaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Bixaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Thymelaeaceae,Rosids (Malvids),Rosids (Malvids),Malvales,TRUE,#E7298A,#E7298A
+Rutaceae,Rosids (Malvids),Rosids (Malvids),Sapindales,TRUE,#E7298A,#E7298A
+Meliaceae,Rosids (Malvids),Rosids (Malvids),Sapindales,TRUE,#E7298A,#E7298A
+Simaroubaceae,Rosids (Malvids),Rosids (Malvids),Sapindales,TRUE,#E7298A,#E7298A
+Sapindaceae,Rosids (Malvids),Rosids (Malvids),Sapindales,TRUE,#E7298A,#E7298A
+Burseraceae,Rosids (Malvids),Rosids (Malvids),Sapindales,TRUE,#E7298A,#E7298A
+Anacardiaceae,Rosids (Malvids),Rosids (Malvids),Sapindales,TRUE,#E7298A,#E7298A
+Stachyuraceae,Rosids (Malvids),Rosids (Malvids),Crossosomatales,TRUE,#E7298A,#E7298A
+Melastomataceae,Rosids (Malvids),Rosids (Malvids),Myrtales,TRUE,#E7298A,#E7298A
+Myrtaceae,Rosids (Malvids),Rosids (Malvids),Myrtales,TRUE,#E7298A,#E7298A
+Vochysiaceae,Rosids (Malvids),Rosids (Malvids),Myrtales,TRUE,#E7298A,#E7298A
+Onagraceae,Rosids (Malvids),Rosids (Malvids),Myrtales,TRUE,#E7298A,#E7298A
+Lythraceae,Rosids (Malvids),Rosids (Malvids),Myrtales,TRUE,#E7298A,#E7298A
+Combretaceae,Rosids (Malvids),Rosids (Malvids),Myrtales,TRUE,#E7298A,#E7298A
+Geraniaceae,Rosids (Malvids),Rosids (Malvids),Geraniales,TRUE,#E7298A,#E7298A
+Francoaceae,Rosids (Malvids),Rosids (Malvids),Geraniales,TRUE,#E7298A,#E7298A
+Vitaceae,Rosids (Basal),Rosids (Basal),Vitales,TRUE,#8FBC8F,#8FBC8F
+Crassulaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Haloragaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Saxifragaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Grossulariaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Hamamelidaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Altingiaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Daphniphyllaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Cercidiphyllaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Paeoniaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77
+Trochodendraceae,Basal Eudicots,Basal Eudicots,Trochodendrales,TRUE,#FC8D62,#FC8D62
+Proteaceae,Basal Eudicots,Basal Eudicots,Proteales,TRUE,#FC8D62,#FC8D62
+Platanaceae,Basal Eudicots,Basal Eudicots,Proteales,TRUE,#FC8D62,#FC8D62
+Nelumbonaceae,Basal Eudicots,Basal Eudicots,Proteales,TRUE,#FC8D62,#FC8D62
+Ranunculaceae,Basal Eudicots,Basal Eudicots,Ranunculales,TRUE,#FC8D62,#FC8D62
+Berberidaceae,Basal Eudicots,Basal Eudicots,Ranunculales,TRUE,#FC8D62,#FC8D62
+Menispermaceae,Basal Eudicots,Basal Eudicots,Ranunculales,TRUE,#FC8D62,#FC8D62
+Lardizabalaceae,Basal Eudicots,Basal Eudicots,Ranunculales,TRUE,#FC8D62,#FC8D62
+Papaveraceae,Basal Eudicots,Basal Eudicots,Ranunculales,TRUE,#FC8D62,#FC8D62
+Eupteleaceae,Basal Eudicots,Basal Eudicots,Ranunculales,TRUE,#FC8D62,#FC8D62
+Orchidaceae,Monocots,Monocots,Asparagales,TRUE,#7570B3,#7570B3
+Asparagaceae,Monocots,Monocots,Asparagales,TRUE,#7570B3,#7570B3
+Amaryllidaceae,Monocots,Monocots,Asparagales,TRUE,#7570B3,#7570B3
+Asphodelaceae,Monocots,Monocots,Asparagales,TRUE,#7570B3,#7570B3
+Iridaceae,Monocots,Monocots,Asparagales,TRUE,#7570B3,#7570B3
+Poaceae,Monocots (Commelinids),Monocots (Commelinids),Poales,TRUE,#54278F,#54278F
+Eriocaulaceae,Monocots (Commelinids),Monocots (Commelinids),Poales,TRUE,#54278F,#54278F
+Cyperaceae,Monocots (Commelinids),Monocots (Commelinids),Poales,TRUE,#54278F,#54278F
+Bromeliaceae,Monocots (Commelinids),Monocots (Commelinids),Poales,TRUE,#54278F,#54278F
+Typhaceae,Monocots (Commelinids),Monocots (Commelinids),Poales,TRUE,#54278F,#54278F
+Zingiberaceae,Monocots (Commelinids),Monocots (Commelinids),Zingiberales,TRUE,#54278F,#54278F
+Musaceae,Monocots (Commelinids),Monocots (Commelinids),Zingiberales,TRUE,#54278F,#54278F
+Arecaceae,Monocots (Commelinids),Monocots (Commelinids),Arecales,TRUE,#54278F,#54278F
+Smilacaceae,Monocots,Monocots,Liliales,TRUE,#7570B3,#7570B3
+Melanthiaceae,Monocots,Monocots,Liliales,TRUE,#7570B3,#7570B3
+Stemonaceae,Monocots,Monocots,Pandanales,TRUE,#7570B3,#7570B3
+Velloziaceae,Monocots,Monocots,Pandanales,TRUE,#7570B3,#7570B3
+Dioscoreaceae,Monocots,Monocots,Dioscoreales,TRUE,#7570B3,#7570B3
+Araceae,Monocots,Monocots,Alismatales,TRUE,#7570B3,#7570B3
+Posidoniaceae,Monocots,Monocots,Alismatales,TRUE,#7570B3,#7570B3
+Annonaceae,Magnoliids,Magnoliids,Magnoliales,TRUE,#FFD92F,#FFD92F
+Myristicaceae,Magnoliids,Magnoliids,Magnoliales,TRUE,#FFD92F,#FFD92F
+Lauraceae,Magnoliids,Magnoliids,Laurales,TRUE,#FFD92F,#FFD92F
+Hernandiaceae,Magnoliids,Magnoliids,Laurales,TRUE,#FFD92F,#FFD92F
+Siparunaceae,Magnoliids,Magnoliids,Laurales,TRUE,#FFD92F,#FFD92F
+Piperaceae,Magnoliids,Magnoliids,Piperales,TRUE,#FFD92F,#FFD92F
+Saururaceae,Magnoliids,Magnoliids,Piperales,TRUE,#FFD92F,#FFD92F
+Aristolochiaceae,Magnoliids,Magnoliids,Piperales,TRUE,#FFD92F,#FFD92F
+Winteraceae,Magnoliids,Magnoliids,Canellales,TRUE,#FFD92F,#FFD92F
+Chloranthaceae,Chloranthales,Chloranthales,Chloranthales,TRUE,#B35806,#B35806
+Schisandraceae,Basal Angiosperms,ANA,Austrobaileyales,TRUE,#E5C494,#7F007F
+Nymphaeaceae,Basal Angiosperms,ANA,Nymphaeales,TRUE,#E5C494,#7F007F
+Podocarpaceae,Gymnosperms,Gymnosperms,Cupressales,TRUE,#000000,#000000
+Araucariaceae,Gymnosperms,Gymnosperms,Cupressales,TRUE,#000000,#000000
+Cupressaceae,Gymnosperms,Gymnosperms,Cupressales,TRUE,#000000,#000000
+Cephalotaxaceae,Gymnosperms,Gymnosperms,,FALSE,#000000,#000000
+Taxaceae,Gymnosperms,Gymnosperms,Cupressales,TRUE,#000000,#000000
+Sciadopityaceae,Gymnosperms,Gymnosperms,Cupressales,TRUE,#000000,#000000
+Pinaceae,Gymnosperms,Gymnosperms,Pinales,TRUE,#000000,#000000
+Cycadaceae,Gymnosperms,Gymnosperms,Cycadales,TRUE,#000000,#000000
+Ephedraceae,Gymnosperms,Gymnosperms,Gnetales,TRUE,#000000,#000000
+Gnetaceae,Gymnosperms,Gymnosperms,Gnetales,TRUE,#000000,#000000
+Ginkgoaceae,Gymnosperms,Gymnosperms,Ginkgoales,TRUE,#000000,#000000
+Dryopteridaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Polypodiaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Tectariaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Davalliaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Blechnaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Onocleaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Athyriaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Woodsiaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Thelypteridaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Aspleniaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Dennstaedtiaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Pteridaceae,Ferns,Ferns,Polypodiales,TRUE,#4D4D4D,#4D4D4D
+Cyatheaceae,Ferns,Ferns,Cyatheales,TRUE,#4D4D4D,#4D4D4D
+Gleicheniaceae,Ferns,Ferns,Gleicheniales,TRUE,#4D4D4D,#4D4D4D
+Equisetaceae,Ferns,Ferns,Equisetales,TRUE,#4D4D4D,#4D4D4D
+Ophioglossaceae,Ferns,Ferns,Ophioglossales,TRUE,#4D4D4D,#4D4D4D
+Lycopodiaceae,Lycophytes,Lycophytes,Lycopodiales,TRUE,#6B6B6B,#6B6B6B
+Selaginellaceae,Lycophytes,Lycophytes,Lycopodiales,TRUE,#6B6B6B,#6B6B6B
+Cynomoriaceae,Saxifragales,Saxifragales,Saxifragales,TRUE,#1B9E77,#1B9E77

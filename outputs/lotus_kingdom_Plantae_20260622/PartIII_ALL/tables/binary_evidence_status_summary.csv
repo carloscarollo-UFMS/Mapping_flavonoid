@@ -1,0 +1,5 @@
+binary_evidence_status,n_compound_domain_combinations,fraction
+above_cutoff_only,1116,0.5058930190389845
+active_only,580,0.2629193109700816
+indeterminate,71,0.03218495013599275
+mixed_evidence,439,0.19900271985494106

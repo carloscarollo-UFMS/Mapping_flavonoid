@@ -1,0 +1,123 @@
+node_label,target_domain_macro,median_z_potency,median_pchembl,n_compounds,n_records,from,to
+Aryl methoxy 2-arylbenzofurans,General Assays and Safety,-0.619241271513299,4.725,5,8,Aryl methoxy 2-arylbenzofurans,General Assays and Safety
+Aryl methoxy 2-arylbenzofurans,Inflammation and Proteolysis,-0.5558028645653795,4.605,8,11,Aryl methoxy 2-arylbenzofurans,Inflammation and Proteolysis
+Aryl methoxy Chalcones,Cell Signaling and Survival,-0.356079449763149,4.82,13,14,Aryl methoxy Chalcones,Cell Signaling and Survival
+Aryl methoxy Chalcones,Gene Regulation,-0.87988340289862,4.58,5,5,Aryl methoxy Chalcones,Gene Regulation
+Aryl methoxy Chalcones,General Assays and Safety,-0.925678372764007,4.63,13,13,Aryl methoxy Chalcones,General Assays and Safety
+Aryl methoxy Chalcones,Infectious Diseases,-0.231120761427703,4.865,27,85,Aryl methoxy Chalcones,Infectious Diseases
+Aryl methoxy Chalcones,Inflammation and Proteolysis,-0.26552801423102,4.84,14,22,Aryl methoxy Chalcones,Inflammation and Proteolysis
+Aryl methoxy Chalcones,Metabolic Enzymes,0.309045880335393,5.42,19,47,Aryl methoxy Chalcones,Metabolic Enzymes
+Aryl methoxy Chalcones,Phenotypic: Cancer and Cells,-0.0810038273571262,4.7875,54,228,Aryl methoxy Chalcones,Phenotypic: Cancer and Cells
+Aryl methoxy Chalcones,Transporters and Ion Channels,-0.0516949903574766,5.0775,13,52,Aryl methoxy Chalcones,Transporters and Ion Channels
+Aryl methoxy Flavanones,Cell Signaling and Survival,-0.5831117374920035,4.7,6,7,Aryl methoxy Flavanones,Cell Signaling and Survival
+Aryl methoxy Flavanones,Infectious Diseases,-0.1584960384082459,4.9625,16,32,Aryl methoxy Flavanones,Infectious Diseases
+Aryl methoxy Flavanones,Metabolic Enzymes,0.230536382090263,5.375,12,35,Aryl methoxy Flavanones,Metabolic Enzymes
+Aryl methoxy Flavanones,Neuroscience Targets,0.998039423732243,5.6,5,8,Aryl methoxy Flavanones,Neuroscience Targets
+Aryl methoxy Flavanones,Phenotypic: Cancer and Cells,-0.7272094974416975,4.43,14,33,Aryl methoxy Flavanones,Phenotypic: Cancer and Cells
+Aryl methoxy Flavanones,Transporters and Ion Channels,-0.442209576394373,4.8275,5,9,Aryl methoxy Flavanones,Transporters and Ion Channels
+Aryl methoxy Flavans,Phenotypic: Cancer and Cells,-0.898928486694941,4.335,9,27,Aryl methoxy Flavans,Phenotypic: Cancer and Cells
+Aryl methoxy Isoflavanones,Phenotypic: Cancer and Cells,-0.347620152776635,4.64,17,44,Aryl methoxy Isoflavanones,Phenotypic: Cancer and Cells
+Aryl methoxy Isoflavones,Cell Signaling and Survival,0.5276300749917353,5.397500000000001,6,9,Aryl methoxy Isoflavones,Cell Signaling and Survival
+Aryl methoxy Isoflavones,Gene Regulation,0.205533808298831,5.53,5,8,Aryl methoxy Isoflavones,Gene Regulation
+Aryl methoxy Isoflavones,Infectious Diseases,-0.977357539140246,4.45,9,23,Aryl methoxy Isoflavones,Infectious Diseases
+Aryl methoxy Isoflavones,Metabolic Enzymes,-0.11121781372968174,5.19125,6,25,Aryl methoxy Isoflavones,Metabolic Enzymes
+Aryl methoxy Isoflavones,Phenotypic: Cancer and Cells,-0.410885043554145,4.605,32,69,Aryl methoxy Isoflavones,Phenotypic: Cancer and Cells
+Aryl methoxy Pterocarpan,Phenotypic: Cancer and Cells,-0.2753174204594795,4.68,8,27,Aryl methoxy Pterocarpan,Phenotypic: Cancer and Cells
+Aryl methoxy Rotenoids,Phenotypic: Cancer and Cells,2.48122424913205,6.205,6,25,Aryl methoxy Rotenoids,Phenotypic: Cancer and Cells
+Multi-motif 2-arylbenzofurans,Cell Signaling and Survival,-0.435624683569888,4.76,5,6,Multi-motif 2-arylbenzofurans,Cell Signaling and Survival
+Multi-motif 2-arylbenzofurans,Phenotypic: Cancer and Cells,0.47478845927748803,5.285,6,9,Multi-motif 2-arylbenzofurans,Phenotypic: Cancer and Cells
+Multi-motif Chalcones,Cell Signaling and Survival,-0.356079449763149,4.82,5,8,Multi-motif Chalcones,Cell Signaling and Survival
+Multi-motif Chalcones,General Assays and Safety,0.164960718481543,5.199999999999999,6,8,Multi-motif Chalcones,General Assays and Safety
+Multi-motif Chalcones,Infectious Diseases,-0.244606968253833,4.87,10,28,Multi-motif Chalcones,Infectious Diseases
+Multi-motif Chalcones,Inflammation and Proteolysis,4.25935216917157e-5,5.055,5,9,Multi-motif Chalcones,Inflammation and Proteolysis
+Multi-motif Chalcones,Metabolic Enzymes,-0.14565496366765335,5.0875,6,12,Multi-motif Chalcones,Metabolic Enzymes
+Multi-motif Chalcones,Phenotypic: Cancer and Cells,0.247969526698699,4.98,17,56,Multi-motif Chalcones,Phenotypic: Cancer and Cells
+Multi-motif Flavanones,Cell Signaling and Survival,-0.554942534279996,4.67,7,12,Multi-motif Flavanones,Cell Signaling and Survival
+Multi-motif Flavanones,Gene Regulation,-0.257865571426791,5.56,5,8,Multi-motif Flavanones,Gene Regulation
+Multi-motif Flavanones,General Assays and Safety,0.26134588340282,5.125,5,6,Multi-motif Flavanones,General Assays and Safety
+Multi-motif Flavanones,Infectious Diseases,-0.291629931027547,4.970000000000001,9,15,Multi-motif Flavanones,Infectious Diseases
+Multi-motif Flavanones,Inflammation and Proteolysis,0.28414138321064,5.285,7,12,Multi-motif Flavanones,Inflammation and Proteolysis
+Multi-motif Flavanones,Metabolic Enzymes,0.0146352619161542,5.21,7,16,Multi-motif Flavanones,Metabolic Enzymes
+Multi-motif Flavanones,Neuroscience Targets,-0.64963548606892,4.62,11,24,Multi-motif Flavanones,Neuroscience Targets
+Multi-motif Flavanones,Phenotypic: Cancer and Cells,-0.28209570896790903,4.7,14,30,Multi-motif Flavanones,Phenotypic: Cancer and Cells
+Multi-motif Isoflavanones,Cell Signaling and Survival,0.333312576561919,5.34,5,5,Multi-motif Isoflavanones,Cell Signaling and Survival
+Multi-motif Isoflavanones,Infectious Diseases,-0.48091466061260196,4.7075,6,12,Multi-motif Isoflavanones,Infectious Diseases
+Multi-motif Isoflavones,Cell Signaling and Survival,0.253767342755181,5.28,5,9,Multi-motif Isoflavones,Cell Signaling and Survival
+Multi-motif Isoflavones,Phenotypic: Cancer and Cells,-0.69105813128312,4.45,17,21,Multi-motif Isoflavones,Phenotypic: Cancer and Cells
+Multi-motif Pterocarpan,Cell Signaling and Survival,-0.0113834366006152,5.08,5,5,Multi-motif Pterocarpan,Cell Signaling and Survival
+Multi-motif Pterocarpan,General Assays and Safety,0.23593203430263315,5.324999999999999,8,9,Multi-motif Pterocarpan,General Assays and Safety
+Multi-motif Pterocarpan,Infectious Diseases,1.62369758979604,6.24,6,15,Multi-motif Pterocarpan,Infectious Diseases
+Multi-motif Rotenoids,Phenotypic: Cancer and Cells,1.69493203518299,5.77,5,19,Multi-motif Rotenoids,Phenotypic: Cancer and Cells
+Prenyl-like 2-arylbenzofurans,Cell Signaling and Survival,0.22062349533570552,5.255,8,17,Prenyl-like 2-arylbenzofurans,Cell Signaling and Survival
+Prenyl-like 2-arylbenzofurans,Metabolic Enzymes,-0.168553567322483,5.07,7,15,Prenyl-like 2-arylbenzofurans,Metabolic Enzymes
+Prenyl-like 2-arylbenzofurans,Phenotypic: Cancer and Cells,1.24303995820077,5.52,7,14,Prenyl-like 2-arylbenzofurans,Phenotypic: Cancer and Cells
+Prenyl-like Chalcones,Cell Signaling and Survival,-0.366237928790493,4.91,16,35,Prenyl-like Chalcones,Cell Signaling and Survival
+Prenyl-like Chalcones,General Assays and Safety,0.4571640775318835,5.5075,12,14,Prenyl-like Chalcones,General Assays and Safety
+Prenyl-like Chalcones,Infectious Diseases,0.26337348886374123,5.215,14,41,Prenyl-like Chalcones,Infectious Diseases
+Prenyl-like Chalcones,Inflammation and Proteolysis,0.06180319997581149,5.105,8,14,Prenyl-like Chalcones,Inflammation and Proteolysis
+Prenyl-like Chalcones,Metabolic Enzymes,-0.0507893199547876,5.16,13,28,Prenyl-like Chalcones,Metabolic Enzymes
+Prenyl-like Chalcones,Phenotypic: Cancer and Cells,-0.15330655967428,4.7475000000000005,26,70,Prenyl-like Chalcones,Phenotypic: Cancer and Cells
+Prenyl-like Flavanones,Cell Signaling and Survival,-0.14064444153656575,4.9825,16,27,Prenyl-like Flavanones,Cell Signaling and Survival
+Prenyl-like Flavanones,Gene Regulation,0.14292032777971964,6.255000000000001,6,9,Prenyl-like Flavanones,Gene Regulation
+Prenyl-like Flavanones,General Assays and Safety,0.12190892686051,5.16,23,26,Prenyl-like Flavanones,General Assays and Safety
+Prenyl-like Flavanones,Infectious Diseases,-0.16019052905749517,4.9725,14,35,Prenyl-like Flavanones,Infectious Diseases
+Prenyl-like Flavanones,Inflammation and Proteolysis,0.14137967341180602,5.225,6,14,Prenyl-like Flavanones,Inflammation and Proteolysis
+Prenyl-like Flavanones,Metabolic Enzymes,-0.469506643928817,5,19,41,Prenyl-like Flavanones,Metabolic Enzymes
+Prenyl-like Flavanones,Neuroscience Targets,0.740070119672466,5.445,11,21,Prenyl-like Flavanones,Neuroscience Targets
+Prenyl-like Flavanones,Phenotypic: Cancer and Cells,0.113309765745229,4.915,26,165,Prenyl-like Flavanones,Phenotypic: Cancer and Cells
+Prenyl-like Flavanones,Transporters and Ion Channels,0.6979789959761264,5.827500000000001,8,20,Prenyl-like Flavanones,Transporters and Ion Channels
+Prenyl-like Isoflavanones,Cell Signaling and Survival,-0.825669772185658,4.84,7,8,Prenyl-like Isoflavanones,Cell Signaling and Survival
+Prenyl-like Isoflavones,Cell Signaling and Survival,0.07967011087234402,5.342499999999999,14,24,Prenyl-like Isoflavones,Cell Signaling and Survival
+Prenyl-like Isoflavones,Infectious Diseases,0.6146092738157514,5.345,14,27,Prenyl-like Isoflavones,Infectious Diseases
+Prenyl-like Isoflavones,Phenotypic: Cancer and Cells,0.375407170394915,5.04,23,52,Prenyl-like Isoflavones,Phenotypic: Cancer and Cells
+Prenyl-like Pterocarpan,Cell Signaling and Survival,0.0283891803027545,5.11,7,7,Prenyl-like Pterocarpan,Cell Signaling and Survival
+Prenyl-like Pterocarpan,General Assays and Safety,0.47823113761714803,5.495,17,21,Prenyl-like Pterocarpan,General Assays and Safety
+Prenyl-like Pterocarpan,Infectious Diseases,0.7982729844910685,5.5525,10,25,Prenyl-like Pterocarpan,Infectious Diseases
+Prenyl-like Pterocarpan,Phenotypic: Cancer and Cells,0.25565576999462747,4.97375,8,25,Prenyl-like Pterocarpan,Phenotypic: Cancer and Cells
+Simple 2-arylbenzofurans,Cell Signaling and Survival,2.487662658827755,6.965,8,11,Simple 2-arylbenzofurans,Cell Signaling and Survival
+Simple 2-arylbenzofurans,General Assays and Safety,0.243058478517767,5.17,5,7,Simple 2-arylbenzofurans,General Assays and Safety
+Simple 2-arylbenzofurans,Metabolic Enzymes,-0.4924052475836455,4.8225,6,11,Simple 2-arylbenzofurans,Metabolic Enzymes
+Simple 2-arylbenzofurans,Phenotypic: Cancer and Cells,0.13138544882451714,4.904999999999999,8,15,Simple 2-arylbenzofurans,Phenotypic: Cancer and Cells
+Simple Chalcones,Cell Signaling and Survival,-0.6562810944240407,4.615,8,25,Simple Chalcones,Cell Signaling and Survival
+Simple Chalcones,Gene Regulation,-0.13437316047089698,5.2325,6,10,Simple Chalcones,Gene Regulation
+Simple Chalcones,General Assays and Safety,-0.6833792694494936,4.6525,8,20,Simple Chalcones,General Assays and Safety
+Simple Chalcones,Infectious Diseases,-0.8125966919527475,4.545,16,78,Simple Chalcones,Infectious Diseases
+Simple Chalcones,Inflammation and Proteolysis,-0.185239225840665,4.905,11,37,Simple Chalcones,Inflammation and Proteolysis
+Simple Chalcones,Metabolic Enzymes,0.44195913129999875,5.58875,24,66,Simple Chalcones,Metabolic Enzymes
+Simple Chalcones,Neuroscience Targets,-0.9278404259814086,4.4975000000000005,12,30,Simple Chalcones,Neuroscience Targets
+Simple Chalcones,Phenotypic: Cancer and Cells,-0.239166054300901,4.715,19,137,Simple Chalcones,Phenotypic: Cancer and Cells
+Simple Dihydroflavonols,General Assays and Safety,0.1324702596541048,4.985,6,16,Simple Dihydroflavonols,General Assays and Safety
+Simple Dihydroflavonols,Infectious Diseases,-1.13919202105381,4.36,5,21,Simple Dihydroflavonols,Infectious Diseases
+Simple Dihydroflavonols,Metabolic Enzymes,-0.512092621026834,4.9,7,18,Simple Dihydroflavonols,Metabolic Enzymes
+Simple Dihydroflavonols,Phenotypic: Cancer and Cells,-0.817587912838142,4.38,5,9,Simple Dihydroflavonols,Phenotypic: Cancer and Cells
+Simple Flavan-3-ols,Cell Signaling and Survival,0.604862122749026,6.07,13,72,Simple Flavan-3-ols,Cell Signaling and Survival
+Simple Flavan-3-ols,Gene Regulation,0.182682919642043,5.5675,6,31,Simple Flavan-3-ols,Gene Regulation
+Simple Flavan-3-ols,General Assays and Safety,-0.06337862273294224,5.16,22,73,Simple Flavan-3-ols,General Assays and Safety
+Simple Flavan-3-ols,Infectious Diseases,0.200437857008466,5.135,20,156,Simple Flavan-3-ols,Infectious Diseases
+Simple Flavan-3-ols,Inflammation and Proteolysis,-0.0373413521009555,4.922499999999999,15,53,Simple Flavan-3-ols,Inflammation and Proteolysis
+Simple Flavan-3-ols,Metabolic Enzymes,-0.707829443968206,4.71,13,42,Simple Flavan-3-ols,Metabolic Enzymes
+Simple Flavan-3-ols,Neuroscience Targets,0.08370343044775347,5.135,14,53,Simple Flavan-3-ols,Neuroscience Targets
+Simple Flavan-3-ols,Phenotypic: Cancer and Cells,-0.5511250186407135,4.52125,8,49,Simple Flavan-3-ols,Phenotypic: Cancer and Cells
+Simple Flavanones,Cell Signaling and Survival,-0.977434019151949,4.72,9,16,Simple Flavanones,Cell Signaling and Survival
+Simple Flavanones,Gene Regulation,0.125555698000072,5.1899999999999995,5,11,Simple Flavanones,Gene Regulation
+Simple Flavanones,General Assays and Safety,-0.45676406013216597,4.79,10,21,Simple Flavanones,General Assays and Safety
+Simple Flavanones,Infectious Diseases,0.07456659329791625,5.074999999999999,30,55,Simple Flavanones,Infectious Diseases
+Simple Flavanones,Inflammation and Proteolysis,0.277965322565228,5.28,11,19,Simple Flavanones,Inflammation and Proteolysis
+Simple Flavanones,Metabolic Enzymes,-0.09331529817090015,5.1274999999999995,18,65,Simple Flavanones,Metabolic Enzymes
+Simple Flavanones,Neuroscience Targets,-0.1336968779493642,4.92,6,9,Simple Flavanones,Neuroscience Targets
+Simple Flavanones,Phenotypic: Cancer and Cells,-0.43169501502928154,4.63625,22,57,Simple Flavanones,Phenotypic: Cancer and Cells
+Simple Flavanones,Transporters and Ion Channels,-0.45240819712943003,4.82,6,13,Simple Flavanones,Transporters and Ion Channels
+Simple Isoflavones,Infectious Diseases,-0.9008102339208803,4.485,12,44,Simple Isoflavones,Infectious Diseases
+Simple Isoflavones,Inflammation and Proteolysis,-0.0555419522870153,5.01,5,16,Simple Isoflavones,Inflammation and Proteolysis
+Simple Isoflavones,Metabolic Enzymes,-0.361556083841762,4.9,10,78,Simple Isoflavones,Metabolic Enzymes
+Simple Isoflavones,Phenotypic: Cancer and Cells,-0.326205305459366,4.7,15,84,Simple Isoflavones,Phenotypic: Cancer and Cells
+Simple Proanthocyanins,Cell Signaling and Survival,0.00187410236717433,5.09,7,11,Simple Proanthocyanins,Cell Signaling and Survival
+Simple Proanthocyanins,General Assays and Safety,-0.719011490525157,4.654999999999999,12,14,Simple Proanthocyanins,General Assays and Safety
+Simple Proanthocyanins,Infectious Diseases,-0.2973605328440115,4.795,10,11,Simple Proanthocyanins,Infectious Diseases
+Simple Proanthocyanins,Inflammation and Proteolysis,-0.81519741167268,4.395,13,23,Simple Proanthocyanins,Inflammation and Proteolysis
+Simple Pterocarpan,Infectious Diseases,-0.118735704543284,4.9275,9,27,Simple Pterocarpan,Infectious Diseases
+Simple Pterocarpan,Metabolic Enzymes,0.0277201782903423,5.22,5,9,Simple Pterocarpan,Metabolic Enzymes
+Simple Pterocarpan,Phenotypic: Cancer and Cells,0.3166612003872265,5.0075,12,28,Simple Pterocarpan,Phenotypic: Cancer and Cells
+Simple Rotenoids,Phenotypic: Cancer and Cells,-0.437998568173078,5.13,5,10,Simple Rotenoids,Phenotypic: Cancer and Cells
+Sugar-like Flavanones,Cell Signaling and Survival,-0.435624683569888,4.76,5,10,Sugar-like Flavanones,Cell Signaling and Survival
+Sugar-like Flavanones,Phenotypic: Cancer and Cells,-0.41992288509379,4.6,9,13,Sugar-like Flavanones,Phenotypic: Cancer and Cells

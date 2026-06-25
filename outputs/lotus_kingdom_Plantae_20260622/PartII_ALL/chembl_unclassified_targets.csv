@@ -1,0 +1,83 @@
+target_chembl_id,target_pref_name_final,target_type_final,assay_description_final,target_classification_basis,n_records
+CHEMBL2146306,Rac GTPase-activating protein 1,SINGLE PROTEIN,PubChem BioAssay. Discovery of small molecule inhibitors of the oncogenic and cytokinetic protein MgcRacGAP - Primary and Confirmatory Screens. (Class of assay: confirmatory),target_identity,7
+CHEMBL612991,Penicillium crustosum,ORGANISM,Antimicrobial activity against Penicillium crustosum Thom after 2 days by twofold serial broth dilution method,target_and_assay_context,7
+CHEMBL613767,Mucor mucedo,ORGANISM,Antimicrobial activity against Mucor mucedo IFO 7684 after 2 days by twofold serial broth dilution method,target_and_assay_context,7
+CHEMBL375,Mus musculus,ORGANISM,Inhibitory effect of compound on the accumulation of NO2 in the culture media of RAW 264.7 cells in response to LPS,target_and_assay_context,4
+CHEMBL612861,Dermatophagoides pteronyssinus,ORGANISM,Pesticidal activity against Dermatophagoides pteronyssinus after 24 hrs,target_and_assay_context,4
+CHEMBL3305,Sex hormone-binding globulin,SINGLE PROTEIN,Displacement of [3H]5alpha dihydrotestosterone from human sex hormone binding globulin,target_identity,3
+CHEMBL6066654,Gyrodactylus kobayashii,ORGANISM,Antiparasitic activity against Gyrodactylus kobayashii infected in gold fish measured upto 48 hrs by stereomicroscope analysis,target_and_assay_context,3
+CHEMBL614421,Micrococcus luteus,ORGANISM,Antimicrobial activity against Micrococcus luteus,target_and_assay_context,3
+CHEMBL1790,Vasopressin V2 receptor,SINGLE PROTEIN,Binding affinity towards human AVPR2 in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL1798,Cysteinyl leukotriene receptor 1,SINGLE PROTEIN,DRUGMATRIX: Cysteinyl leukotriene receptor 1 radioligand binding (ligand: [3H]LTD4),target_identity,2
+CHEMBL1832,Calcitonin receptor,SINGLE PROTEIN,DRUGMATRIX: Calcitonin radioligand binding (ligand: [125I] Calcitonin (salmon)),target_identity,2
+CHEMBL1901,Cholecystokinin receptor type A,SINGLE PROTEIN,Binding affinity towards human CCKAR in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL1901,Cholecystokinin receptor type A,SINGLE PROTEIN,"DRUGMATRIX: Cholecystokinin CCKA radioligand binding (ligand: [3H] L-364,718)",target_identity,2
+CHEMBL1909043,Leukotriene C4 synthase,SINGLE PROTEIN,DRUGMATRIX: Leukotriene LTC4 Synthase enzyme inhibition (substrate: LTA4),target_identity,2
+CHEMBL1941,Histamine H2 receptor,SINGLE PROTEIN,Agonist activity at human HRH2 in an in vitro cell-based assay measured by time-resolved fluorescence resonance energy transfer method,target_identity,2
+CHEMBL1941,Histamine H2 receptor,SINGLE PROTEIN,DRUGMATRIX: Histamine H2 radioligand binding (ligand: [125I] Aminopotentidine),target_identity,2
+CHEMBL2047,Bile acid receptor,SINGLE PROTEIN,Antagonist activity at GAL4-DBD fused human FXR LBD expressed in HEK293T cells assessed as inhibition of CDCA-induced receptor activation after 24 hrs by luciferase reporter gene assay,target_identity,2
+CHEMBL2203,Motilin receptor,SINGLE PROTEIN,Binding affinity towards human MLNR in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL227,Type-1 angiotensin II receptor,SINGLE PROTEIN,Binding affinity towards human AGTR1 in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL231,Histamine H1 receptor,SINGLE PROTEIN,Binding affinity towards human HRH1 in an in vitro assay measured by filtration,target_identity,2
+CHEMBL231,Histamine H1 receptor,SINGLE PROTEIN,"DRUGMATRIX: Histamine H1, Central radioligand binding (ligand: [3H] Pyrilamine)",target_identity,2
+CHEMBL2327,Substance-K receptor,SINGLE PROTEIN,DRUGMATRIX: Tachykinin NK2 radioligand binding (ligand: [3H] SR-48968),target_identity,2
+CHEMBL2414,C-C chemokine receptor type 4,SINGLE PROTEIN,DRUGMATRIX: Chemokine CCR4 radioligand binding (ligand: [125I] TARC),target_identity,2
+CHEMBL2434,C-X-C chemokine receptor type 2,SINGLE PROTEIN,DRUGMATRIX: Chemokine CXCR2 (IL-8B) radioligand binding (ligand: [125I] IL-8),target_identity,2
+CHEMBL249,Substance-P receptor,SINGLE PROTEIN,DRUGMATRIX: Tachykinin NK1 radioligand binding (ligand: [3H] Substance P),target_identity,2
+CHEMBL250,Platelet-activating factor receptor,SINGLE PROTEIN,DRUGMATRIX: Platelet Activating Factor (PAF) radioligand binding (ligand: [3H] PAF),target_identity,2
+CHEMBL252,Endothelin-1 receptor,SINGLE PROTEIN,DRUGMATRIX: Endothelin ETA radioligand binding (ligand: [125I] Endothelin-1),target_identity,2
+CHEMBL259,Melanocortin receptor 4,SINGLE PROTEIN,Binding affinity towards human MC4R in an in vitro assay with cellular components measured by scintillation proximity assay in vitro assay with cellular components,target_identity,2
+CHEMBL259,Melanocortin receptor 4,SINGLE PROTEIN,DRUGMATRIX: Melanocortin MC4 radioligand binding (ligand: [125I] NDP-alpha-MSH),target_identity,2
+CHEMBL274,C-C chemokine receptor type 5,SINGLE PROTEIN,DRUGMATRIX: Chemokine CCR5 radioligand binding (ligand: [125I] MIP-1alpha),target_identity,2
+CHEMBL3157,B2 bradykinin receptor,SINGLE PROTEIN,Binding affinity towards human BDKRB2 in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL3157,B2 bradykinin receptor,SINGLE PROTEIN,DRUGMATRIX: Bradykinin B2 radioligand binding (ligand: [3H] Bradykinin),target_identity,2
+CHEMBL3392921,Glycine receptor,PROTEIN COMPLEX GROUP,"DRUGMATRIX: Glycine, Strychnine-Sensitive radioligand binding (ligand: [3H] Strychnine)",target_identity,2
+CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Binding affinity towards rat Gabra1 in an in vitro assay with cellular components measured by membrane filtration,target_identity,2
+CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Compound was evaluated for inhibition of rat Gabra1 in an in vitro assay with cellular components measured by membrane filtration,target_identity,2
+CHEMBL375,Mus musculus,ORGANISM,Inhibitory effect of compound on the accumulation of NO2 in the culture media of RAW 264.7 cells in response to LPS; potent effect,target_and_assay_context,2
+CHEMBL3921,Heparanase,SINGLE PROTEIN,Binding affinity to recombinant heparanase catalytic stie (unknown origin) expressed in Escherichia coli BL21 (DE3) by surface plasmon resonance assay,target_identity,2
+CHEMBL4015,C-C chemokine receptor type 2,SINGLE PROTEIN,DRUGMATRIX: Chemokine CCR2B radioligand binding (ligand: [125I] MCP-1),target_identity,2
+CHEMBL4018,Neuropeptide Y receptor type 2,SINGLE PROTEIN,DRUGMATRIX: Neuropeptide Y Y2 radioligand binding (ligand: [125I] Peptide YY),target_identity,2
+CHEMBL4029,C-X-C chemokine receptor type 1,SINGLE PROTEIN,DRUGMATRIX: Chemokine CXCR1 (IL-8A),target_identity,2
+CHEMBL4296326,Anthrax toxin receptor 2,SINGLE PROTEIN,Inhibition of CMG2 (40 to 217) C175A and R40C double mutant (unknown origin) interaction to full length PA E733C mutant expressed in Escherichia coli by FRET assay,target_identity,2
+CHEMBL4607,Type-2 angiotensin II receptor,SINGLE PROTEIN,DRUGMATRIX: Angiotensin AT2 radioligand binding (ligand: [125I] CGP-42112A),target_identity,2
+CHEMBL4608,Melanocortin receptor 5,SINGLE PROTEIN,DRUGMATRIX: Melanocortin MC5 radioligand binding (ligand: [125I] NDP-alpha-MSH),target_identity,2
+CHEMBL4616,Growth hormone secretagogue receptor type 1,SINGLE PROTEIN,Binding affinity towards human GHSR in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL4644,Melanocortin receptor 3,SINGLE PROTEIN,Binding affinity towards human MC3R in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL4644,Melanocortin receptor 3,SINGLE PROTEIN,DRUGMATRIX: Melanocortin MC3 radioligand binding (ligand: [125I] NDP-alpha-MSH),target_identity,2
+CHEMBL4660,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,SINGLE PROTEIN,"Inhibition of human CD38 using 20 uM 1, N6-etheno NAD+ as substrate by continuous fluorimetric method",target_identity,2
+CHEMBL4777,Neuropeptide Y receptor type 1,SINGLE PROTEIN,Binding affinity towards human NPY1R in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,2
+CHEMBL4777,Neuropeptide Y receptor type 1,SINGLE PROTEIN,DRUGMATRIX: Neuropeptide Y Y1 radioligand binding (ligand: [125I] Peptide YY),target_identity,2
+CHEMBL5144,Vasoactive intestinal polypeptide receptor 1,SINGLE PROTEIN,DRUGMATRIX: Vasoactive Intestinal Peptide VIP1 radioligand binding (ligand: [125I] VIP),target_identity,2
+CHEMBL5486,Insulin receptor,SINGLE PROTEIN,DRUGMATRIX: Insulin radioligand binding (ligand: [125I] Insulin),target_identity,2
+CHEMBL612652,Giardia intestinalis,ORGANISM,Antiprotozoal activity against axenically grown trophozoites of Giardia lamblia IMSS:0989:1 after 48 hrs by MTT method,target_and_assay_context,2
+CHEMBL613453,Meloidogyne incognita,ORGANISM,Nematotoxic activity against freshly hatched Meloidogyne incognita J2 (root-knot nematode) isolated from tomato roots assessed as induction of nematode paralysis measured 24 hr after immersion in compound test solutions,target_and_assay_context,2
+CHEMBL1293266,Nucleotide-binding oligomerization domain-containing protein 2,SINGLE PROTEIN,"PUBCHEM_BIOASSAY: uHTS luminescence assay for the identification of compounds that inhibit NOD2. (Class of assay: confirmatory) [Related pubchem assays (depositor defined):AID1575, AID1578, AID1579, AID1848, AID1849, AID1852, AID2001, AID2260, AID2264, AID2334, AID2335, AID2337, AID2466, AID2475, AID2485, AID2503, AID2793, AID2798, AID2799]",target_identity,1
+CHEMBL1785,Endothelin receptor type B,SINGLE PROTEIN,Binding affinity towards human EDNRB in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL1941,Histamine H2 receptor,SINGLE PROTEIN,Binding affinity towards human HRH2 in an in vitro assay with cellular components measured by membrane filtration,target_identity,1
+CHEMBL1985,Glucagon receptor,SINGLE PROTEIN,Binding affinity towards human GCGR in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL2146307,ADP-ribosylation factor GTPase-activating protein 1,SINGLE PROTEIN,PubChem BioAssay. Fluorescence polarization-based biochemical high throughput dose response screening assay to identify inhibitors of ADP-ribosylation factor GTPase activating protein 1 (ARFGAP1). (Class of assay: confirmatory),target_identity,1
+CHEMBL231,Histamine H1 receptor,SINGLE PROTEIN,Agonist activity at human HRH1 in an in vitro cell-based assay measured by fluorescent imaging plate reader,target_identity,1
+CHEMBL231,Histamine H1 receptor,SINGLE PROTEIN,Antagonist activity at human HRH1 in an in vitro cell-based assay measured by fluorescent imaging plate reader,target_identity,1
+CHEMBL2375202,Lymphocyte antigen 96,SINGLE PROTEIN,Binding affinity to recombinant human MD2 (17 to 160 residues) expressed in Escherichia coli BL21(DE3) cells by surface plasmon resonance analysis,target_identity,1
+CHEMBL252,Endothelin-1 receptor,SINGLE PROTEIN,Binding affinity towards human EDNRA in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL259,Melanocortin receptor 4,SINGLE PROTEIN,PUBCHEM_BIOASSAY: Luminescence-based cell-based high throughput dose response assay for biased ligands (agonists) of the melanocortin 4 receptor (MC4R). (Class of assay: confirmatory),target_identity,1
+CHEMBL264,Histamine H3 receptor,SINGLE PROTEIN,Binding affinity towards human HRH3 in an in vitro assay with cellular components measured by scintillation counting,target_identity,1
+CHEMBL298,Gastrin/cholecystokinin type B receptor,SINGLE PROTEIN,Binding affinity towards human CCKBR in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL3038488,Kir3.1/Kir3.4,PROTEIN COMPLEX,Activation of recombinant human GIRK1/4 expressed in Xenopus oocytes by two-electrode voltage clamp method,target_identity,1
+CHEMBL3038489,Kir3.1/Kir3.2,PROTEIN COMPLEX,Activation of recombinant human GIRK1/2 expressed in Xenopus oocytes by two-electrode voltage clamp method,target_identity,1
+CHEMBL3137291,DNMT3A2/3L complex,PROTEIN COMPLEX,Inhibition of His6-tagged human recombinant DNMT3A/DNMT3L expressed in insect Sf9 cells assessed as reduction in DNA methyltransferase activity using 5'-biotinylated 45-bp unmethylated or hemimethylated oligonucleotide substrates and [3H]-AdoMet by liquid scintillation counting method,target_identity,1
+CHEMBL369,Cavia porcellus,ORGANISM,"The -logEC50 value of genistein on ACh-precontracted rings, where EC50 is the concentration causing 50% relaxation",target_and_assay_context,1
+CHEMBL3797016,C-terminal-binding protein 2,SINGLE PROTEIN,Inhibition of recombinant His6-tagged CtBP2 (31 to 384 residues) (unknown origin) dehydrogenase activity expressed in Escherichia coli BL21-Codonplus (DE3)-RIL cells using MTOB as substrate after 15 mins by NADH consumption assay,target_identity,1
+CHEMBL4018,Neuropeptide Y receptor type 2,SINGLE PROTEIN,Binding affinity towards human NPY2R in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL4123,Neurotensin receptor type 1,SINGLE PROTEIN,Binding affinity towards human NTSR1 in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL4308,B1 bradykinin receptor,SINGLE PROTEIN,Binding affinity towards human BDKRB1 in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL4383,Gastric inhibitory polypeptide receptor,SINGLE PROTEIN,Binding affinity towards human GIPR in an in vitro assay with cellular components measured by scintillation proximity assay,target_identity,1
+CHEMBL5955,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,SINGLE PROTEIN,Inhibition of OGT (unknown origin) using UDP-GlcNAc as substrate measured after 2 hrs by UDP-Glo luminescence assay,target_identity,1
+CHEMBL612652,Giardia intestinalis,ORGANISM,Antiprotozoal activity against Giardia lamblia IMSS:1090:1,target_and_assay_context,1
+CHEMBL612652,Giardia intestinalis,ORGANISM,Antiprotozoal activity against clinical isolates of Giardia lamblia IMSS:8901:1,target_and_assay_context,1
+CHEMBL612652,Giardia intestinalis,ORGANISM,Antiprotozoal activity against trophozoite stage of Giardia lamblia IMSS:8909:1 assessed as growth inhibition after 48 hrs,target_and_assay_context,1
+CHEMBL612884,Trichomonas vaginalis,ORGANISM,Anti-Trichomonas activity against Trichomonas vaginalis,target_and_assay_context,1
+CHEMBL612888,Toxoplasma gondii,ORGANISM,Antiparasitic activity against Toxoplasma gondii,target_and_assay_context,1
+CHEMBL612888,Toxoplasma gondii,ORGANISM,Antiparasitic activity against Toxoplasma gondii RH,target_and_assay_context,1
+CHEMBL613478,Xenopus laevis,ORGANISM,Loss of righting reflex (LORR) in tadpoles was determined for anesthetic activity,target_and_assay_context,1

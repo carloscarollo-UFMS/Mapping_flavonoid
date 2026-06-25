@@ -1,0 +1,51 @@
+target_domain_macro,target_category_l3,n_records
+Phenotypic: Cancer and Cells,Cells: Phenotypic/Other,720
+General Assays and Safety,General Assays and Safety,338
+Infectious Diseases,Pathogen: Parasite,277
+Infectious Diseases,Pathogen: Virus,271
+Infectious Diseases,Pathogen: Bacteria,241
+Transporters and Ion Channels,Transporters and Ion Channels,222
+Metabolic Enzymes,Enzymes: General Metabolism,178
+Phenotypic: Cancer and Cells,Cells: Breast Cancer,162
+Cell Signaling and Survival,Enzymes: Phosphatases,159
+Phenotypic: Cancer and Cells,Cells: Lung Cancer,142
+Gene Regulation,Receptors: Nuclear,121
+Cell Signaling and Survival,Enzymes: Kinases,119
+Neuroscience Targets,Proteins: Neurodegeneration,98
+Metabolic Enzymes,Enzymes: Tyrosinase,94
+Phenotypic: Cancer and Cells,Cells: Colorectal Cancer,94
+Inflammation and Proteolysis,Enzymes: Inflammatory COX/PG,82
+Metabolic Enzymes,Enzymes: CYP450,79
+Metabolic Enzymes,Enzymes: Steroid Metabolism,72
+Neuroscience Targets,Enzymes: Cholinesterase,69
+Phenotypic: Cancer and Cells,Cells: Cervical Cancer,68
+Inflammation and Proteolysis,Enzymes: Proteases,60
+Inflammation and Proteolysis,Enzymes: Matrix Metalloproteases,59
+Metabolic Enzymes,Enzymes: Carbohydrate Metabolism,58
+Phenotypic: Cancer and Cells,Cells: Hematologic Cancer,55
+Cell Signaling and Survival,Proteins: Growth Factors,54
+Inflammation and Proteolysis,Proteins: Inflammatory Response,54
+Phenotypic: Cancer and Cells,Cells: Melanoma,53
+Metabolic Enzymes,Enzymes: Lipid Metabolism,51
+Phenotypic: Cancer and Cells,Cells: Prostate Cancer,51
+Phenotypic: Cancer and Cells,Cells: Liver Cancer,50
+Neuroscience Targets,Receptors: Neurotransmission,47
+Gene Regulation,Epigenetics: Chromatin,39
+Cell Signaling and Survival,Proteins: Apoptosis,37
+Gene Regulation,Proteins: DNA/RNA Regulation,35
+Infectious Diseases,Pathogen: Fungus,35
+Metabolic Enzymes,Enzymes: Carbonic Anhydrase,33
+Phenotypic: Cancer and Cells,Cells: Ovarian Cancer,31
+Cell Signaling and Survival,Proteins: NF-kB/TNF Signaling,28
+Inflammation and Proteolysis,Enzymes: Lipoxygenase,22
+Metabolic Enzymes,Enzymes: Sialidase,22
+Inflammation and Proteolysis,Proteins: Inflammasome/Complement,19
+Metabolic Enzymes,Enzymes: Phosphodiesterase,18
+Cell Signaling and Survival,Proteins: Proteostasis/Cytoskeleton,15
+Cell Signaling and Survival,Proteins: Cytokines,14
+Metabolic Enzymes,Enzymes: Phase II Metabolism,10
+Phenotypic: Cancer and Cells,Cells: GI/Pancreatic Cancer,8
+Inflammation and Proteolysis,Enzymes: Nitric Oxide Synthase,6
+Neuroscience Targets,Enzymes: Monoamine Oxidase,6
+Cell Signaling and Survival,Proteins: Heat Shock,5
+Miscellaneous,Other Targets,5

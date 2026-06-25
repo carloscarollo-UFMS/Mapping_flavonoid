@@ -1,0 +1,51 @@
+target_domain_macro,motif_combination,n_compounds,n_active,active_rate,ci_low,ci_high,binary_rule
+Cell Signaling and Survival,Methoxy,43,15,0.3488372093023256,0.22418398748963103,0.49828492902901905,legacy_any_active_sensitivity
+Cell Signaling and Survival,Methoxy+Prenyl,32,11,0.34375,0.20410233354328552,0.5168922649121406,legacy_any_active_sensitivity
+Cell Signaling and Survival,Methoxy+Sugar,3,2,0.6666666666666666,0.2076549551264879,0.9385096847238394,legacy_any_active_sensitivity
+Cell Signaling and Survival,Prenyl,77,45,0.5844155844155844,0.472898399364154,0.6879098973543671,legacy_any_active_sensitivity
+Cell Signaling and Survival,Simple,76,42,0.5526315789473685,0.44100315281611446,0.6591952400016647,legacy_any_active_sensitivity
+Cell Signaling and Survival,Sugar,11,6,0.5454545454545454,0.28008775568998817,0.7872904245601196,legacy_any_active_sensitivity
+Gene Regulation,Methoxy,16,9,0.5625,0.33178195606776517,0.7690163666481448,legacy_any_active_sensitivity
+Gene Regulation,Methoxy+Prenyl,3,3,1,0.43849391955098227,1,legacy_any_active_sensitivity
+Gene Regulation,Methoxy+Sugar,2,1,0.5,0.09452865480086614,0.9054713451991339,legacy_any_active_sensitivity
+Gene Regulation,Prenyl,14,8,0.5714285714285714,0.32590266902869364,0.7861949006959947,legacy_any_active_sensitivity
+Gene Regulation,Simple,28,20,0.7142857142857143,0.529403642629825,0.8474618415167003,legacy_any_active_sensitivity
+General Assays and Safety,Methoxy,51,16,0.3137254901960784,0.20327509667785154,0.45027257516250324,legacy_any_active_sensitivity
+General Assays and Safety,Methoxy+Prenyl,30,19,0.6333333333333333,0.45513246433604937,0.7812629779598231,legacy_any_active_sensitivity
+General Assays and Safety,Methoxy+Sugar,2,1,0.5,0.09452865480086614,0.9054713451991339,legacy_any_active_sensitivity
+General Assays and Safety,Prenyl,65,48,0.7384615384615385,0.6204896660217755,0.8298194493968086,legacy_any_active_sensitivity
+General Assays and Safety,Simple,79,42,0.5316455696202531,0.42271215907094595,0.6376439904964211,legacy_any_active_sensitivity
+General Assays and Safety,Sugar,8,3,0.375,0.13684175946152105,0.6942621454161981,legacy_any_active_sensitivity
+Infectious Diseases,Methoxy,109,37,0.3394495412844037,0.2573746027963261,0.4324560979381548,legacy_any_active_sensitivity
+Infectious Diseases,Methoxy+Prenyl,46,24,0.5217391304347826,0.38137172148151327,0.6587554012432788,legacy_any_active_sensitivity
+Infectious Diseases,Methoxy+Sugar,4,1,0.25,0.045586062644636216,0.6993639475573634,legacy_any_active_sensitivity
+Infectious Diseases,Prenyl,65,44,0.676923076923077,0.5561376050627119,0.7779627063768827,legacy_any_active_sensitivity
+Infectious Diseases,Simple,141,67,0.475177304964539,0.3945043568293785,0.5571669862101902,legacy_any_active_sensitivity
+Infectious Diseases,Sugar,8,2,0.25,0.07147768885802763,0.5907301208974108,legacy_any_active_sensitivity
+Inflammation and Proteolysis,Methoxy,58,15,0.25862068965517243,0.1634540351951746,0.38377630813358793,legacy_any_active_sensitivity
+Inflammation and Proteolysis,Methoxy+Prenyl,12,8,0.6666666666666666,0.3906175873976139,0.8618821601026385,legacy_any_active_sensitivity
+Inflammation and Proteolysis,Methoxy+Sugar,2,0,0,0,0.6576280471103807,legacy_any_active_sensitivity
+Inflammation and Proteolysis,Prenyl,22,12,0.5454545454545454,0.34659473289041554,0.7307998556799515,legacy_any_active_sensitivity
+Inflammation and Proteolysis,Simple,72,36,0.5,0.3874689600472425,0.6125310399527575,legacy_any_active_sensitivity
+Inflammation and Proteolysis,Sugar,6,2,0.3333333333333333,0.09676933255921683,0.7000116786584712,legacy_any_active_sensitivity
+Metabolic Enzymes,Methoxy,58,40,0.6896551724137931,0.5619669315326005,0.7937806558519432,legacy_any_active_sensitivity
+Metabolic Enzymes,Methoxy+Prenyl,23,19,0.8260869565217391,0.6286194521470433,0.9302145964938723,legacy_any_active_sensitivity
+Metabolic Enzymes,Prenyl,49,32,0.6530612244897959,0.5131093521943979,0.7707579039068555,legacy_any_active_sensitivity
+Metabolic Enzymes,Simple,99,63,0.6363636363636364,0.5381571567598795,0.7243825159017672,legacy_any_active_sensitivity
+Metabolic Enzymes,Sugar,10,5,0.5,0.23658959361548731,0.7634104063845126,legacy_any_active_sensitivity
+Neuroscience Targets,Methoxy,15,10,0.6666666666666666,0.41713125151212976,0.8482389930530876,legacy_any_active_sensitivity
+Neuroscience Targets,Methoxy+Prenyl,18,7,0.3888888888888889,0.20304991926931162,0.6138133141934384,legacy_any_active_sensitivity
+Neuroscience Targets,Methoxy+Sugar,2,2,1,0.34237195288961925,1,legacy_any_active_sensitivity
+Neuroscience Targets,Prenyl,15,11,0.7333333333333333,0.4804911034231324,0.8910272389681718,legacy_any_active_sensitivity
+Neuroscience Targets,Simple,53,30,0.5660377358490566,0.4326511497976876,0.6904980930103964,legacy_any_active_sensitivity
+Phenotypic: Cancer and Cells,Methoxy,221,74,0.334841628959276,0.2759110839003423,0.3994159018531838,legacy_any_active_sensitivity
+Phenotypic: Cancer and Cells,Methoxy+Prenyl,84,38,0.4523809523809524,0.3503554445205683,0.5585715331301119,legacy_any_active_sensitivity
+Phenotypic: Cancer and Cells,Methoxy+Sugar,17,2,0.11764705882352941,0.03287908001292092,0.3433684249770991,legacy_any_active_sensitivity
+Phenotypic: Cancer and Cells,Prenyl,120,57,0.475,0.3878193727928457,0.563731640759951,legacy_any_active_sensitivity
+Phenotypic: Cancer and Cells,Simple,160,45,0.28125,0.2173421732707303,0.3554159052636589,legacy_any_active_sensitivity
+Phenotypic: Cancer and Cells,Sugar,18,2,0.1111111111111111,0.031018868453582787,0.3280024486660421,legacy_any_active_sensitivity
+Transporters and Ion Channels,Methoxy,23,15,0.6521739130434783,0.4488997690689164,0.8118894536301776,legacy_any_active_sensitivity
+Transporters and Ion Channels,Methoxy+Prenyl,6,3,0.5,0.18761280689940868,0.8123871931005913,legacy_any_active_sensitivity
+Transporters and Ion Channels,Prenyl,10,7,0.7,0.39677321997956516,0.892210712513788,legacy_any_active_sensitivity
+Transporters and Ion Channels,Simple,22,12,0.5454545454545454,0.34659473289041554,0.7307998556799515,legacy_any_active_sensitivity
+Transporters and Ion Channels,Sugar,8,3,0.375,0.13684175946152105,0.6942621454161981,legacy_any_active_sensitivity
