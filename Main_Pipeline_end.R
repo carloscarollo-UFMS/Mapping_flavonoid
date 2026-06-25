@@ -1,5 +1,5 @@
 PROJECT_ROOT <- normalizePath(
-  "G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026",
+  Sys.getenv("MAPPING_FLAVONOID_ROOT", unset = "."),
   winslash = "/",
   mustWork = TRUE
 )
