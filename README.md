@@ -227,11 +227,10 @@ Public-database content can change over time. Exact reconstruction of the valida
 
 ## External and large data files
 
-Raw MongoDB dumps and the complete World Flora Online classification backbone are not stored directly in this repository because of their size. Their download location and required local paths are documented in this README and in `Main_Pipeline_end.R`; no separate `external_data/` directory is required.
-
-The occurrence-level file `lotus_flavonoids_rdkit_annotations.csv` is also omitted from the normal GitHub repository because it exceeds the standard single-file limit. The smaller compound-level file and the corresponding metadata and audit tables are provided for downstream reproduction.
-
-When external files are used, record their version, retrieval date, and cryptographic hash. Do not commit local credentials, `.Renviron`, MongoDB connection strings, or private access tokens.
+Raw MongoDB dumps and the complete World Flora Online classification
+backbone are not stored directly in this repository because of their size.
+They may be obtained from the corresponding author upon reasonable request.
+The required local paths are defined in `Main_Pipeline_end.R`.
 
 ## Main outputs
 
