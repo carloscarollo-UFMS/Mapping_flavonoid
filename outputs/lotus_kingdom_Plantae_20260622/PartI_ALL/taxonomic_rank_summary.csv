@@ -1,0 +1,6 @@
+accepted_rank,valid_binomial,n_rows,n_compounds,n_families,n_genera,n_species_labels
+species,TRUE,31740,10413,224,1286,3481
+genus,FALSE,938,417,45,115,115
+form,TRUE,236,54,1,1,1
+variety,TRUE,133,109,10,18,19
+subspecies,TRUE,62,53,9,16,17

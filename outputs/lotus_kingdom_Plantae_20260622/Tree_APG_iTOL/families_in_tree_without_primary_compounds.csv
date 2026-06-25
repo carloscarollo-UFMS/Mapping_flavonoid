@@ -1,0 +1,2 @@
+family,n_occurrence_rows_total,n_compounds_total,n_references_total,n_occurrence_rows_primary,n_primary_compounds,n_primary_references,n_occurrence_rows_excluded,n_excluded_compounds,excluded_inchikeys,exclusion_reasons,retained_in_primary_tree,tree_exclusion_reason
+Pontederiaceae,1,1,1,0,0,0,1,1,UGWLWTKODVAUFB-UHFFFAOYSA-N,zero_oxygen;contains_nitrogen,FALSE,no_primary_structure_eligible_compounds

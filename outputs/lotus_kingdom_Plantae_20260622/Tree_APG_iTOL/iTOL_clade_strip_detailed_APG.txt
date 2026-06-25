@@ -1,0 +1,223 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Detailed APG clades
+COLOR	#000000
+STRIP_WIDTH	70
+LEGEND_TITLE	Detailed APG clades
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#6B6B6B	#4D4D4D	#000000	#E5C494	#B35806	#FFD92F	#7570B3	#54278F	#FC8D62	#BDBDBD	#1B9E77	#8FBC8F	#66A61E	#E7298A	#E31A1C	#FF7F00	#FDAE6B	#377EB8	#984EA3
+LEGEND_LABELS	Lycophytes	Ferns	Gymnosperms	Basal Angiosperms	Chloranthales	Magnoliids	Monocots	Monocots (Commelinids)	Basal Eudicots	Other Eudicots	Saxifragales	Rosids (Basal)	Rosids (Fabids)	Rosids (Malvids)	Caryophyllales	Santalales	Asterids (Basal)	Asterids (Lamiids)	Asterids (Campanulids)
+DATA
+Asteraceae	#984EA3	Asterids (Campanulids)
+Campanulaceae	#984EA3	Asterids (Campanulids)
+Apiaceae	#984EA3	Asterids (Campanulids)
+Araliaceae	#984EA3	Asterids (Campanulids)
+Caprifoliaceae	#984EA3	Asterids (Campanulids)
+Viburnaceae	#984EA3	Asterids (Campanulids)
+Paracryphiaceae	#984EA3	Asterids (Campanulids)
+Aquifoliaceae	#984EA3	Asterids (Campanulids)
+Lamiaceae	#377EB8	Asterids (Lamiids)
+Paulowniaceae	#377EB8	Asterids (Lamiids)
+Phrymaceae	#377EB8	Asterids (Lamiids)
+Acanthaceae	#377EB8	Asterids (Lamiids)
+Bignoniaceae	#377EB8	Asterids (Lamiids)
+Verbenaceae	#377EB8	Asterids (Lamiids)
+Scrophulariaceae	#377EB8	Asterids (Lamiids)
+Plantaginaceae	#377EB8	Asterids (Lamiids)
+Gesneriaceae	#377EB8	Asterids (Lamiids)
+Calceolariaceae	#377EB8	Asterids (Lamiids)
+Oleaceae	#377EB8	Asterids (Lamiids)
+Boraginaceae	#377EB8	Asterids (Lamiids)
+Namaceae	#377EB8	Asterids (Lamiids)
+Heliotropiaceae	#377EB8	Asterids (Lamiids)
+Cordiaceae	#377EB8	Asterids (Lamiids)
+Rubiaceae	#377EB8	Asterids (Lamiids)
+Apocynaceae	#377EB8	Asterids (Lamiids)
+Gentianaceae	#377EB8	Asterids (Lamiids)
+Loganiaceae	#377EB8	Asterids (Lamiids)
+Solanaceae	#377EB8	Asterids (Lamiids)
+Convolvulaceae	#377EB8	Asterids (Lamiids)
+Eucommiaceae	#377EB8	Asterids (Lamiids)
+Ericaceae	#FDAE6B	Asterids (Basal)
+Actinidiaceae	#FDAE6B	Asterids (Basal)
+Sarraceniaceae	#FDAE6B	Asterids (Basal)
+Symplocaceae	#FDAE6B	Asterids (Basal)
+Diapensiaceae	#FDAE6B	Asterids (Basal)
+Primulaceae	#FDAE6B	Asterids (Basal)
+Ebenaceae	#FDAE6B	Asterids (Basal)
+Lecythidaceae	#FDAE6B	Asterids (Basal)
+Sapotaceae	#FDAE6B	Asterids (Basal)
+Theaceae	#FDAE6B	Asterids (Basal)
+Pentaphylacaceae	#FDAE6B	Asterids (Basal)
+Balsaminaceae	#FDAE6B	Asterids (Basal)
+Marcgraviaceae	#FDAE6B	Asterids (Basal)
+Hydrangeaceae	#FDAE6B	Asterids (Basal)
+Cornaceae	#FDAE6B	Asterids (Basal)
+Cactaceae	#E31A1C	Caryophyllales
+Portulacaceae	#E31A1C	Caryophyllales
+Didiereaceae	#E31A1C	Caryophyllales
+Basellaceae	#E31A1C	Caryophyllales
+Molluginaceae	#E31A1C	Caryophyllales
+Aizoaceae	#E31A1C	Caryophyllales
+Nyctaginaceae	#E31A1C	Caryophyllales
+Petiveriaceae	#E31A1C	Caryophyllales
+Phytolaccaceae	#E31A1C	Caryophyllales
+Caryophyllaceae	#E31A1C	Caryophyllales
+Amaranthaceae	#E31A1C	Caryophyllales
+Physenaceae	#E31A1C	Caryophyllales
+Polygonaceae	#E31A1C	Caryophyllales
+Plumbaginaceae	#E31A1C	Caryophyllales
+Tamaricaceae	#E31A1C	Caryophyllales
+Loranthaceae	#FF7F00	Santalales
+Santalaceae	#FF7F00	Santalales
+Balanophoraceae	#FF7F00	Santalales
+Olacaceae	#FF7F00	Santalales
+Dilleniaceae	#BDBDBD	Other Eudicots
+Fabaceae	#66A61E	Rosids (Fabids)
+Polygalaceae	#66A61E	Rosids (Fabids)
+Rosaceae	#66A61E	Rosids (Fabids)
+Moraceae	#66A61E	Rosids (Fabids)
+Urticaceae	#66A61E	Rosids (Fabids)
+Cannabaceae	#66A61E	Rosids (Fabids)
+Ulmaceae	#66A61E	Rosids (Fabids)
+Rhamnaceae	#66A61E	Rosids (Fabids)
+Elaeagnaceae	#66A61E	Rosids (Fabids)
+Cucurbitaceae	#66A61E	Rosids (Fabids)
+Begoniaceae	#66A61E	Rosids (Fabids)
+Coriariaceae	#66A61E	Rosids (Fabids)
+Betulaceae	#66A61E	Rosids (Fabids)
+Casuarinaceae	#66A61E	Rosids (Fabids)
+Myricaceae	#66A61E	Rosids (Fabids)
+Juglandaceae	#66A61E	Rosids (Fabids)
+Fagaceae	#66A61E	Rosids (Fabids)
+Nothofagaceae	#66A61E	Rosids (Fabids)
+Hypericaceae	#66A61E	Rosids (Fabids)
+Clusiaceae	#66A61E	Rosids (Fabids)
+Calophyllaceae	#66A61E	Rosids (Fabids)
+Bonnetiaceae	#66A61E	Rosids (Fabids)
+Malpighiaceae	#66A61E	Rosids (Fabids)
+Elatinaceae	#66A61E	Rosids (Fabids)
+Passifloraceae	#66A61E	Rosids (Fabids)
+Salicaceae	#66A61E	Rosids (Fabids)
+Violaceae	#66A61E	Rosids (Fabids)
+Achariaceae	#66A61E	Rosids (Fabids)
+Phyllanthaceae	#66A61E	Rosids (Fabids)
+Rhizophoraceae	#66A61E	Rosids (Fabids)
+Erythroxylaceae	#66A61E	Rosids (Fabids)
+Pandaceae	#66A61E	Rosids (Fabids)
+Chrysobalanaceae	#66A61E	Rosids (Fabids)
+Euphorbiaceae	#66A61E	Rosids (Fabids)
+Ochnaceae	#66A61E	Rosids (Fabids)
+Humiriaceae	#66A61E	Rosids (Fabids)
+Cunoniaceae	#66A61E	Rosids (Fabids)
+Oxalidaceae	#66A61E	Rosids (Fabids)
+Celastraceae	#66A61E	Rosids (Fabids)
+Zygophyllaceae	#66A61E	Rosids (Fabids)
+Krameriaceae	#66A61E	Rosids (Fabids)
+Brassicaceae	#E7298A	Rosids (Malvids)
+Cleomaceae	#E7298A	Rosids (Malvids)
+Capparaceae	#E7298A	Rosids (Malvids)
+Malvaceae	#E7298A	Rosids (Malvids)
+Muntingiaceae	#E7298A	Rosids (Malvids)
+Dipterocarpaceae	#E7298A	Rosids (Malvids)
+Sarcolaenaceae	#E7298A	Rosids (Malvids)
+Cistaceae	#E7298A	Rosids (Malvids)
+Bixaceae	#E7298A	Rosids (Malvids)
+Thymelaeaceae	#E7298A	Rosids (Malvids)
+Rutaceae	#E7298A	Rosids (Malvids)
+Meliaceae	#E7298A	Rosids (Malvids)
+Simaroubaceae	#E7298A	Rosids (Malvids)
+Sapindaceae	#E7298A	Rosids (Malvids)
+Burseraceae	#E7298A	Rosids (Malvids)
+Anacardiaceae	#E7298A	Rosids (Malvids)
+Stachyuraceae	#E7298A	Rosids (Malvids)
+Melastomataceae	#E7298A	Rosids (Malvids)
+Myrtaceae	#E7298A	Rosids (Malvids)
+Vochysiaceae	#E7298A	Rosids (Malvids)
+Onagraceae	#E7298A	Rosids (Malvids)
+Lythraceae	#E7298A	Rosids (Malvids)
+Combretaceae	#E7298A	Rosids (Malvids)
+Geraniaceae	#E7298A	Rosids (Malvids)
+Francoaceae	#E7298A	Rosids (Malvids)
+Vitaceae	#8FBC8F	Rosids (Basal)
+Crassulaceae	#1B9E77	Saxifragales
+Haloragaceae	#1B9E77	Saxifragales
+Saxifragaceae	#1B9E77	Saxifragales
+Grossulariaceae	#1B9E77	Saxifragales
+Hamamelidaceae	#1B9E77	Saxifragales
+Altingiaceae	#1B9E77	Saxifragales
+Daphniphyllaceae	#1B9E77	Saxifragales
+Cercidiphyllaceae	#1B9E77	Saxifragales
+Paeoniaceae	#1B9E77	Saxifragales
+Trochodendraceae	#FC8D62	Basal Eudicots
+Proteaceae	#FC8D62	Basal Eudicots
+Platanaceae	#FC8D62	Basal Eudicots
+Nelumbonaceae	#FC8D62	Basal Eudicots
+Ranunculaceae	#FC8D62	Basal Eudicots
+Berberidaceae	#FC8D62	Basal Eudicots
+Menispermaceae	#FC8D62	Basal Eudicots
+Lardizabalaceae	#FC8D62	Basal Eudicots
+Papaveraceae	#FC8D62	Basal Eudicots
+Eupteleaceae	#FC8D62	Basal Eudicots
+Orchidaceae	#7570B3	Monocots
+Asparagaceae	#7570B3	Monocots
+Amaryllidaceae	#7570B3	Monocots
+Asphodelaceae	#7570B3	Monocots
+Iridaceae	#7570B3	Monocots
+Poaceae	#54278F	Monocots (Commelinids)
+Eriocaulaceae	#54278F	Monocots (Commelinids)
+Cyperaceae	#54278F	Monocots (Commelinids)
+Bromeliaceae	#54278F	Monocots (Commelinids)
+Typhaceae	#54278F	Monocots (Commelinids)
+Zingiberaceae	#54278F	Monocots (Commelinids)
+Musaceae	#54278F	Monocots (Commelinids)
+Arecaceae	#54278F	Monocots (Commelinids)
+Smilacaceae	#7570B3	Monocots
+Melanthiaceae	#7570B3	Monocots
+Stemonaceae	#7570B3	Monocots
+Velloziaceae	#7570B3	Monocots
+Dioscoreaceae	#7570B3	Monocots
+Araceae	#7570B3	Monocots
+Posidoniaceae	#7570B3	Monocots
+Annonaceae	#FFD92F	Magnoliids
+Myristicaceae	#FFD92F	Magnoliids
+Lauraceae	#FFD92F	Magnoliids
+Hernandiaceae	#FFD92F	Magnoliids
+Siparunaceae	#FFD92F	Magnoliids
+Piperaceae	#FFD92F	Magnoliids
+Saururaceae	#FFD92F	Magnoliids
+Aristolochiaceae	#FFD92F	Magnoliids
+Winteraceae	#FFD92F	Magnoliids
+Chloranthaceae	#B35806	Chloranthales
+Schisandraceae	#E5C494	Basal Angiosperms
+Nymphaeaceae	#E5C494	Basal Angiosperms
+Podocarpaceae	#000000	Gymnosperms
+Araucariaceae	#000000	Gymnosperms
+Cupressaceae	#000000	Gymnosperms
+Cephalotaxaceae	#000000	Gymnosperms
+Taxaceae	#000000	Gymnosperms
+Sciadopityaceae	#000000	Gymnosperms
+Pinaceae	#000000	Gymnosperms
+Cycadaceae	#000000	Gymnosperms
+Ephedraceae	#000000	Gymnosperms
+Gnetaceae	#000000	Gymnosperms
+Ginkgoaceae	#000000	Gymnosperms
+Dryopteridaceae	#4D4D4D	Ferns
+Polypodiaceae	#4D4D4D	Ferns
+Tectariaceae	#4D4D4D	Ferns
+Davalliaceae	#4D4D4D	Ferns
+Blechnaceae	#4D4D4D	Ferns
+Onocleaceae	#4D4D4D	Ferns
+Athyriaceae	#4D4D4D	Ferns
+Woodsiaceae	#4D4D4D	Ferns
+Thelypteridaceae	#4D4D4D	Ferns
+Aspleniaceae	#4D4D4D	Ferns
+Dennstaedtiaceae	#4D4D4D	Ferns
+Pteridaceae	#4D4D4D	Ferns
+Cyatheaceae	#4D4D4D	Ferns
+Gleicheniaceae	#4D4D4D	Ferns
+Equisetaceae	#4D4D4D	Ferns
+Ophioglossaceae	#4D4D4D	Ferns
+Lycopodiaceae	#6B6B6B	Lycophytes
+Selaginellaceae	#6B6B6B	Lycophytes
+Cynomoriaceae	#1B9E77	Saxifragales

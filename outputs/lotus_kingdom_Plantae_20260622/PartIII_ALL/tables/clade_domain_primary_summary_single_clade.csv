@@ -1,0 +1,50 @@
+analysis_clade,target_domain_macro,n_compounds,n_records,n_targets,q25_pchembl,q75_pchembl,median_z_potency,median_pchembl,sufficient_coverage
+Non-seed vascular plants,General Assays and Safety,2,2,2,4.1775,4.3325,-1.2891270277357751,4.255,FALSE
+Non-seed vascular plants,Infectious Diseases,3,4,4,4.5725,4.8975,-0.654673158190127,4.625,FALSE
+Non-seed vascular plants,Metabolic Enzymes,1,1,1,4.61,4.61,-0.770459720535149,4.61,FALSE
+Non-seed vascular plants,Phenotypic: Cancer and Cells,2,8,8,4.93125,5.8237499999999995,0.9854614743209106,5.3774999999999995,FALSE
+Gymnosperms,Cell Signaling and Survival,2,2,2,4.85,5.01,-0.21024652111746234,4.93,FALSE
+Gymnosperms,Inflammation and Proteolysis,2,2,2,5.705,5.735,0.8214586593614754,5.720000000000001,FALSE
+Gymnosperms,Metabolic Enzymes,1,1,1,7.05,7.05,2.42225987476682,7.05,FALSE
+Early angiosperms & magnoliids,Cell Signaling and Survival,2,3,3,4.705,4.795,-0.44888222253767796,4.75,FALSE
+Early angiosperms & magnoliids,Gene Regulation,1,2,2,4.175,4.175,-1.34261389819859,4.175,FALSE
+Early angiosperms & magnoliids,General Assays and Safety,1,2,2,4.745,4.745,-0.404580108096693,4.745,FALSE
+Early angiosperms & magnoliids,Infectious Diseases,20,24,23,4.6975,5.4425,0.2339893558415235,5.105,TRUE
+Early angiosperms & magnoliids,Inflammation and Proteolysis,1,1,1,4.52,4.52,-0.660795895537382,4.52,FALSE
+Early angiosperms & magnoliids,Metabolic Enzymes,3,3,3,5.15,5.615,0.367928004019242,5.48,FALSE
+Early angiosperms & magnoliids,Neuroscience Targets,1,2,2,4.115,4.115,-1.4734729409695,4.115,FALSE
+Early angiosperms & magnoliids,Phenotypic: Cancer and Cells,8,33,26,4.949999999999999,5.321249999999999,0.6058721296558465,5.1675,FALSE
+Early angiosperms & magnoliids,Transporters and Ion Channels,1,2,2,4.805,4.805,-0.467863819272709,4.805,FALSE
+Monocots,Cell Signaling and Survival,1,1,1,5.9,5.9,1.07573475875815,5.9,FALSE
+Monocots,General Assays and Safety,2,2,2,4.355,4.765000000000001,-1.3247781649116601,4.5600000000000005,FALSE
+Monocots,Infectious Diseases,3,8,5,4.485,5.0575,-0.240111565978456,4.86,FALSE
+Monocots,Inflammation and Proteolysis,5,5,5,4.58,4.91,-0.586683167792439,4.58,FALSE
+Monocots,Metabolic Enzymes,2,2,2,4.7825,5.0675,-0.3582848547482154,4.925,FALSE
+Monocots,Phenotypic: Cancer and Cells,15,38,36,4.33,4.952500000000001,-0.709133814362408,4.44,TRUE
+Monocots,Transporters and Ion Channels,1,1,1,5.17,5.17,-0.0516949903574766,5.17,FALSE
+Early eudicots & Saxifragales,Infectious Diseases,1,5,4,4.85,4.85,-0.538980862310272,4.85,FALSE
+Rosids,Cell Signaling and Survival,127,195,171,4.67,5.3375,-0.310108712978887,4.94,TRUE
+Rosids,Gene Regulation,22,32,31,4.6675,6.077500000000001,-0.32894015626642703,5.16,TRUE
+Rosids,General Assays and Safety,118,143,126,4.8,5.675,0.3499551417447585,5.31,TRUE
+Rosids,Infectious Diseases,134,317,252,4.6187499999999995,5.5112499999999995,-0.11633188381977899,4.96,TRUE
+Rosids,Inflammation and Proteolysis,60,104,95,4.5725,5.316875,-0.185239225840665,4.905,TRUE
+Rosids,Metabolic Enzymes,117,226,202,4.715,5.75,0.0277201782903423,5.2125,TRUE
+Rosids,Neuroscience Targets,27,46,43,4.574999999999999,5.585,0.188424292288654,5.1525,TRUE
+Rosids,Phenotypic: Cancer and Cells,275,671,482,4.495,5.18,0.0018945986309566,4.84,TRUE
+Rosids,Transporters and Ion Channels,18,35,31,4.626250000000001,5.4350000000000005,-0.32248977629547,4.9325,TRUE
+Caryophyllales & Santalales,Cell Signaling and Survival,3,3,3,5.01,5.865,0.359827654497499,5.36,FALSE
+Caryophyllales & Santalales,General Assays and Safety,2,2,2,4.785,4.994999999999999,-0.3840686124139171,4.89,FALSE
+Caryophyllales & Santalales,Infectious Diseases,2,2,2,5.102499999999999,5.767499999999999,0.820129038267679,5.435,FALSE
+Caryophyllales & Santalales,Inflammation and Proteolysis,6,8,8,4.6049999999999995,5,-0.376697105848434,4.75,FALSE
+Caryophyllales & Santalales,Metabolic Enzymes,3,3,3,4.23,4.545,-1.07141279714148,4.38,FALSE
+Caryophyllales & Santalales,Neuroscience Targets,4,6,6,5.08,5.325,0.432897620299338,5.279999999999999,FALSE
+Caryophyllales & Santalales,Phenotypic: Cancer and Cells,6,6,6,4.4575,4.765,-0.3928093604748565,4.615,FALSE
+Asterids,Cell Signaling and Survival,7,16,13,4.735,5.6475,-0.0112919450137275,5.0375,FALSE
+Asterids,Gene Regulation,2,4,3,5.6175,5.6525,0.32550097374697,5.635,FALSE
+Asterids,General Assays and Safety,18,23,20,4.415000000000001,5.1674999999999995,-0.291424837617191,4.93,TRUE
+Asterids,Infectious Diseases,32,71,62,4.71,5.159375000000001,-0.1980841728371125,5.0225,TRUE
+Asterids,Inflammation and Proteolysis,14,25,25,4.37125,5.3225,0.07790041969130651,5.1825,TRUE
+Asterids,Metabolic Enzymes,8,15,11,4.7425,5.271875,-0.29502484963993614,5.0024999999999995,FALSE
+Asterids,Neuroscience Targets,13,35,35,4.5425,5.08,-0.258618282279239,4.8675,TRUE
+Asterids,Phenotypic: Cancer and Cells,20,73,58,4.66125,5.15125,-0.112636272745881,4.7775,TRUE
+Asterids,Transporters and Ion Channels,2,4,3,5.592499999999999,5.7375,0.658606068422351,5.664999999999999,FALSE

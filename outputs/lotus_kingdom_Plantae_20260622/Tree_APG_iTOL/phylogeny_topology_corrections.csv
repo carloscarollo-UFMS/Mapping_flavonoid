@@ -1,0 +1,2 @@
+family,target_order,target_families,reason,sister_orders_before,sister_clades_before,sister_orders_after,sister_clades_after
+Cynomoriaceae,Saxifragales,Altingiaceae;Cercidiphyllaceae;Crassulaceae;Daphniphyllaceae;Grossulariaceae;Haloragaceae;Hamamelidaceae;Paeoniaceae;Saxifragaceae,Cynomoriaceae was placed within Rosales by the GBOTB representative although the APG reference used in this workflow assigns it to Saxifragales; the family tip is regrafted as sister to the sampled Saxifragales clade,Rosales,Rosids (Fabids),Saxifragales,Saxifragales

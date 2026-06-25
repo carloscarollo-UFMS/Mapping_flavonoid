@@ -1,0 +1,337 @@
+.y.,group1,group2,n1,n2,statistic,p,p.adj,p.adj.signif,metric,threshold
+n_compounds_structural,Non-seed vascular plants,Gymnosperms,9,6,0.09443851699918737,0.9247608203710784,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,0.8480846014750231,0.39639085662466084,0.6528790579700295,ns,n_compounds_structural,10
+n_compounds_structural,Non-seed vascular plants,Monocots,9,15,1.1429838160342847,0.2530453105630749,0.5904390579805081,ns,n_compounds_structural,10
+n_compounds_structural,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-1.3229238532073075,0.185860701955753,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Non-seed vascular plants,Rosids,9,47,1.3024745921137832,0.1927541980520665,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-0.057146049688634744,0.9544288539863636,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Non-seed vascular plants,Asterids,9,26,0.34620345684765813,0.7291898169910285,0.9722530893213712,ns,n_compounds_structural,10
+n_compounds_structural,Gymnosperms,Early angiosperms & magnoliids,6,8,0.6708891917086164,0.5022911222391535,0.7402184959313841,ns,n_compounds_structural,10
+n_compounds_structural,Gymnosperms,Monocots,6,15,0.894637197952648,0.3709810603698539,0.6492168556472443,ns,n_compounds_structural,10
+n_compounds_structural,Gymnosperms,Early eudicots & Saxifragales,6,9,-1.2776975829301844,0.20135607781734108,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Gymnosperms,Rosids,6,47,0.978338602807133,0.32790688345824587,0.6460815080641933,ns,n_compounds_structural,10
+n_compounds_structural,Gymnosperms,Caryophyllales & Santalales,6,11,-0.14868147879822222,0.8818049765580068,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Gymnosperms,Asterids,6,26,0.18573063804739706,0.8526560006487894,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Early angiosperms & magnoliids,Monocots,8,15,0.15950124422322698,0.8732739781189247,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-2.1315092559274564,0.03304721072917589,0.3084406334723083,ns,n_compounds_structural,10
+n_compounds_structural,Early angiosperms & magnoliids,Rosids,8,47,0.1616161713374965,0.8716081218497269,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-0.9421514749005903,0.3461150936058178,0.6460815080641933,ns,n_compounds_structural,10
+n_compounds_structural,Early angiosperms & magnoliids,Asterids,8,26,-0.6881018192044344,0.49138866495696126,0.7402184959313841,ns,n_compounds_structural,10
+n_compounds_structural,Monocots,Early eudicots & Saxifragales,15,9,-2.622057648448031,0.008740064560915906,0.1223609038528227,ns,n_compounds_structural,10
+n_compounds_structural,Monocots,Rosids,15,47,-0.027035125473724605,0.978431718186187,0.978431718186187,ns,n_compounds_structural,10
+n_compounds_structural,Monocots,Caryophyllales & Santalales,15,11,-1.27874828991863,0.20098570864258342,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Monocots,Asterids,15,26,-1.073393137186799,0.283094762395519,0.6097425651595794,ns,n_compounds_structural,10
+n_compounds_structural,Early eudicots & Saxifragales,Rosids,9,47,3.0164506869742613,0.002557528139328243,0.0716107879011908,ns,n_compounds_structural,10
+n_compounds_structural,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,1.33034819301054,0.18340357542766716,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Early eudicots & Saxifragales,Asterids,9,26,1.9587137545956244,0.05014631871154025,0.3510242309807818,ns,n_compounds_structural,10
+n_compounds_structural,Rosids,Caryophyllales & Santalales,47,11,-1.4915812867720935,0.1358089469552993,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Rosids,Asterids,47,26,-1.39114075686336,0.16418274786810036,0.51254274353505,ns,n_compounds_structural,10
+n_compounds_structural,Caryophyllales & Santalales,Asterids,11,26,0.4436653433022873,0.6572845554592568,0.9201983776429594,ns,n_compounds_structural,10
+n_scaffolds,Non-seed vascular plants,Gymnosperms,9,6,0.32262316519502504,0.746980647825203,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.378242030410857,0.16812857445823529,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Non-seed vascular plants,Monocots,9,15,1.3106566086047897,0.1899738046735185,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,0.10261397344932421,0.9182693521776696,0.9569277815400926,ns,n_scaffolds,10
+n_scaffolds,Non-seed vascular plants,Rosids,9,47,1.7386742498670942,0.08209207790254522,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Non-seed vascular plants,Caryophyllales & Santalales,9,11,0.36496756942629255,0.7151356147428002,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Non-seed vascular plants,Asterids,9,26,0.8424411282207692,0.39954107984614645,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Gymnosperms,Early angiosperms & magnoliids,6,8,0.9252051890233156,0.3548591848553781,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Gymnosperms,Monocots,6,15,0.79202414756381,0.42834659630021255,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Gymnosperms,Early eudicots & Saxifragales,6,9,-0.2308424371654061,0.8174372113690699,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Gymnosperms,Rosids,6,47,1.0670254701900042,0.28596033465004406,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Gymnosperms,Caryophyllales & Santalales,6,11,-0.01181554187656299,0.9905727809106905,0.9905727809106905,ns,n_scaffolds,10
+n_scaffolds,Gymnosperms,Asterids,6,26,0.343938786802819,0.7308923216444085,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Early angiosperms & magnoliids,Monocots,8,15,-0.2674384732118817,0.7891315804894371,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-1.2786918536588827,0.20100558951315683,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Early angiosperms & magnoliids,Rosids,8,47,-0.09696802218616693,0.9227517893422322,0.9569277815400926,ns,n_scaffolds,10
+n_scaffolds,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-1.0882458561857595,0.276486585888764,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Early angiosperms & magnoliids,Asterids,8,26,-0.8505839914234129,0.3950004852566074,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Monocots,Early eudicots & Saxifragales,15,9,-1.195930698567766,0.23172360421973615,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Monocots,Rosids,15,47,0.2697581243751346,0.7873463407215101,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Monocots,Caryophyllales & Santalales,15,11,-0.9788957448034931,0.3276314949113025,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Monocots,Asterids,15,26,-0.699525205610523,0.4842238665456914,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Early eudicots & Saxifragales,Rosids,9,47,1.605727899958602,0.1083337083580046,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,0.2573451261267443,0.7969123595453103,0.9155296767333584,ns,n_scaffolds,10
+n_scaffolds,Early eudicots & Saxifragales,Asterids,9,26,0.7173650790749969,0.47314886100185194,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Rosids,Caryophyllales & Santalales,47,11,-1.3989854039373713,0.16181736009408543,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Rosids,Asterids,47,26,-1.2552799049261645,0.20937716738643236,0.7975451919576093,ns,n_scaffolds,10
+n_scaffolds,Caryophyllales & Santalales,Asterids,11,26,0.44975987211431645,0.6528835950837891,0.9155296767333584,ns,n_scaffolds,10
+rarefied_scaffolds_5,Non-seed vascular plants,Gymnosperms,9,6,0.42208132649225966,0.6729656574068457,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.0451354112255609,0.2959603897781692,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Non-seed vascular plants,Monocots,9,15,0.3130899313289625,0.7542123384679935,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,1.030731719208,0.302666645874823,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Non-seed vascular plants,Rosids,9,47,1.24555234367057,0.21292878743209487,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Non-seed vascular plants,Caryophyllales & Santalales,9,11,0.418562796750741,0.6755356836756921,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Non-seed vascular plants,Asterids,9,26,0.2062394345133761,0.8366038856268231,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Gymnosperms,Early angiosperms & magnoliids,6,8,0.5284361412909998,0.5971966584915096,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Gymnosperms,Monocots,6,15,-0.18724118580079818,0.8514715342301389,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Gymnosperms,Early eudicots & Saxifragales,6,9,0.4998331497934659,0.617192566697105,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Gymnosperms,Rosids,6,47,0.5322409306421173,0.594559137754447,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Gymnosperms,Caryophyllales & Santalales,6,11,-0.0676356749509356,0.9460756559063827,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Gymnosperms,Asterids,6,26,-0.3150599691393676,0.75271612180079706,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early angiosperms & magnoliids,Monocots,8,15,-0.85846585264165,0.3906352783082689,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-0.04517876417401534,0.9639648206981286,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early angiosperms & magnoliids,Rosids,8,47,-0.1428871391543969,0.8863793158138011,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-0.6880609673155623,0.49141438919610864,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early angiosperms & magnoliids,Asterids,8,26,-1.0588132801448067,0.28968482436916887,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Monocots,Early eudicots & Saxifragales,15,9,0.8393031640281944,0.40129920816405146,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Monocots,Rosids,15,47,1.0830650633369552,0.27877954474993794,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Monocots,Caryophyllales & Santalales,15,11,0.14137430690327954,0.8875742505139524,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Monocots,Asterids,15,26,-0.16114242378035928,0.871981227490715,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early eudicots & Saxifragales,Rosids,9,47,-0.08986051675512645,0.9283980572334118,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,-0.6624777504442418,0.5076650895036137,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Early eudicots & Saxifragales,Asterids,9,26,-1.050118221604805,0.29366376205416184,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Rosids,Caryophyllales & Santalales,47,11,-0.7913796621704847,0.428722474384298,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Rosids,Asterids,47,26,-1.5278733033840894,0.12654399770256824,0.9639648206981286,ns,rarefied_scaffolds_5,10
+rarefied_scaffolds_5,Caryophyllales & Santalales,Asterids,11,26,-0.30128801660110965,0.7631948780088731,0.9639648206981286,ns,rarefied_scaffolds_5,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Gymnosperms,9,6,0.3165593049801783,0.7515780186920077,0.8778948080008162,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.3655208575975615,0.1720894020950292,0.5353892509623132,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Monocots,9,15,-0.15411439847719213,0.8775195355691086,0.9100202591087051,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,2.1328581656536905,0.03293636303186003,0.46110908244604043,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Rosids,9,47,0.8819120779555825,0.3778243550916275,0.7052721295043713,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Caryophyllales & Santalales,9,11,0.727300779129893,0.46704172094963303,0.7292795552590754,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Non-seed vascular plants,Asterids,9,26,1.0020825169360734,0.3163037409956846,0.7052721295043713,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Gymnosperms,Early angiosperms & magnoliids,6,8,0.9196772210017665,0.35774145973408433,0.7052721295043713,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Gymnosperms,Monocots,6,15,-0.47991659389946056,0.6312867013832065,0.8417156018442753,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Gymnosperms,Early eudicots & Saxifragales,6,9,1.5911270329266853,0.11158098987319202,0.5207112860748961,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Gymnosperms,Rosids,6,47,0.355328181948135,0.7223437450535168,0.8778948080008162,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Gymnosperms,Caryophyllales & Santalales,6,11,0.31536931245567656,0.7524812640006996,0.8778948080008162,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Gymnosperms,Asterids,6,26,0.48731500763674557,0.626035113965835,0.8417156018442753,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early angiosperms & magnoliids,Monocots,8,15,-1.6640208669498162,0.09610825941768425,0.5207112860748961,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,0.7036554956850961,0.48164734199652004,0.7292795552590754,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early angiosperms & magnoliids,Rosids,8,47,-0.8958792611604565,0.37031725158130385,0.7052721295043713,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-0.7244573290200583,0.4687850149542781,0.7292795552590754,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early angiosperms & magnoliids,Asterids,8,26,-0.6825863376381237,0.4948682696400869,0.7292795552590754,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Monocots,Early eudicots & Saxifragales,15,9,2.5387223208607717,0.011125808899847359,0.31152264919572603,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Monocots,Rosids,15,47,1.3011705743534399,0.19320007501217346,0.5409602100340857,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Monocots,Caryophyllales & Santalales,15,11,0.9872016611552964,0.3235437876181829,0.7052721295043713,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Monocots,Asterids,15,26,1.3956921849483344,0.1628072086980222,0.5353892509623132,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early eudicots & Saxifragales,Rosids,9,47,-1.8814124329719086,0.059915836896060073,0.5207112860748961,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,-1.5096597368996565,0.13113027002545238,0.5245210801018095,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Early eudicots & Saxifragales,Asterids,9,26,-1.597655742688057,0.1101196134097116,0.5207112860748961,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Rosids,Caryophyllales & Santalales,47,11,0.017951230610002367,0.9856777594687428,0.9856777594687428,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Rosids,Asterids,47,26,0.2727621860384976,0.785036028851965,0.8792403523142008,ns,effort_adjusted_novelty_z,10
+effort_adjusted_novelty_z,Caryophyllales & Santalales,Asterids,11,26,0.16863331902107362,0.8660850710790297,0.9100202591087051,ns,effort_adjusted_novelty_z,10
+exclusive_scaffold_share,Non-seed vascular plants,Gymnosperms,9,6,-1.1307773891952415,0.2581487990044715,0.5560127978557848,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,0.5869679928875093,0.5572252032490692,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Non-seed vascular plants,Monocots,9,15,-0.5738168490512502,0.5660917457727325,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-1.840618800324141,0.0656774407052693,0.44137409609794853,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Non-seed vascular plants,Rosids,9,47,-1.0702664198291645,0.2844994049455244,0.5689988098910488,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-1.1467143872181598,0.25149968233300907,0.5560127978557848,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Non-seed vascular plants,Asterids,9,26,-1.5966509990881073,0.11034352402448713,0.44137409609794853,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Gymnosperms,Early angiosperms & magnoliids,6,8,1.6316416248361922,0.1027550040701578,0.44137409609794853,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Gymnosperms,Monocots,6,15,0.7329108722564314,0.4636127915085782,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Gymnosperms,Early eudicots & Saxifragales,6,9,-0.5155221140803149,0.6061882205474547,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Gymnosperms,Rosids,6,47,0.47645381389479174,0.6337511040527125,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Gymnosperms,Caryophyllales & Santalales,6,11,0.1587372884496891,0.8738758586983875,0.9062416312427721,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Gymnosperms,Asterids,6,26,-0.047529773273945815,0.9620910015026112,0.9620910015026112,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early angiosperms & magnoliids,Monocots,8,15,-1.2041128216356576,0.22854597489569262,0.5560127978557848,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-2.372630517648473,0.017661921861929886,0.3579053635013138,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early angiosperms & magnoliids,Rosids,8,47,-1.7639249538023716,0.07774461495150246,0.44137409609794853,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-1.7230332729082263,0.08488250821640703,0.44137409609794853,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early angiosperms & magnoliids,Asterids,8,26,-2.232761615086841,0.025564668821522415,0.3579053635013138,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Monocots,Early eudicots & Saxifragales,15,9,-1.4840575300431955,0.13779365890874903,0.4822778061806216,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Monocots,Rosids,15,47,-0.4972995118394341,0.6189778559520018,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Monocots,Caryophyllales & Santalales,15,11,-0.6889073175989374,0.4908815941907241,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Monocots,Asterids,15,26,-1.158285090663374,0.24674771364528442,0.5560127978557848,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early eudicots & Saxifragales,Rosids,9,47,1.314433663896654,0.18870030801400367,0.5560127978557848,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,0.7837428966701289,0.43319098648506604,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Early eudicots & Saxifragales,Asterids,9,26,0.6468770486944623,0.5177115210487386,0.739376288061498,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Rosids,Caryophyllales & Santalales,47,11,-0.37616156539033135,0.7067967869517667,0.7916124013859788,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Rosids,Asterids,47,26,-0.933175495655722,0.350729364514578,0.6546948137605456,ns,exclusive_scaffold_share,10
+exclusive_scaffold_share,Caryophyllales & Santalales,Asterids,11,26,-0.28383175930849747,0.7765393145819319,0.8362731080113113,ns,exclusive_scaffold_share,10
+median_mw,Non-seed vascular plants,Gymnosperms,9,6,-0.8372495781751327,0.4024522948479569,0.6108575181162498,ns,median_mw,10
+median_mw,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,-2.4069821828207685,0.016084954581458664,0.2251893641404213,ns,median_mw,10
+median_mw,Non-seed vascular plants,Monocots,9,15,-2.447184712327813,0.014397703136032398,0.2251893641404213,ns,median_mw,10
+median_mw,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-0.4098232175175884,0.6819356333893585,0.7637679093960815,ns,median_mw,10
+median_mw,Non-seed vascular plants,Rosids,9,47,-1.5292223143245858,0.1262093405733014,0.39265128178360437,ns,median_mw,10
+median_mw,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-1.9031355008815913,0.05702286665957735,0.26610671107802764,ns,median_mw,10
+median_mw,Non-seed vascular plants,Asterids,9,26,-1.9090545449286078,0.05625505565935833,0.26610671107802764,ns,median_mw,10
+median_mw,Gymnosperms,Early angiosperms & magnoliids,6,8,-1.3485751787334306,0.17747345770865397,0.41410473465352593,ns,median_mw,10
+median_mw,Gymnosperms,Monocots,6,15,-1.222563757016037,0.22149450909490542,0.477065096512104,ns,median_mw,10
+median_mw,Gymnosperms,Early eudicots & Saxifragales,6,9,0.47069254892432855,0.6378603060933685,0.7637679093960815,ns,median_mw,10
+median_mw,Gymnosperms,Rosids,6,47,-0.26559097584076713,0.790554236304285,0.790554236304285,ns,median_mw,10
+median_mw,Gymnosperms,Caryophyllales & Santalales,6,11,-0.8159819510545088,0.4145104587217409,0.6108575181162498,ns,median_mw,10
+median_mw,Gymnosperms,Asterids,6,26,-0.6558694871027507,0.5119081022737924,0.6515194028939175,ns,median_mw,10
+median_mw,Early angiosperms & magnoliids,Monocots,8,15,0.31466472864791967,0.7530162272501861,0.7809057171483411,ns,median_mw,10
+median_mw,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,2.009395261960651,0.04449523231026365,0.26610671107802764,ns,median_mw,10
+median_mw,Early angiosperms & magnoliids,Rosids,8,47,1.6032310140105752,0.10888366063535952,0.3811645984079816,ns,median_mw,10
+median_mw,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,0.6761657709561557,0.4989354020882165,0.6515194028939175,ns,median_mw,10
+median_mw,Early angiosperms & magnoliids,Asterids,8,26,1.06668175280574,0.2861155696497962,0.5722311392995924,ns,median_mw,10
+median_mw,Monocots,Early eudicots & Saxifragales,15,9,1.9889884257643078,0.04670248051276172,0.26610671107802764,ns,median_mw,10
+median_mw,Monocots,Rosids,15,47,1.6031380864034661,0.10890417097370904,0.3811645984079816,ns,median_mw,10
+median_mw,Monocots,Caryophyllales & Santalales,15,11,0.4444495876187433,0.6567175688365139,0.7637679093960815,ns,median_mw,10
+median_mw,Monocots,Asterids,15,26,0.9052205916118441,0.3653485350483438,0.6108575181162498,ns,median_mw,10
+median_mw,Early eudicots & Saxifragales,Rosids,9,47,-0.9982566081420402,0.31815494289401486,0.5938892267354944,ns,median_mw,10
+median_mw,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,-1.4733092841635838,0.14066765841721557,0.3938694435682036,ns,median_mw,10
+median_mw,Early eudicots & Saxifragales,Asterids,9,26,-1.4095215167039221,0.15868101568802484,0.40391531266042685,ns,median_mw,10
+median_mw,Rosids,Caryophyllales & Santalales,47,11,-0.8926530754425099,0.37204298670396047,0.6108575181162498,ns,median_mw,10
+median_mw,Rosids,Asterids,47,26,-0.7442714564403674,0.45671226588590014,0.6393971722402602,ns,median_mw,10
+median_mw,Caryophyllales & Santalales,Asterids,11,26,0.32549966625167304,0.7448029351751203,0.7809057171483411,ns,median_mw,10
+median_logp,Non-seed vascular plants,Gymnosperms,9,6,0.18884828885342744,0.8502117236909149,0.9156126255132929,ns,median_logp,10
+median_logp,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,0.6024550846947612,0.5468712524004959,0.8182102250935352,ns,median_logp,10
+median_logp,Non-seed vascular plants,Monocots,9,15,1.1337840283001706,0.2568851521993064,0.6538894783255073,ns,median_logp,10
+median_logp,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-0.42848757618299593,0.6682961768185794,0.8182102250935352,ns,median_logp,10
+median_logp,Non-seed vascular plants,Rosids,9,47,0.3346632009351413,0.7378791636439006,0.8264246632811687,ns,median_logp,10
+median_logp,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-1.1578455243591637,0.2469270816504999,0.6538894783255073,ns,median_logp,10
+median_logp,Non-seed vascular plants,Asterids,9,26,-0.44309627355456294,0.6576961004600037,0.8182102250935352,ns,median_logp,10
+median_logp,Gymnosperms,Early angiosperms & magnoliids,6,8,0.35775311427369083,0.7205280807038377,0.8264246632811687,ns,median_logp,10
+median_logp,Gymnosperms,Monocots,6,15,0.7835974587143504,0.43327634743608606,0.8087825152140273,ns,median_logp,10
+median_logp,Gymnosperms,Early eudicots & Saxifragales,6,9,-0.5720992279971469,0.5672547521223359,0.8182102250935352,ns,median_logp,10
+median_logp,Gymnosperms,Rosids,6,47,0.051290846202473254,0.9590937621774189,0.9590937621774189,ns,median_logp,10
+median_logp,Gymnosperms,Caryophyllales & Santalales,6,11,-1.2215195534878704,0.2218893668024664,0.6538894783255073,ns,median_logp,10
+median_logp,Gymnosperms,Asterids,6,26,-0.5981257114248374,0.5497560555262204,0.8182102250935352,ns,median_logp,10
+median_logp,Early angiosperms & magnoliids,Monocots,8,15,0.423265919771735,0.6721012563268325,0.8182102250935352,ns,median_logp,10
+median_logp,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-1.0181490931341461,0.3086071077090407,0.7147109326355057,ns,median_logp,10
+median_logp,Early angiosperms & magnoliids,Rosids,8,47,-0.4470333821301435,0.6548509573495263,0.8182102250935352,ns,median_logp,10
+median_logp,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-1.749995875549564,0.08011902542325312,0.5608331779627719,ns,median_logp,10
+median_logp,Early angiosperms & magnoliids,Asterids,8,26,-1.1479150109494387,0.2510036507332967,0.6538894783255073,ns,median_logp,10
+median_logp,Monocots,Early eudicots & Saxifragales,15,9,-1.61284770222982,0.10677759955827251,0.597954557526326,ns,median_logp,10
+median_logp,Monocots,Rosids,15,47,-1.201399270016914,0.2295963591658271,0.6538894783255073,ns,median_logp,10
+median_logp,Monocots,Caryophyllales & Santalales,15,11,-2.5152732879619433,0.011894014658005679,0.333032410424159,ns,median_logp,10
+median_logp,Monocots,Asterids,15,26,-2.002903873761217,0.04518760722872409,0.5152073106800242,ns,median_logp,10
+median_logp,Early eudicots & Saxifragales,Rosids,9,47,0.8898103930746095,0.373567705013858,0.747135410027716,ns,median_logp,10
+median_logp,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,-0.7084439631274557,0.47866959947935617,0.8182102250935352,ns,median_logp,10
+median_logp,Early eudicots & Saxifragales,Asterids,9,26,0.07918671905837157,0.9368841080753777,0.9590937621774189,ns,median_logp,10
+median_logp,Rosids,Caryophyllales & Santalales,47,11,-1.9172924915821101,0.05520078328714545,0.5152073106800242,ns,median_logp,10
+median_logp,Rosids,Asterids,47,26,-1.1993322692413415,0.2303987723522901,0.6538894783255073,ns,median_logp,10
+median_logp,Caryophyllales & Santalales,Asterids,11,26,0.9704342653187314,0.3318300758664848,0.7147109326355057,ns,median_logp,10
+median_tpsa,Non-seed vascular plants,Gymnosperms,9,6,-1.1738274614305897,0.240464142073433,0.33664979890280616,ns,median_tpsa,10
+median_tpsa,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,-2.8677014252878665,0.004134655210792131,0.02894258647554492,*,median_tpsa,10
+median_tpsa,Non-seed vascular plants,Monocots,9,15,-3.045700247558068,0.0023213913949339787,0.02894258647554492,*,median_tpsa,10
+median_tpsa,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,0.03727466978861296,0.9702660020338162,0.9763508533998986,ns,median_tpsa,10
+median_tpsa,Non-seed vascular plants,Rosids,9,47,-1.735634853997567,0.08262841909029402,0.23135957345282324,ns,median_tpsa,10
+median_tpsa,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-1.583899474606329,0.11321659698039556,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Non-seed vascular plants,Asterids,9,26,-2.0103111034711483,0.04439827244121257,0.1622216130116804,ns,median_tpsa,10
+median_tpsa,Gymnosperms,Early angiosperms & magnoliids,6,8,-1.4346342148157174,0.15139135937446593,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Gymnosperms,Monocots,6,15,-1.377754368581175,0.1682791389231871,0.26176754943606884,ns,median_tpsa,10
+median_tpsa,Gymnosperms,Early eudicots & Saxifragales,6,9,1.2071669396250682,0.22736785966050338,0.3350684247628471,ns,median_tpsa,10
+median_tpsa,Gymnosperms,Rosids,6,47,-0.02964415095694743,0.9763508533998986,0.9763508533998986,ns,median_tpsa,10
+median_tpsa,Gymnosperms,Caryophyllales & Santalales,6,11,-0.18373388721265976,0.8542222232899391,0.9211421222919538,ns,median_tpsa,10
+median_tpsa,Gymnosperms,Asterids,6,26,-0.35066253834550726,0.7258415330934881,0.9211421222919538,ns,median_tpsa,10
+median_tpsa,Early angiosperms & magnoliids,Monocots,8,15,0.2495958447660804,0.8028999123022995,0.9211421222919538,ns,median_tpsa,10
+median_tpsa,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,2.903863166628683,0.0036858921298203594,0.02894258647554492,*,median_tpsa,10
+median_tpsa,Early angiosperms & magnoliids,Rosids,8,47,1.9922007837651883,0.04634903228905154,0.1622216130116804,ns,median_tpsa,10
+median_tpsa,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,1.466754773355347,0.14244277682346773,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Early angiosperms & magnoliids,Asterids,8,26,1.5235380392271591,0.1276241513894135,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Monocots,Early eudicots & Saxifragales,15,9,3.087374595301166,0.002019329537413574,0.02894258647554492,*,median_tpsa,10
+median_tpsa,Monocots,Rosids,15,47,2.2008500527539496,0.027746640842288724,0.15538118871681686,ns,median_tpsa,10
+median_tpsa,Monocots,Caryophyllales & Santalales,15,11,1.4416384601363859,0.14940439266751285,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Monocots,Asterids,15,26,1.5627555484585518,0.11811010329449763,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Early eudicots & Saxifragales,Rosids,9,47,-1.78392780208117,0.0744353975831334,0.23135957345282324,ns,median_tpsa,10
+median_tpsa,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,-1.6229934780932471,0.10459079906137642,0.24935047426382623,ns,median_tpsa,10
+median_tpsa,Early eudicots & Saxifragales,Asterids,9,26,-2.055745153763289,0.03980708710650578,0.1622216130116804,ns,median_tpsa,10
+median_tpsa,Rosids,Caryophyllales & Santalales,47,11,-0.2400331541222959,0.8103045545293451,0.9211421222919538,ns,median_tpsa,10
+median_tpsa,Rosids,Asterids,47,26,-0.5972140803057814,0.5503644596913608,0.733819279588481,ns,median_tpsa,10
+median_tpsa,Caryophyllales & Santalales,Asterids,11,26,-0.1823013281797647,0.8553462564139571,0.9211421222919538,ns,median_tpsa,10
+median_fsp3,Non-seed vascular plants,Gymnosperms,9,6,-2.02079323974244,0.04330117292914171,0.44243322365794935,ns,median_fsp3,10
+median_fsp3,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,-0.12610061791830313,0.8996522783486742,0.8996522783486742,ns,median_fsp3,10
+median_fsp3,Non-seed vascular plants,Monocots,9,15,-0.8412925830726894,0.40018404469919744,0.6398392174791921,ns,median_fsp3,10
+median_fsp3,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-1.4873039447678185,0.13693455313055747,0.49770167094026835,ns,median_fsp3,10
+median_fsp3,Non-seed vascular plants,Rosids,9,47,-1.6813007239621163,0.09270451735130307,0.49770167094026835,ns,median_fsp3,10
+median_fsp3,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-1.064467830174733,0.2871168201762723,0.6369557327704514,ns,median_fsp3,10
+median_fsp3,Non-seed vascular plants,Asterids,9,26,-0.40771915449003915,0.6834798732704696,0.8057507320318303,ns,median_fsp3,10
+median_fsp3,Gymnosperms,Early angiosperms & magnoliids,6,8,1.8586350788083406,0.06307888136276837,0.44243322365794935,ns,median_fsp3,10
+median_fsp3,Gymnosperms,Monocots,6,15,1.4705258167015134,0.14141939885683202,0.49770167094026835,ns,median_fsp3,10
+median_fsp3,Gymnosperms,Early eudicots & Saxifragales,6,9,0.6905081502606661,0.4898746863209958,0.7037524825753029,ns,median_fsp3,10
+median_fsp3,Gymnosperms,Rosids,6,47,1.0456352947085024,0.29572944735770956,0.6369557327704514,ns,median_fsp3,10
+median_fsp3,Gymnosperms,Caryophyllales & Santalales,6,11,1.1558357226771676,0.2477483582190991,0.6306321845577068,ns,median_fsp3,10
+median_fsp3,Gymnosperms,Asterids,6,26,2.0034136480159037,0.04513290775112075,0.44243322365794935,ns,median_fsp3,10
+median_fsp3,Early angiosperms & magnoliids,Monocots,8,15,-0.6702783830680992,0.5026803446966449,0.7037524825753029,ns,median_fsp3,10
+median_fsp3,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-1.3167961495347629,0.18790696386891098,0.5261394988329507,ns,median_fsp3,10
+median_fsp3,Early angiosperms & magnoliids,Rosids,8,47,-1.4392816208950738,0.15007074797819403,0.49770167094026835,ns,median_fsp3,10
+median_fsp3,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-0.8977933414161935,0.3692957352069341,0.6398392174791921,ns,median_fsp3,10
+median_fsp3,Early angiosperms & magnoliids,Asterids,8,26,-0.2384592187616085,0.8115249418245154,0.8415814211513493,ns,median_fsp3,10
+median_fsp3,Monocots,Early eudicots & Saxifragales,15,9,-0.821563778779528,0.4113252112366235,0.6398392174791921,ns,median_fsp3,10
+median_fsp3,Monocots,Rosids,15,47,-0.8667045206201898,0.3861039278967305,0.6398392174791921,ns,median_fsp3,10
+median_fsp3,Monocots,Caryophyllales & Santalales,15,11,-0.3116767270849404,0.7552862166227523,0.8415814211513493,ns,median_fsp3,10
+median_fsp3,Monocots,Asterids,15,26,0.607696186939081,0.5433889924728963,0.7245186566305284,ns,median_fsp3,10
+median_fsp3,Early eudicots & Saxifragales,Rosids,9,47,0.2456457143709894,0.805956498286316,0.8415814211513493,ns,median_fsp3,10
+median_fsp3,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,0.4954297070161255,0.6202968293136782,0.7894686918537723,ns,median_fsp3,10
+median_fsp3,Early eudicots & Saxifragales,Asterids,9,26,1.4051538396772658,0.1599755370879434,0.49770167094026835,ns,median_fsp3,10
+median_fsp3,Rosids,Caryophyllales & Santalales,47,11,0.39798195863037317,0.6906434845987117,0.8057507320318303,ns,median_fsp3,10
+median_fsp3,Rosids,Asterids,47,26,1.8577484393003318,0.0632047462368499,0.44243322365794935,ns,median_fsp3,10
+median_fsp3,Caryophyllales & Santalales,Asterids,11,26,0.8917863464252703,0.37250746136717566,0.6398392174791921,ns,median_fsp3,10
+prevalence_methoxy,Non-seed vascular plants,Gymnosperms,9,6,-0.41310620146658295,0.6795288060582056,0.7477958288204494,ns,prevalence_methoxy,10
+prevalence_methoxy,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.0364599842080129,0.29998759858892327,0.4940972212052854,ns,prevalence_methoxy,10
+prevalence_methoxy,Non-seed vascular plants,Monocots,9,15,1.7129302596164877,0.08672537058361038,0.24851801203433665,ns,prevalence_methoxy,10
+prevalence_methoxy,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-1.6888461844594596,0.09124891054631923,0.24851801203433665,ns,prevalence_methoxy,10
+prevalence_methoxy,Non-seed vascular plants,Rosids,9,47,-0.35700396834112585,0.7210888349340048,0.7477958288204494,ns,prevalence_methoxy,10
+prevalence_methoxy,Non-seed vascular plants,Caryophyllales & Santalales,9,11,0.41457307825219447,0.6784544596823415,0.7477958288204494,ns,prevalence_methoxy,10
+prevalence_methoxy,Non-seed vascular plants,Asterids,9,26,0.9137855029952052,0.36082956542693995,0.5317488332607536,ns,prevalence_methoxy,10
+prevalence_methoxy,Gymnosperms,Early angiosperms & magnoliids,6,8,1.3356901218598722,0.18165057941810425,0.3912474018236091,ns,prevalence_methoxy,10
+prevalence_methoxy,Gymnosperms,Monocots,6,15,1.9459039281368151,0.051666281012078416,0.20666512404831366,ns,prevalence_methoxy,10
+prevalence_methoxy,Gymnosperms,Early eudicots & Saxifragales,6,9,-1.097443747330417,0.27244745845742324,0.4767830523004907,ns,prevalence_methoxy,10
+prevalence_methoxy,Gymnosperms,Rosids,6,47,0.20259480443054384,0.8394517512562658,0.8394517512562658,ns,prevalence_methoxy,10
+prevalence_methoxy,Gymnosperms,Caryophyllales & Santalales,6,11,0.7961527600458955,0.42594325124846105,0.5963205517478455,ns,prevalence_methoxy,10
+prevalence_methoxy,Gymnosperms,Asterids,6,26,1.261019101724036,0.20730196511135623,0.41460393022271247,ns,prevalence_methoxy,10
+prevalence_methoxy,Early angiosperms & magnoliids,Monocots,8,15,0.499330804279846,0.6175463574768194,0.7477958288204494,ns,prevalence_methoxy,10
+prevalence_methoxy,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-2.6748814439604174,0.0074755680869287916,0.05232897660850154,ns,prevalence_methoxy,10
+prevalence_methoxy,Early angiosperms & magnoliids,Rosids,8,47,-1.656443311516284,0.09763207615634655,0.24851801203433665,ns,prevalence_methoxy,10
+prevalence_methoxy,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-0.6828480079291201,0.4947028901857587,0.6596038535810116,ns,prevalence_methoxy,10
+prevalence_methoxy,Early angiosperms & magnoliids,Asterids,8,26,-0.3715669623568901,0.7102152908814163,0.7477958288204494,ns,prevalence_methoxy,10
+prevalence_methoxy,Monocots,Early eudicots & Saxifragales,15,9,-3.601117695612738,3.168520885985459e-4,0.008871858480759285,**,prevalence_methoxy,10
+prevalence_methoxy,Monocots,Rosids,15,47,-2.873459961892811,0.004060025361503503,0.03789357004069936,*,prevalence_methoxy,10
+prevalence_methoxy,Monocots,Caryophyllales & Santalales,15,11,-1.3500115739436602,0.1770122703686185,0.3912474018236091,ns,prevalence_methoxy,10
+prevalence_methoxy,Monocots,Asterids,15,26,-1.1375451096677291,0.2553104781070541,0.47657955913316763,ns,prevalence_methoxy,10
+prevalence_methoxy,Early eudicots & Saxifragales,Rosids,9,47,1.8310599788331945,0.06709159118573764,0.23482056915008173,ns,prevalence_methoxy,10
+prevalence_methoxy,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,2.185849899711675,0.028826588654804232,0.1614288964669037,ns,prevalence_methoxy,10
+prevalence_methoxy,Early eudicots & Saxifragales,Asterids,9,26,2.97231809136066,0.002955602958981267,0.03789357004069936,*,prevalence_methoxy,10
+prevalence_methoxy,Rosids,Caryophyllales & Santalales,47,11,0.9441446966708713,0.34509571137999756,0.5317488332607536,ns,prevalence_methoxy,10
+prevalence_methoxy,Rosids,Asterids,47,26,1.9773814497478994,0.04799852919521294,0.20666512404831366,ns,prevalence_methoxy,10
+prevalence_methoxy,Caryophyllales & Santalales,Asterids,11,26,0.4644844360060554,0.6423007078821823,0.7477958288204494,ns,prevalence_methoxy,10
+prevalence_prenyl,Non-seed vascular plants,Gymnosperms,9,6,-0.4320731928663672,0.6656882174012007,0.8180236467772218,ns,prevalence_prenyl,10
+prevalence_prenyl,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,1.0764027049608702,0.2817471931542922,0.6068401083323216,ns,prevalence_prenyl,10
+prevalence_prenyl,Non-seed vascular plants,Monocots,9,15,0.8007858291816595,0.4232556441459659,0.790077202405803,ns,prevalence_prenyl,10
+prevalence_prenyl,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,0.22190610241271172,0.8243869799244778,0.9233134175154153,ns,prevalence_prenyl,10
+prevalence_prenyl,Non-seed vascular plants,Rosids,9,47,1.4146360175138872,0.1571752428053023,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Non-seed vascular plants,Caryophyllales & Santalales,9,11,-0.44171219936336864,0.6586974807027159,0.8180236467772218,ns,prevalence_prenyl,10
+prevalence_prenyl,Non-seed vascular plants,Asterids,9,26,1.4834847038105234,0.13794567748292866,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Gymnosperms,Early angiosperms & magnoliids,6,8,1.390137890417273,0.16448700934311816,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Gymnosperms,Monocots,6,15,1.1704136795737445,0.2418345332626872,0.6059324686584817,ns,prevalence_prenyl,10
+prevalence_prenyl,Gymnosperms,Early eudicots & Saxifragales,6,9,0.6305520447131086,0.5283334629892958,0.8111600272522336,ns,prevalence_prenyl,10
+prevalence_prenyl,Gymnosperms,Rosids,6,47,1.7125676988864125,0.08679210001571191,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Gymnosperms,Caryophyllales & Santalales,6,11,0.05751052787526185,0.9541385199584591,0.9826429294414077,ns,prevalence_prenyl,10
+prevalence_prenyl,Gymnosperms,Asterids,6,26,1.7695640419720182,0.07679979341717982,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Early angiosperms & magnoliids,Monocots,8,15,-0.42347601347246405,0.6719479955670036,0.8180236467772218,ns,prevalence_prenyl,10
+prevalence_prenyl,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,-0.861122163968696,0.389170763287837,0.778341526575674,ns,prevalence_prenyl,10
+prevalence_prenyl,Early angiosperms & magnoliids,Rosids,8,47,-0.021755577962895654,0.9826429294414077,0.9826429294414077,ns,prevalence_prenyl,10
+prevalence_prenyl,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,-1.5529037915287827,0.1204461208611699,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Early angiosperms & magnoliids,Asterids,8,26,0.12538696624842405,0.9002172061071307,0.9694646834999869,ns,prevalence_prenyl,10
+prevalence_prenyl,Monocots,Early eudicots & Saxifragales,15,9,-0.5526872643732328,0.580477575606758,0.8126686058494611,ns,prevalence_prenyl,10
+prevalence_prenyl,Monocots,Rosids,15,47,0.5971158768086288,0.5504300184925871,0.8111600272522336,ns,prevalence_prenyl,10
+prevalence_prenyl,Monocots,Caryophyllales & Santalales,15,11,-1.3507112704997368,0.17678794053763855,0.5500069261170977,ns,prevalence_prenyl,10
+prevalence_prenyl,Monocots,Asterids,15,26,0.7281487712041795,0.46652252142570655,0.8111600272522336,ns,prevalence_prenyl,10
+prevalence_prenyl,Early eudicots & Saxifragales,Rosids,9,47,1.1271351504632667,0.25968534371077784,0.6059324686584817,ns,prevalence_prenyl,10
+prevalence_prenyl,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,-0.6744492830367724,0.5000257193813757,0.8111600272522336,ns,prevalence_prenyl,10
+prevalence_prenyl,Early eudicots & Saxifragales,Asterids,9,26,1.2130036217693339,0.225128435811431,0.6059324686584817,ns,prevalence_prenyl,10
+prevalence_prenyl,Rosids,Caryophyllales & Santalales,47,11,-2.129483180205842,0.033214305015876466,0.46500027022227053,ns,prevalence_prenyl,10
+prevalence_prenyl,Rosids,Asterids,47,26,0.24145557350991786,0.8092020451237153,0.9233134175154153,ns,prevalence_prenyl,10
+prevalence_prenyl,Caryophyllales & Santalales,Asterids,11,26,2.147086924880224,0.03178636203497117,0.46500027022227053,ns,prevalence_prenyl,10
+prevalence_sugar,Non-seed vascular plants,Gymnosperms,9,6,-0.3994286213467413,0.689577408245903,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Non-seed vascular plants,Early angiosperms & magnoliids,9,8,-0.7706258414826679,0.4409287395432474,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Non-seed vascular plants,Monocots,9,15,-1.7403675644393715,0.08179449716684788,0.7355187432406182,ns,prevalence_sugar,10
+prevalence_sugar,Non-seed vascular plants,Early eudicots & Saxifragales,9,9,-0.3921144363616111,0.6949736612643947,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Non-seed vascular plants,Rosids,9,47,-0.6958069198625707,0.48654975506706544,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Non-seed vascular plants,Caryophyllales & Santalales,9,11,0.39463680387246824,0.6931109479741917,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Non-seed vascular plants,Asterids,9,26,-0.09833236509843117,0.9216683790759798,0.9558042449676827,ns,prevalence_sugar,10
+prevalence_sugar,Gymnosperms,Early angiosperms & magnoliids,6,8,-0.3035569373821904,0.7614654632410491,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Gymnosperms,Monocots,6,15,-1.0833049973376638,0.2786730678956102,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Gymnosperms,Early eudicots & Saxifragales,6,9,0.04871080748131019,0.961149762976748,0.961149762976748,ns,prevalence_sugar,10
+prevalence_sugar,Gymnosperms,Rosids,6,47,-0.0983862544441851,0.9216255890874744,0.9558042449676827,ns,prevalence_sugar,10
+prevalence_sugar,Gymnosperms,Caryophyllales & Santalales,6,11,0.7642930667836172,0.44469261613562705,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Gymnosperms,Asterids,6,26,0.3808425204144665,0.703320105889268,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Early angiosperms & magnoliids,Monocots,8,15,-0.8208053503498355,0.41175715052044537,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Early angiosperms & magnoliids,Early eudicots & Saxifragales,8,9,0.39021896184773686,0.6963746413286565,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Early angiosperms & magnoliids,Rosids,8,47,0.3171214403406408,0.7511514568307284,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Early angiosperms & magnoliids,Caryophyllales & Santalales,8,11,1.1876053016128438,0.23498894814833973,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Early angiosperms & magnoliids,Asterids,8,26,0.8321148698871232,0.40534410929019055,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Monocots,Early eudicots & Saxifragales,15,9,1.3019702971075826,0.1929265396313783,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Monocots,Rosids,15,47,1.6207367607312875,0.10507410617723116,0.7355187432406182,ns,prevalence_sugar,10
+prevalence_sugar,Monocots,Caryophyllales & Santalales,15,11,2.2954044215893323,0.021709958197803855,0.44633937710515714,ns,prevalence_sugar,10
+prevalence_sugar,Monocots,Asterids,15,26,2.1458946583703966,0.0318813840789398,0.44633937710515714,ns,prevalence_sugar,10
+prevalence_sugar,Early eudicots & Saxifragales,Rosids,9,47,-0.18778465634066954,0.851045464257279,0.9531709199681526,ns,prevalence_sugar,10
+prevalence_sugar,Early eudicots & Saxifragales,Caryophyllales & Santalales,9,11,0.8058898942237778,0.4203063387262281,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Early eudicots & Saxifragales,Asterids,9,26,0.37961545101797783,0.704230889695093,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Rosids,Caryophyllales & Santalales,47,11,1.2854378440558096,0.19863932385055877,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Rosids,Asterids,47,26,0.8802304536057165,0.3787344790547988,0.888376373781224,ns,prevalence_sugar,10
+prevalence_sugar,Caryophyllales & Santalales,Asterids,11,26,-0.5988794282920973,0.5492532905790788,0.888376373781224,ns,prevalence_sugar,10

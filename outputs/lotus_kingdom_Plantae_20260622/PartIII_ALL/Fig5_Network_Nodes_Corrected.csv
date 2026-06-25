@@ -1,0 +1,41 @@
+name,best_inchikey,display_motif,class_np,lead_z,lead_pchembl,type,degree
+Aryl methoxy 2-arylbenzofurans,KJOUKFLQGCLIOG-UHFFFAOYSA-N,Aryl methoxy,2-arylbenzofurans,2.27353923173819,7.34,Chemical,2
+Aryl methoxy Chalcones,ASIBRDHUNIEPQI-UHFFFAOYSA-N,Aryl methoxy,Chalcones,2.59871618914743,6.27,Chemical,8
+Aryl methoxy Flavanones,REBBZOCNEVVAPX-UHFFFAOYSA-N,Aryl methoxy,Flavanones,3.21158248437421,6.93,Chemical,6
+Aryl methoxy Flavans,BJVDGVPUXJNXHR-QGZVFWFLSA-N,Aryl methoxy,Flavans,2.25215596190237,6.92,Chemical,1
+Aryl methoxy Isoflavanones,BCRQIJDETOPQBA-SJORKVTESA-N,Aryl methoxy,Isoflavanones,3.37597056155685,6.7,Chemical,1
+Aryl methoxy Isoflavones,TUTSVLUUGMNALO-UHFFFAOYSA-N,Aryl methoxy,Isoflavones,2.50833777375099,6.22,Chemical,5
+Aryl methoxy Pterocarpan,XCRBPIBUMBLGCZ-FZKQIMNGSA-N,Aryl methoxy,Pterocarpan,2.7148089065507652,7.97,Chemical,1
+Aryl methoxy Rotenoids,PYRZRPSTTNKOCS-MSOLQXFVSA-N,Aryl methoxy,Rotenoids,3.42979843557933,7.82,Chemical,1
+Multi-motif 2-arylbenzofurans,WLJKBVCQTOXSPP-LZYBPNLTSA-N,Multi-motif,2-arylbenzofurans,0.881526296615,5.32,Chemical,2
+Multi-motif Chalcones,PIAPWPAWQGDOMN-SXAWMYDMSA-N,Multi-motif,Chalcones,1.178279607818912,6.22,Chemical,6
+Multi-motif Flavanones,VOCGSQHKPZSIKB-UHFFFAOYSA-N,Multi-motif,Flavanones,0.694932107299911,5.38,Chemical,8
+Multi-motif Isoflavanones,RYBGOKVPJPOMQW-UHFFFAOYSA-N,Multi-motif,Isoflavanones,1.25192219338167,5.54,Chemical,2
+Multi-motif Isoflavones,JQNSUDIGIIGIOL-UHFFFAOYSA-N,Multi-motif,Isoflavones,1.17919281921892,6.1,Chemical,2
+Multi-motif Pterocarpan,SHSISVOIQZYVQR-AFMDSPMNSA-N,Multi-motif,Pterocarpan,2.94104286134116,7.005,Chemical,3
+Multi-motif Rotenoids,ZJMLELXRQUXRIU-HBGVWJBISA-N,Multi-motif,Rotenoids,2.42375040834839,6.86,Chemical,1
+Prenyl-like 2-arylbenzofurans,SYIDABHGIYOYPG-KEBDBYFISA-N,Prenyl-like,2-arylbenzofurans,2.47096093400904,6.485,Chemical,3
+Prenyl-like Chalcones,BHDBRCJCCXGBOF-GCFMLEDASA-N,Prenyl-like,Chalcones,2.41488230587775,7.01,Chemical,6
+Prenyl-like Flavanones,OMWKLHZQLGFNOZ-JINQPTGOSA-N,Prenyl-like,Flavanones,1.73551563488244,6.46,Chemical,9
+Prenyl-like Isoflavanones,RIWDYFGEQJAMKI-GOSISDBHSA-N,Prenyl-like,Isoflavanones,1.31437046017836,6.08,Chemical,1
+Prenyl-like Isoflavones,ZBHUUXLHDOUMKM-REZTVBANSA-N,Prenyl-like,Isoflavones,2.41795935835454,6.17,Chemical,3
+Prenyl-like Pterocarpan,AJYSQFRTOQQIHC-CUNXSJBXSA-N,Prenyl-like,Pterocarpan,1.76811754055618,6.4,Chemical,4
+Simple 2-arylbenzofurans,HMTMYIWMPJSCAZ-UHFFFAOYSA-N,Simple,2-arylbenzofurans,4.5568372135538855,9.01,Chemical,4
+Simple Chalcones,IVBQZFJZIGYXMK-UHFFFAOYSA-N,Simple,Chalcones,2.23252858734109,6.905,Chemical,8
+Simple Dihydroflavonols,UKRJEVDCOVVSAB-ZLPBPMGLSA-N,Simple,Dihydroflavonols,1.5783970177709,5.55,Chemical,4
+Simple Flavan-3-ols,WMBWREPUVVBILR-GHTZIAJQSA-N,Simple,Flavan-3-ols,2.12117412404107,6.82,Chemical,8
+Simple Flavanones,JXVOAHGNNBAJCD-ZENAZSQFSA-N,Simple,Flavanones,2.35683529289588,7,Chemical,9
+Simple Isoflavones,RIDRQWKYWXHAOD-UHFFFAOYSA-N,Simple,Isoflavones,1.73531119800922,6.1,Chemical,4
+Simple Proanthocyanins,BYSRPHRKESMCPO-XDJXAWJCSA-N,Simple,Proanthocyanins,0.838784980111967,5.46,Chemical,4
+Simple Pterocarpan,CJUFYKORDZSOLF-INIZCTEOSA-N,Simple,Pterocarpan,1.67492980333205,5.925,Chemical,3
+Simple Rotenoids,ZBTGBOZTIJWBIP-ICPLQIHGSA-N,Simple,Rotenoids,0.8773272187664121,5.78,Chemical,1
+Sugar-like Flavanones,OBKKEZLIABHSGY-DOYQYKRZSA-N,Sugar-like,Flavanones,1.46020338882405,6.19,Chemical,2
+General Assays and Safety,,Target,,,,Target,14
+Inflammation and Proteolysis,,Target,,,,Target,11
+Cell Signaling and Survival,,Target,,,,Target,21
+Gene Regulation,,Target,,,,Target,7
+Infectious Diseases,,Target,,,,Target,18
+Metabolic Enzymes,,Target,,,,Target,15
+Phenotypic: Cancer and Cells,,Target,,,,Target,26
+Transporters and Ion Channels,,Target,,,,Target,4
+Neuroscience Targets,,Target,,,,Target,6

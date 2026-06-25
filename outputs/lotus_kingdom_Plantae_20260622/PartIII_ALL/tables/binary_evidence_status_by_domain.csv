@@ -1,0 +1,39 @@
+target_domain_macro,binary_evidence_status,n_compounds,n_compound_domain_combinations,n_quality_records,fraction_within_domain
+Cell Signaling and Survival,above_cutoff_only,121,121,151,0.4959016393442623
+Cell Signaling and Survival,active_only,78,78,135,0.319672131147541
+Cell Signaling and Survival,indeterminate,2,2,2,0.00819672131147541
+Cell Signaling and Survival,mixed_evidence,43,43,253,0.1762295081967213
+Gene Regulation,above_cutoff_only,22,22,37,0.3492063492063492
+Gene Regulation,active_only,29,29,44,0.4603174603174603
+Gene Regulation,mixed_evidence,12,12,133,0.19047619047619047
+General Assays and Safety,above_cutoff_only,106,106,139,0.4491525423728814
+General Assays and Safety,active_only,97,97,107,0.4110169491525424
+General Assays and Safety,indeterminate,1,1,1,0.00423728813559322
+General Assays and Safety,mixed_evidence,32,32,152,0.13559322033898305
+Infectious Diseases,above_cutoff_only,199,199,412,0.5236842105263158
+Infectious Diseases,active_only,87,87,173,0.22894736842105262
+Infectious Diseases,indeterminate,6,6,7,0.015789473684210527
+Infectious Diseases,mixed_evidence,88,88,668,0.23157894736842105
+Inflammation and Proteolysis,above_cutoff_only,99,99,165,0.5722543352601156
+Inflammation and Proteolysis,active_only,36,36,54,0.20809248554913296
+Inflammation and Proteolysis,indeterminate,1,1,2,0.005780346820809248
+Inflammation and Proteolysis,mixed_evidence,37,37,159,0.2138728323699422
+Metabolic Enzymes,above_cutoff_only,81,81,120,0.3333333333333333
+Metabolic Enzymes,active_only,92,92,151,0.3786008230452675
+Metabolic Enzymes,indeterminate,3,3,3,0.012345679012345678
+Metabolic Enzymes,mixed_evidence,67,67,448,0.2757201646090535
+Miscellaneous,above_cutoff_only,12,12,50,0.6
+Miscellaneous,active_only,1,1,1,0.05
+Miscellaneous,indeterminate,6,6,6,0.3
+Miscellaneous,mixed_evidence,1,1,2,0.05
+Neuroscience Targets,above_cutoff_only,44,44,109,0.4230769230769231
+Neuroscience Targets,active_only,37,37,57,0.3557692307692308
+Neuroscience Targets,mixed_evidence,23,23,152,0.22115384615384615
+Phenotypic: Cancer and Cells,above_cutoff_only,403,403,1642,0.5988112927191679
+Phenotypic: Cancer and Cells,active_only,102,102,259,0.1515601783060921
+Phenotypic: Cancer and Cells,indeterminate,51,51,2435,0.07578008915304606
+Phenotypic: Cancer and Cells,mixed_evidence,117,117,1850,0.1738484398216939
+Transporters and Ion Channels,above_cutoff_only,29,29,48,0.4142857142857143
+Transporters and Ion Channels,active_only,21,21,33,0.3
+Transporters and Ion Channels,indeterminate,1,1,1,0.014285714285714285
+Transporters and Ion Channels,mixed_evidence,19,19,155,0.2714285714285714

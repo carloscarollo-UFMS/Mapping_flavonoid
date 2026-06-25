@@ -1,0 +1,10 @@
+target_domain_macro,n_compounds,n_rows,n_parameters,r_squared,adjusted_r_squared,condition_number,weighting,status
+Cell Signaling and Survival,212,212,15,0.20263997951598214,0.14597480039529054,25.390925514552006,sqrt_n_records,fitted
+Gene Regulation,56,,,,,,,insufficient_n
+General Assays and Safety,210,210,15,0.2615673273031368,0.208551648237721,31.038546997058738,sqrt_n_records,fitted
+Infectious Diseases,282,282,13,0.25267384861466935,0.2193358790361416,17.795816463396683,sqrt_n_records,fitted
+Inflammation and Proteolysis,147,147,13,0.26947455229318573,0.20405436294630686,22.02021140711422,sqrt_n_records,fitted
+Metabolic Enzymes,224,224,15,0.05030701414718402,-0.013308783948219993,40.620219836815764,sqrt_n_records,fitted
+Neuroscience Targets,94,94,10,0.1787357359181271,0.09074313619506924,25.730255134760714,sqrt_n_records,fitted
+Phenotypic: Cancer and Cells,443,443,17,0.18909556558504478,0.15863906100607927,44.706732148400775,sqrt_n_records,fitted
+Transporters and Ion Channels,61,61,9,0.20780296332674597,0.08592649614624548,15.631350033001262,sqrt_n_records,fitted

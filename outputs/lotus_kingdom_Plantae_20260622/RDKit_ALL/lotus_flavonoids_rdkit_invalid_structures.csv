@@ -1,0 +1,1 @@
+inchikey,input_smiles,parse_status,error_message,input_canonical_smiles,standardized_smiles,rdkit_inchikey,input_fragment_count,stereo_fallback_used,compound_has_no_valid_structure

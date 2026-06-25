@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Taxonomic distribution, structural diversity, and functional evidence of selected flavonoid subclasses across vascular plant families"
+type: software
+authors:
+  - family-names: "Carollo"
+    given-names: "Carlos Alexandre"
+    affiliation: "Federal University of Mato Grosso do Sul (UFMS)"
+    email: "carlos.carollo@ufms.br"
+repository-code: "https://github.com/carloscarollo-UFMS/Mapping_flavonoid"
+url: "https://github.com/carloscarollo-UFMS/Mapping_flavonoid"
+version: "1.0.0"
+date-released: "2026-06-25"
+keywords:
+  - "flavonoids"
+  - "LOTUS"
+  - "ChEMBL"
+  - "chemotaxonomy"
+  - "Bemis-Murcko scaffolds"
+  - "bioactivity"
+  - "vascular plant families"
+abstract: >-
+  This repository contains the analytical workflow, processed datasets,
+  audit files, statistical outputs, and reproducibility resources associated
+  with a comparative analysis of 17 selected and harmonized flavonoid
+  subclasses across vascular plant families.

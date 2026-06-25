@@ -1,0 +1,11 @@
+stage,n_records
+01_raw_api_records,14243
+02_selected_standard_type,14243
+03_numeric_positive_value,13560
+04_convertible_concentration_unit,11050
+05_not_potential_duplicate,14081
+06_validity_allowed,13556
+07_quality_records,10316
+08_extended_exact_quantitative,4951
+09_primary_pchembl_quantitative,4586
+10_binary_classifiable_at_10uM,6517

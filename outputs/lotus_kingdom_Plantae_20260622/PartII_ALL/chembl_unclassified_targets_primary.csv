@@ -1,0 +1,4 @@
+target_chembl_id,target_pref_name_final,target_type_final,assay_description_final,target_classification_basis,n_records
+CHEMBL3305,Sex hormone-binding globulin,SINGLE PROTEIN,Displacement of [3H]5alpha dihydrotestosterone from human sex hormone binding globulin,target_identity,3
+CHEMBL1293266,Nucleotide-binding oligomerization domain-containing protein 2,SINGLE PROTEIN,"PUBCHEM_BIOASSAY: uHTS luminescence assay for the identification of compounds that inhibit NOD2. (Class of assay: confirmatory) [Related pubchem assays (depositor defined):AID1575, AID1578, AID1579, AID1848, AID1849, AID1852, AID2001, AID2260, AID2264, AID2334, AID2335, AID2337, AID2466, AID2475, AID2485, AID2503, AID2793, AID2798, AID2799]",target_identity,1
+CHEMBL5955,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,SINGLE PROTEIN,Inhibition of OGT (unknown origin) using UDP-GlcNAc as substrate measured after 2 hrs by UDP-Glo luminescence assay,target_identity,1

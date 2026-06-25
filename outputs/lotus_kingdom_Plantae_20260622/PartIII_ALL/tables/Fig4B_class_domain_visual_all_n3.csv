@@ -1,0 +1,74 @@
+class_np,target_domain_macro,n_compounds,n_records,median_z_potency,source_lineage,displayed_in_figure
+2-arylbenzofurans,Cell Signaling and Survival,22,35,0.16759333946454702,Rosids (Fabids),TRUE
+2-arylbenzofurans,General Assays and Safety,9,13,-0.134643064884269,Rosids (Fabids),TRUE
+2-arylbenzofurans,Infectious Diseases,5,15,-0.905635965623893,Rosids (Fabids),TRUE
+2-arylbenzofurans,Inflammation and Proteolysis,10,20,-0.05245392196430904,Rosids (Fabids),TRUE
+2-arylbenzofurans,Metabolic Enzymes,13,25,-0.175096025509577,Rosids (Fabids),TRUE
+2-arylbenzofurans,Neuroscience Targets,5,10,0.740070119672466,Rosids (Fabids),TRUE
+2-arylbenzofurans,Phenotypic: Cancer and Cells,24,41,0.47478845927748803,Rosids (Fabids),TRUE
+Aurones,Cell Signaling and Survival,4,5,0.2703392664649175,Rosids (Fabids),TRUE
+Aurones,Infectious Diseases,3,5,-0.240111565978456,Monocots (Commelinids),TRUE
+Aurones,Phenotypic: Cancer and Cells,4,9,0.14494221113398398,Rosids (Fabids),TRUE
+Chalcones,Cell Signaling and Survival,30,53,-0.389223297182624,Rosids (Fabids),TRUE
+Chalcones,Gene Regulation,3,4,-0.87988340289862,Rosids (Fabids),TRUE
+Chalcones,General Assays and Safety,28,31,-0.1272234943389006,Rosids (Fabids),TRUE
+Chalcones,Infectious Diseases,42,111,-0.10524949771715394,Rosids (Fabids),TRUE
+Chalcones,Inflammation and Proteolysis,24,39,-0.08951028583678064,Rosids (Fabids),TRUE
+Chalcones,Metabolic Enzymes,39,76,0.289418505774111,Rosids (Fabids),TRUE
+Chalcones,Neuroscience Targets,8,16,-1.033003758518615,Rosids (Fabids),TRUE
+Chalcones,Phenotypic: Cancer and Cells,84,242,-0.0041821742701489,Rosids (Fabids),TRUE
+Chalcones,Transporters and Ion Channels,9,15,-0.0516949903574766,Rosids (Fabids),TRUE
+Dihydroflavonols,General Assays and Safety,8,9,0.6278864661349359,Rosids (Fabids),TRUE
+Dihydroflavonols,Infectious Diseases,5,10,-0.11237185918634174,Asterids (Lamiids),TRUE
+Dihydroflavonols,Inflammation and Proteolysis,4,8,-0.8646058968359744,Rosids (Fabids),TRUE
+Dihydroflavonols,Metabolic Enzymes,4,9,-0.29502484963993614,Asterids (Basal),TRUE
+Dihydroflavonols,Neuroscience Targets,3,12,-0.6118423289952846,Asterids (Lamiids),TRUE
+Dihydroflavonols,Phenotypic: Cancer and Cells,3,3,-0.221090371221613,Rosids (Fabids),TRUE
+Flavan-3-ols,Cell Signaling and Survival,5,9,0.638235972821084,Rosids (Fabids),TRUE
+Flavan-3-ols,General Assays and Safety,8,10,0.022138707848650498,Asterids (Basal),TRUE
+Flavan-3-ols,Infectious Diseases,13,27,0.191447052457712,Asterids (Basal),TRUE
+Flavan-3-ols,Inflammation and Proteolysis,9,17,-0.166711043904429,Rosids (Fabids),TRUE
+Flavan-3-ols,Metabolic Enzymes,3,5,-0.707829443968206,Rosids (Fabids),TRUE
+Flavanones,Cell Signaling and Survival,22,34,-0.488654839441048,Rosids (Fabids),TRUE
+Flavanones,Gene Regulation,7,12,-5.70920084339712e-4,Rosids (Fabids),TRUE
+Flavanones,General Assays and Safety,27,31,-0.0419992900875442,Rosids (Fabids),TRUE
+Flavanones,Infectious Diseases,44,82,-0.12068679095156615,Rosids (Fabids),TRUE
+Flavanones,Inflammation and Proteolysis,19,30,0.2065913609329362,Rosids (Fabids),TRUE
+Flavanones,Metabolic Enzymes,34,66,-0.04275766422809212,Rosids (Fabids),TRUE
+Flavanones,Neuroscience Targets,17,32,0.06978884226266799,Rosids (Fabids),TRUE
+Flavanones,Phenotypic: Cancer and Cells,50,199,-0.23916605430090151,Rosids (Fabids),TRUE
+Flavanones,Transporters and Ion Channels,5,13,0.182043666978476,Rosids (Fabids),TRUE
+Flavans,Infectious Diseases,3,5,-0.3480012205875,Rosids (Malvids),TRUE
+Flavans,Metabolic Enzymes,3,3,1.16610790284473,Rosids (Fabids),TRUE
+Flavans,Phenotypic: Cancer and Cells,9,24,-0.98026906055174,Rosids (Malvids),TRUE
+Flavonolignans,General Assays and Safety,3,5,-1.26774769509038,Asterids (Lamiids),TRUE
+Flavonolignans,Phenotypic: Cancer and Cells,3,9,-0.709133814362408,Monocots (Commelinids),TRUE
+Isoflavanones,Cell Signaling and Survival,13,14,-0.32956437182757,Rosids (Fabids),TRUE
+Isoflavanones,General Assays and Safety,4,5,0.285817143808563,Rosids (Fabids),TRUE
+Isoflavanones,Infectious Diseases,8,19,-0.186166738673936,Rosids (Fabids),TRUE
+Isoflavanones,Metabolic Enzymes,5,7,1.96007865289582,Rosids (Fabids),TRUE
+Isoflavanones,Phenotypic: Cancer and Cells,19,43,-0.347620152776635,Rosids (Fabids),TRUE
+Isoflavones,Cell Signaling and Survival,21,36,0.0283891803027545,Rosids (Fabids),TRUE
+Isoflavones,Gene Regulation,7,12,-0.685650849315919,Rosids (Fabids),TRUE
+Isoflavones,General Assays and Safety,5,7,0.157541147936173,Rosids (Fabids),TRUE
+Isoflavones,Infectious Diseases,28,55,-0.18167133639855898,Rosids (Fabids),TRUE
+Isoflavones,Inflammation and Proteolysis,4,5,-0.3272886206851387,Rosids (Fabids),TRUE
+Isoflavones,Metabolic Enzymes,9,13,0.00155034554196608,Rosids (Fabids),TRUE
+Isoflavones,Phenotypic: Cancer and Cells,67,106,-0.166863321983746,Rosids (Fabids),TRUE
+Neoflavonoids,Infectious Diseases,4,5,-0.9413943209372331,Rosids (Fabids),TRUE
+Neoflavonoids,Metabolic Enzymes,3,4,-1.29385637550269,Caryophy_Santalales,TRUE
+Neoflavonoids,Phenotypic: Cancer and Cells,6,21,0.24621986237823895,Rosids (Fabids),TRUE
+Proanthocyanins,Cell Signaling and Survival,3,5,0.00187410236717433,Gymnosperms,TRUE
+Proanthocyanins,General Assays and Safety,3,3,-0.982689926485069,Rosids (Fabids),TRUE
+Proanthocyanins,Infectious Diseases,3,3,-0.455890875196541,Magnoliids,TRUE
+Pterocarpan,Cell Signaling and Survival,14,17,0.00850287185106965,Rosids (Fabids),TRUE
+Pterocarpan,General Assays and Safety,32,39,0.385587362820421,Rosids (Fabids),TRUE
+Pterocarpan,Infectious Diseases,24,64,0.6272119908034217,Rosids (Fabids),TRUE
+Pterocarpan,Inflammation and Proteolysis,4,6,-0.1142145284184278,Rosids (Fabids),TRUE
+Pterocarpan,Metabolic Enzymes,9,12,-0.103128985451541,Rosids (Fabids),TRUE
+Pterocarpan,Phenotypic: Cancer and Cells,30,83,-0.0719659858174808,Rosids (Fabids),TRUE
+Rotenoids,General Assays and Safety,5,5,1.14099044962449,Rosids (Fabids),TRUE
+Rotenoids,Inflammation and Proteolysis,3,3,-0.561978925210792,Caryophy_Santalales,TRUE
+Rotenoids,Neuroscience Targets,3,5,0.4502671486143195,Caryophy_Santalales,TRUE
+Rotenoids,Phenotypic: Cancer and Cells,12,22,0.976423632781267,Rosids (Fabids),TRUE
+Coumestan,General Assays and Safety,5,7,0.471104693402015,Rosids (Fabids),FALSE

@@ -1,0 +1,21 @@
+family,highlight_reason,n_compounds_structural,n_scaffolds,n_exclusive_scaffolds,exclusive_scaffold_share,fig3_effort_adjusted_z,opportunity_gap
+Ochnaceae,high adjusted scaffold richness; high exclusive scaffold fraction,70,37,19,0.5135135135135135,2.059171762976075,0.7857142857142857
+Paeoniaceae,high adjusted scaffold richness,10,7,0,0,1.7559764085259852,0.5
+Berberidaceae,high adjusted scaffold richness,12,8,0,0,1.725362859961504,0.5833333333333333
+Ranunculaceae,high adjusted scaffold richness,19,11,5,0.45454545454545453,1.6038969932864422,0.7894736842105263
+Convolvulaceae,high adjusted scaffold richness,39,19,6,0.3157894736842105,1.5354804849932204,0.6666666666666667
+Erythroxylaceae,high adjusted scaffold richness,20,11,0,0,1.5037917244332295,0.55
+Stachyuraceae,high adjusted scaffold richness,10,6,2,0.3333333333333333,1.402101757181116,0.7
+Lythraceae,high adjusted scaffold richness,35,16,0,0,1.3209594321442744,0.4285714285714286
+Violaceae,high bioprospecting opportunity,15,8,1,0.125,1.2993388815768903,0.8666666666666667
+Araliaceae,high bioprospecting opportunity,12,6,2,0.3333333333333333,1.0593486445933304,0.9166666666666666
+Blechnaceae,high exclusive scaffold fraction,10,5,3,0.6,0.9935834529360983,0.6
+Rosaceae,high sampling effort,299,66,13,0.19696969696969696,0.6052685483143596,0.8160535117056856
+Aristolochiaceae,high bioprospecting opportunity; high exclusive scaffold fraction,13,5,3,0.6,0.4987793490027415,1
+Fabaceae,high bioprospecting opportunity; high exclusive scaffold fraction; high sampling effort,5027,539,385,0.7142857142857143,0.3518096961896149,0.8848219614083946
+Moraceae,high exclusive scaffold fraction; high sampling effort,871,138,81,0.5869565217391305,0.3500240986500136,0.801377726750861
+Gesneriaceae,high bioprospecting opportunity,22,7,3,0.42857142857142855,0.24260772174207323,0.9545454545454546
+Thymelaeaceae,high bioprospecting opportunity; high exclusive scaffold fraction,87,20,12,0.6,0.047054708032603816,0.9310344827586207
+Asteraceae,high sampling effort,716,102,46,0.45098039215686275,-0.0427770865415137,0.8547486033519553
+Lamiaceae,high sampling effort,264,41,6,0.14634146341463414,-0.3778725247914835,0.8106060606060606
+Rutaceae,high sampling effort,316,46,16,0.34782608695652173,-0.44741158127558517,0.8734177215189873

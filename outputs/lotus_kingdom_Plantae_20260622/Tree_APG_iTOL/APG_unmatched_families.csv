@@ -1,0 +1,17 @@
+family,genus,species_binomial,n_occurrence_rows,n_compounds,n_references,representative_allowed,representative_exclusion_reason,representative_source,tree_species,representative_taxonomy_status,Order,Node.1,Node.2,Node.3,Node.4,apg_match,nodes_text,FinalClade,is_vascular,clade_assignment_source
+Acrobolbaceae,Acrobolbus,Acrobolbus renifolius,2,2,1,TRUE,,observed_binomial_species,Acrobolbus_renifolius,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Aulacomniaceae,Aulacomnium,Aulacomnium androgynum,6,6,1,TRUE,,observed_binomial_species,Aulacomnium_androgynum,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Bryaceae,Rosulabryum,Rosulabryum capillare,6,3,2,TRUE,,observed_binomial_species,Rosulabryum_capillare,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Cephalotaxaceae,Cephalotaxus,Cephalotaxus harringtonii,10,10,1,TRUE,,observed_binomial_species,Cephalotaxus_harringtonii,compatible,,,,,,FALSE,,Gymnosperms,TRUE,manual_family_override
+Cordiaceae,Cordia,Cordia goetzei,9,9,1,TRUE,,observed_binomial_species,Cordia_goetzei,compatible,,,,,,FALSE,,Asterids (Lamiids),TRUE,manual_family_override
+Corsiniaceae,Corsinia,Corsinia coriandrina,3,3,1,TRUE,,observed_binomial_species,Corsinia_coriandrina,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Dicranaceae,Dicranoloma,Dicranoloma robustum,4,4,1,TRUE,,observed_binomial_species,Dicranoloma_robustum,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Heliotropiaceae,Heliotropium,Heliotropium glutinosum,6,6,1,TRUE,,observed_binomial_species,Heliotropium_glutinosum,compatible,,,,,,FALSE,,Asterids (Lamiids),TRUE,manual_family_override
+Hypnaceae,Hypnum,Hypnum cupressiforme,18,18,2,TRUE,,observed_binomial_species,Hypnum_cupressiforme,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Lembophyllaceae,Pilotrichella,Pilotrichella flexilis,5,5,1,TRUE,,observed_binomial_species,Pilotrichella_flexilis,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Leucobryaceae,Campylopus,Campylopus clavatus,2,2,1,TRUE,,observed_binomial_species,Campylopus_clavatus,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Marchantiaceae,Marchantia,Marchantia polymorpha,2,2,1,TRUE,,observed_binomial_species,Marchantia_polymorpha,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Mniaceae,Mnium,Mnium hornum,9,9,1,TRUE,,observed_binomial_species,Mnium_hornum,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Namaceae,Eriodictyon,Eriodictyon californicum,12,10,4,TRUE,,observed_binomial_species,Eriodictyon_californicum,compatible,,,,,,FALSE,,Asterids (Lamiids),TRUE,manual_family_override
+Polytrichaceae,Polytrichum,Polytrichum commune,5,5,1,TRUE,,observed_binomial_species,Polytrichum_commune,compatible,,,,,,FALSE,,Bryophytes,FALSE,manual_family_override
+Viburnaceae,Viburnum,Viburnum lantanoides,7,7,1,TRUE,,observed_binomial_species,Viburnum_lantanoides,compatible,,,,,,FALSE,,Asterids (Campanulids),TRUE,manual_family_override

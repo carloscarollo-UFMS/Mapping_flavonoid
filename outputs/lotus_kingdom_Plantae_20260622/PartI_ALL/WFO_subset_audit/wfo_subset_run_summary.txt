@@ -1,0 +1,25 @@
+WFO × LOTUS SUBSET AUDIT
+============================================================
+Run date: 2026-06-24 10:18:10
+WFO file: G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026/data/wfo/classification.tsv
+Crosswalk file: G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026/outputs/lotus_kingdom_Plantae_20260622/PartI_ALL/wfo_taxonomy_crosswalk.csv
+WFO rows read: 1648360
+Distinct original names: 3980
+Distinct canonical keys: 3964
+Initial matching WFO rows: 5304
+Accepted IDs required: 4123
+Final subset rows: 5985
+
+Resolution status counts:
+canonical_conflict: 4
+canonical_consensus_multiple_ids: 1
+canonical_unique: 27
+exact_conflict: 336
+exact_consensus_multiple_ids: 37
+exact_unique: 3454
+no_match: 121
+
+Generated files:
+G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026/outputs/lotus_kingdom_Plantae_20260622/PartI_ALL/WFO_subset_audit/wfo_subset_relevant_to_lotus.csv
+G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026/outputs/lotus_kingdom_Plantae_20260622/PartI_ALL/WFO_subset_audit/wfo_subset_key_summary.csv
+G:/Meu Drive/ARTIGOS/2025/Maira_LOTUS/2026/outputs/lotus_kingdom_Plantae_20260622/PartI_ALL/WFO_subset_audit/wfo_original_name_candidate_summary.csv
